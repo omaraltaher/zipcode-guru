@@ -1,0 +1,240 @@
+#header {
+  position: absolute;
+  float: left;
+  width: 300px;
+  height: 80px;
+  left: 15px;
+  font-family: 18px Helvetica, sans-serif;
+}
+
+#banner {
+  color: rgb(104, 92, 88);
+  font-weight: bold;
+  font-size: 40px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",sans-serif;
+}
+
+.help_content {
+  color: rgb(104, 92, 88);
+  font-size: 18px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",sans-serif;
+}
+
+#help_show_hide{
+  color: rgb(104, 92, 88);
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",sans-serif;
+}
+
+#help_container{
+  position: absolute;
+  float: right;
+  width: 400px;
+  height: 500px;
+  top: 150px;
+  left: 520px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+  color: rgb(97, 98, 99);
+}
+
+#help_banner{
+  position: absolute;
+  float: right;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+  font-size: 30px;
+  color: rgb(97, 98, 99);
+}
+
+#help_intro{
+  position: absolute;
+  top: 40px;
+}
+
+#help_select_data{
+  position: absolute;
+  top: 130px;
+}
+
+#help_tableau{
+  position: absolute;
+  top: 190px;
+}
+
+.hidden{
+  display: none;
+}
+
+#tableau{
+	position: absolute;
+	float: left;
+	width: 500px;
+	height: 760px;
+	top: 190px;
+	left: 10px;
+	overflow: hidden;
+}
+
+#tableau iframe {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+}
+
+#d3Viz{
+	position: absolute;
+	float: right;
+	width: 400px;
+	height: 500px;
+	top: 150px;
+	left: 520px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+  color: rgb(97, 98, 99);
+}
+
+#d3Viz3{
+	position: absolute;
+	float: right;
+	width: 400px;
+	height: 1300px;
+	top: 150px;
+	left: 520px;
+	font: 10px sans-serif;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+  color: rgb(97, 98, 99);
+}
+
+#d3Viz2{
+  position: absolute;
+  float: right;
+  width: 400px;
+  height: 385px;
+  top: 170px;
+  left: 900px;
+  overflow-y: auto;
+  font-family:  "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  color: #2f2f2f;
+  background-color: #f9f7f1
+  border: 1px solid #AAAAAA;
+  border-radius: 2px;
+        }
+
+div.tooltip {
+position: absolute;
+text-align: center;
+width: 60px;
+height: 40px;
+padding: 2px;
+font: 12px sans-serif;
+background: lightsteelblue;
+border: 0px;
+border-radius: 8px;
+pointer-events: none;
+}
+
+.axis path,
+.axis line,
+.axis1 path,
+.axis1 line {
+  fill: none;
+  stroke: #E6E7E8;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path, .x.axis1 path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke-width: 1.5px;
+}
+
+.legend-box {
+  cursor: pointer;
+}
+
+#mouse-tracker {
+  stroke: #E6E7E8;
+  stroke-width: 1px;
+}
+
+.hover-line {
+  stroke: #E6E7E8;
+  fill: none;
+  stroke-width: 1px;
+  left: 10px;
+  shape-rendering: crispEdges;
+  opacity: 1e-6;
+}
+
+.hover-text {
+  stroke: none;
+  font-size: 30px;
+  font-weight: bold;
+  fill: #000000;
+}
+
+.tooltip {
+  font-weight: normal;
+}
+
+.brush .extent {
+  stroke: #FFF;
+  shape-rendering: crispEdges;
+}
+
+/*
+.button {
+  background-color: #00aeef;
+  border: none;
+  color: white;
+  padding: 5px 8px;
+  border: 1px solid #fff;
+  width: 200px;
+  top: 50%;
+  left: 50%;
+  border-radius: 3px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  cursor: pointer;
+  cursor: hand;
+}
+
+.select-style {
+  padding: 0;
+  margin: 0;
+  border: 1px solid #00aeef;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  width: 200px;
+  border-radius: 3px;
+  overflow: hidden;
+  background-color: #fff;
+  background: #fff url("http://www.scottgood.com/jsg/blog.nsf/images/arrowdown.gif") no-repeat 90% 50%;
+}
+
+.select-style select {
+  padding: 5px 8px;
+  width: 130%;
+  border: none;
+  box-shadow: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background-color: transparent;
+  background-image: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.select-style select:focus {
+  outline: none;
+}
+
+*/

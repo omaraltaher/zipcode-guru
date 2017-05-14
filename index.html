@@ -5,17 +5,68 @@
 	<head>
 
 		<title>The Zipcode Guru</title>
-		<script type="text/javascript" src="d3.js"></script>
-		<script src="https://public.tableau.com/javascripts/api/tableau-2.js"></script>
-		<script src="javascript.js"></script>
+
+  		<link rel="stylesheet" href="style5_with_help.css"> <!-- styles the div placements -->
+		<script src="d3.js"></script> 
+
+		<!-- load version 4 -->
+		<script type="text/javascript">
+		var d3_v4 = d3;
+		</script>
+
+		<!-- load version 3 for Prajakta -->
+		<script src="http://d3js.org/d3.v3.min.js"></script>
+		<script type="text/javascript">
+		var d3_v3 = d3;
+		</script>
+
+		<script src="https://public.tableau.com/javascripts/api/tableau-2.js"></script> <!-- calls taleau api -->
+    	<script src="tableau_v11.js"></script> <!-- links to the javascript for everything important -->
+
+    	<script src="help_text_v2.js"></script>
+
 	</head>
 
 
-	<body onload="initViz();">
-		<form name='tableau' id='tableau'>
-			<input type='button' name='test' value='click to filter (test)' onclick="filterSingleValue();" />
-    		<div id="vizContainer" style="width:800px; height:700px;"></div>
-    	</form>
+	<body onload="initViz();"> <!-- loads the tableau viz on body load, fastest way, don't change -->
+
+		<div id="header">
+			<p id="banner">Zipcode Guru</p>
+			<p id="help_show_hide" onclick="showHelp()">Click me to find out how to use this website.</p>
+		</div>
+
+		<div id="tableau">
+				<script src="https://public.tableau.com/javascripts/api/tableau-2.js"></script> <!-- calls taleau api -->
+<!-- tableau on the left, div created in javascript code --> </div>
+
+    	<div id="d3Viz"> <!-- d3 charts on the right -->
+<!-- 	    	<script src="d3graph.js"></script> --> <!-- calls the d3 javascript from external file -->
+		</div>
+
+        <div id="d3Viz2">
+        </div>
+
+       <div id="d3Viz3">
+       </div>
+
+      <div id="help_container" class="hidden">
+       	<span id="help_banner">Zipcode Guru Help!</span>
+       	<div id="help_intro" class="help_content">
+       		<p>Welcome to Zipcode Guru!</p>
+       		<p>Click on a region on the map to select a zipcode you want to learn more about.</p>
+       	</div>
+       	<div id="help_select_data" class="help_content">
+       		<p>Use the pull down menu to select a data series to visualize.</p>
+       	</div>
+       	<div id="help_tableau" class="help_content">
+       		<p>Hovering over the map will display navigation options for the map.</p>
+       		<p>The magnifying glass let's you search by city.</p>  
+       		<p>Plus and minus will zoom in and out. </p>
+       		<p>The home button will reset the view. </p>
+       	</div>
+       	
+       </div>
+
 	</body>
 
 

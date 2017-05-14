@@ -1,0 +1,8504 @@
+City,Date,Total
+Acton,1/15/1994,1
+Acton,9/14/2001,1
+Acton,12/30/2008,2
+Acton,8/16/2009,1
+Acton,9/5/2012,1
+Adelanto,8/1/1978,1
+Adelanto,1/5/1998,1
+Adelanto,2/16/1999,1
+Adelanto,5/5/2001,1
+Adelanto,11/8/2003,1
+Adelanto,7/20/2004,1
+Adelanto,7/28/2004,1
+Adelanto,4/5/2005,1
+Adelanto,1/17/2008,1
+Adelanto,7/16/2008,1
+Adelanto,3/31/2009,1
+Agoura Hills,11/1/2004,1
+Agoura Hills,2/9/2005,1
+Agoura Hills,3/14/2006,1
+Agoura Hills,9/11/2007,1
+Agoura Hills,6/22/2008,1
+Agoura Hills,10/5/2012,1
+Agua Dulce,7/4/2004,1
+Agua Dulce,12/22/2005,1
+Agua Dulce,6/3/2006,1
+Agua Dulce,7/28/2006,1
+Agua Dulce,3/29/2008,1
+Agua Dulce,5/14/2008,1
+Agua Dulce,4/25/2014,1
+Alameda,6/1/1979,1
+Alameda,4/10/1980,1
+Alameda,11/16/1999,1
+Alameda,10/5/2002,1
+Alameda,12/15/2003,1
+Alameda,10/6/2004,1
+Alameda,8/12/2007,1
+Alameda,7/11/2010,1
+Alameda,9/3/2010,1
+Alameda,5/8/2012,1
+Alameda,5/20/2012,1
+Alameda,6/3/2012,1
+Alameda,9/26/2013,1
+Alameda,1/27/2014,1
+Alhambra,11/17/2000,1
+Alhambra,10/4/2002,1
+Alpine,6/27/2013,1
+Alta,8/11/1987,1
+Alta,7/25/1997,1
+Alta Loma,12/24/2007,1
+Altadena,8/11/2003,1
+Altadena,8/31/2003,1
+Altadena,7/4/2005,1
+Altadena,4/1/2012,1
+Alturas,1/15/1997,1
+Alturas,9/1/1999,2
+Alturas,3/7/2005,2
+Alturas,8/29/2006,1
+Alturas,11/3/2010,1
+Amador City,4/29/2006,1
+Amador City,7/20/2007,1
+American Canyon,11/14/1995,1
+Anaheim,6/30/1963,1
+Anaheim,3/20/1972,1
+Anaheim,11/19/1988,2
+Anaheim,1/1/1995,1
+Anaheim,3/5/1995,1
+Anaheim,8/23/1995,1
+Anaheim,5/19/1999,1
+Anaheim,5/24/1999,1
+Anaheim,8/23/1999,1
+Anaheim,11/24/1999,1
+Anaheim,1/2/2000,1
+Anaheim,11/28/2001,1
+Anaheim,12/4/2001,1
+Anaheim,2/18/2002,1
+Anaheim,7/20/2002,1
+Anaheim,5/13/2003,1
+Anaheim,6/18/2003,1
+Anaheim,12/23/2003,1
+Anaheim,12/31/2003,1
+Anaheim,3/1/2004,1
+Anaheim,5/8/2004,1
+Anaheim,12/16/2004,1
+Anaheim,11/28/2006,1
+Anaheim,4/13/2007,1
+Anaheim,1/26/2008,2
+Anaheim,11/14/2008,1
+Anaheim,1/16/2009,1
+Anaheim,1/18/2009,1
+Anaheim,1/31/2009,1
+Anaheim,2/18/2009,1
+Anaheim,4/25/2009,1
+Anaheim,4/30/2009,1
+Anaheim,9/20/2009,1
+Anaheim,10/30/2009,1
+Anaheim,12/24/2009,1
+Anaheim,3/10/2010,1
+Anaheim,6/2/2010,1
+Anaheim,6/3/2010,1
+Anaheim,8/8/2010,1
+Anaheim,11/28/2010,1
+Anaheim,12/26/2010,1
+Anaheim,6/16/2011,1
+Anaheim,7/23/2011,1
+Anaheim,11/3/2011,1
+Anaheim,2/14/2012,1
+Anaheim,6/22/2012,1
+Anaheim,9/11/2012,1
+Anaheim,9/26/2012,1
+Anaheim,11/8/2012,1
+Anaheim,1/1/2013,1
+Anaheim,7/12/2013,1
+Anaheim,7/27/2013,1
+Anaheim,3/12/2014,1
+Anaheim,5/4/2014,1
+Anaheim Hills,1/27/1998,1
+Anaheim Hills,7/14/2001,1
+Anaheim Hills,8/24/2003,1
+Anaheim Hills,5/30/2005,1
+Anderson,1/1/2012,1
+Angels,6/30/1991,1
+Angels,6/15/1996,1
+Angels,9/10/2003,1
+Angels,6/15/2005,1
+Angels,7/11/2005,1
+Angels,9/28/2005,1
+Angels,6/18/2006,1
+Angels,7/1/2006,1
+Angels,2/28/2009,1
+Angels Camp,6/1/1995,1
+Angels Camp,11/16/2005,1
+Angelus Oaks,11/25/2006,1
+Angwin,10/8/2004,1
+Antelope,10/28/1995,1
+Antelope,11/20/2008,1
+Antelope,10/7/2010,1
+Antioch,5/29/1996,1
+Antioch,2/29/2000,1
+Antioch,4/13/2000,1
+Antioch,4/17/2000,1
+Antioch,7/24/2000,1
+Antioch,3/12/2001,1
+Antioch,4/7/2001,1
+Antioch,9/6/2001,1
+Antioch,1/18/2002,1
+Antioch,1/26/2002,1
+Antioch,1/29/2002,1
+Antioch,9/19/2002,1
+Antioch,2/26/2003,1
+Antioch,2/27/2003,1
+Antioch,1/30/2004,1
+Antioch,4/4/2004,1
+Antioch,8/8/2004,1
+Antioch,9/15/2004,1
+Antioch,11/24/2004,1
+Antioch,11/8/2005,1
+Antioch,6/17/2006,1
+Antioch,1/4/2007,1
+Antioch,3/27/2007,1
+Antioch,8/11/2007,1
+Antioch,12/31/2007,1
+Antioch,1/1/2008,1
+Antioch,6/1/2009,1
+Antioch,1/1/2010,1
+Antioch,7/9/2010,1
+Antioch,8/16/2010,1
+Antioch,9/18/2010,1
+Antioch,6/10/2011,1
+Antioch,1/11/2012,1
+Antioch,1/25/2012,3
+Antioch,4/2/2012,1
+Antioch,6/12/2012,1
+Antioch,10/9/2012,1
+Antioch,11/9/2012,1
+Antioch,2/15/2013,1
+Antioch,2/20/2013,1
+Antioch,3/28/2013,1
+Antioch,4/20/2013,1
+Antioch,11/8/2013,1
+Antioch,11/24/2013,1
+Antioch,12/2/2013,1
+Anza,7/30/1998,1
+Anza,3/16/2000,1
+Anza,7/16/2012,1
+Apline,8/14/2011,1
+Aptos,11/24/2000,1
+Aptos,5/18/2002,1
+Aptos,9/17/2009,1
+Aptos,8/18/2012,1
+Aptos,9/12/2012,1
+Aptos,10/5/2013,1
+Arbuckle,1/11/2005,1
+Arbuckle,1/12/2005,1
+Arbuckle,10/9/2006,1
+Arcadia,7/1/1988,1
+Arcadia,11/17/1996,1
+Arcadia,7/4/1999,1
+Arcadia,5/6/2001,1
+Arcadia,10/31/2001,1
+Arcadia,12/14/2001,1
+Arcadia,9/1/2004,1
+Arcadia,11/7/2008,1
+Arcadia,4/12/2009,1
+Arcadia,7/29/2010,1
+Arcadia,9/27/2011,1
+Arcadia,12/29/2011,1
+Arcata,3/1/1981,1
+Arcata,2/12/1995,1
+Arcata,11/15/2002,1
+Arcata,1/7/2003,1
+Arcata,6/15/2005,1
+Arcata,11/1/2006,1
+Arcata,4/10/2008,1
+Arcata,6/8/2008,1
+Arcata,3/4/2009,1
+Arcata,8/30/2010,1
+Arcata,5/19/2011,1
+Arcata,6/2/2011,1
+Arcata,7/4/2011,1
+Arcata,7/9/2011,1
+Arcata,8/3/2011,1
+Arcata,5/30/2012,1
+Arcata,7/26/2012,1
+Arcata,9/9/2012,1
+Arnold,1/22/1980,1
+Arroyo Grande,3/27/1998,1
+Arroyo Grande,11/16/2000,1
+Arroyo Grande,8/20/2001,1
+Arroyo Grande,8/21/2001,1
+Arroyo Grande,5/14/2002,1
+Arroyo Grande,11/2/2002,1
+Arroyo Grande,2/23/2007,1
+Arroyo Grande,3/12/2007,1
+Arroyo Grande,1/18/2010,1
+Arroyo Grande,12/11/2012,1
+Arroyo Grande,3/19/2014,1
+Ashland,6/20/1947,1
+Ashland,6/1/1965,1
+Ashland,4/15/1986,1
+Ashland,5/20/1992,1
+Ashland,1/3/1996,1
+Ashland,6/5/1997,1
+Ashland,7/15/1997,1
+Ashland,9/26/2001,1
+Ashland,3/19/2002,1
+Ashland,6/4/2002,1
+Ashland,6/13/2002,2
+Ashland,5/21/2003,1
+Ashland,5/23/2003,1
+Ashland,1/4/2004,1
+Ashland,1/25/2004,1
+Ashland,2/8/2004,1
+Ashland,3/4/2004,1
+Ashland,3/28/2004,1
+Ashland,3/29/2004,1
+Ashland,5/3/2004,1
+Ashland,9/3/2004,1
+Ashland,3/3/2005,1
+Ashland,4/14/2005,1
+Ashland,3/12/2007,1
+Ashland,3/17/2007,1
+Ashland,6/14/2007,1
+Ashland,1/24/2008,1
+Ashland,5/23/2008,1
+Ashland,8/29/2009,1
+Ashland,5/19/2011,1
+Ashland,9/18/2011,1
+Ashland,1/27/2012,1
+Ashland,6/8/2012,1
+Ashland,2/10/2013,1
+Ashland,5/22/2013,1
+Ashland,1/28/2014,1
+Atascadero,7/16/2000,1
+Atascadero,11/6/2002,1
+Atascadero,11/9/2002,1
+Atascadero,3/2/2005,1
+Atascadero,3/7/2007,1
+Atascadero,7/24/2007,1
+Atascadero,6/5/2008,1
+Atascadero,4/18/2012,1
+Atascadero,12/18/2012,1
+Atwater,11/9/2006,1
+Auberry,11/30/2003,1
+Auberry,11/30/2004,1
+Auberry,1/17/2012,1
+Auburn,6/30/1966,1
+Auburn,6/15/1977,1
+Auburn,8/11/1978,1
+Auburn,11/19/1998,1
+Auburn,9/1/1999,2
+Auburn,8/18/2000,1
+Auburn,10/30/2002,1
+Auburn,2/9/2006,1
+Auburn,2/15/2006,1
+Auburn,8/13/2007,1
+Auburn,9/12/2009,1
+Auburn,9/17/2009,1
+Auburn,8/14/2011,1
+Auburn,12/27/2011,1
+Auburn,12/31/2011,1
+Auburn,7/19/2012,1
+Auburn,7/26/2013,1
+Auburn,12/31/2013,1
+Auburn,1/4/2014,1
+Avalon,6/19/1992,1
+Avalon,7/23/2001,1
+Avalon,7/23/2002,3
+Avalon,11/19/2003,1
+Avalon,3/1/2004,1
+Avalon,6/22/2009,1
+Avalon,3/10/2011,1
+Avalon,12/11/2011,1
+Avery,6/1/1995,1
+Avery,7/20/2002,1
+Avery,7/20/2003,1
+Avery,8/27/2005,1
+Avila Beach,2/1/2002,1
+Avila Beach,12/2/2006,1
+Azusa,6/1/1954,1
+Azusa,2/27/1981,1
+Azusa,7/18/1992,1
+Azusa,5/12/1995,1
+Azusa,9/4/1998,1
+Azusa,9/19/2002,1
+Azusa,1/29/2003,1
+Azusa,4/1/2004,1
+Azusa,7/22/2006,1
+Azusa,8/12/2007,1
+Azusa,1/17/2008,1
+Azusa,2/2/2009,1
+Azusa,2/10/2009,1
+Azusa,3/6/2009,1
+Azusa,9/26/2009,1
+Azusa,9/27/2009,1
+Azusa,1/19/2010,1
+Azusa,12/31/2012,1
+Azusa,3/30/2013,1
+Azusa,11/28/2013,1
+Baker,7/1/1988,1
+Baker,9/6/1999,1
+Baker,7/1/2000,2
+Baker,12/25/2004,1
+Baker,6/24/2005,1
+Baker,12/15/2008,1
+Baker,4/24/2009,1
+Baker,6/23/2013,1
+Bakersfield,11/11/1961,1
+Bakersfield,2/13/1966,1
+Bakersfield,9/5/1966,1
+Bakersfield,6/15/1989,1
+Bakersfield,6/25/1992,1
+Bakersfield,8/15/1994,2
+Bakersfield,3/18/1995,1
+Bakersfield,4/3/1995,1
+Bakersfield,4/5/1995,1
+Bakersfield,7/28/1995,1
+Bakersfield,8/6/1995,2
+Bakersfield,8/7/1995,1
+Bakersfield,3/14/1996,1
+Bakersfield,4/15/1996,2
+Bakersfield,4/15/1997,1
+Bakersfield,6/1/1998,1
+Bakersfield,7/13/1998,1
+Bakersfield,9/6/1998,1
+Bakersfield,9/21/1998,1
+Bakersfield,12/16/1998,1
+Bakersfield,5/19/1999,1
+Bakersfield,5/17/2000,1
+Bakersfield,6/27/2000,1
+Bakersfield,7/15/2000,1
+Bakersfield,2/4/2001,1
+Bakersfield,3/3/2001,1
+Bakersfield,8/9/2001,1
+Bakersfield,3/29/2002,2
+Bakersfield,5/28/2002,1
+Bakersfield,8/18/2002,1
+Bakersfield,7/4/2003,1
+Bakersfield,7/5/2003,1
+Bakersfield,8/16/2003,1
+Bakersfield,9/21/2003,1
+Bakersfield,4/9/2004,1
+Bakersfield,4/28/2004,1
+Bakersfield,5/6/2004,1
+Bakersfield,5/13/2004,1
+Bakersfield,7/16/2004,1
+Bakersfield,7/17/2004,1
+Bakersfield,1/7/2005,1
+Bakersfield,6/15/2005,1
+Bakersfield,7/19/2005,1
+Bakersfield,8/15/2005,1
+Bakersfield,9/22/2005,1
+Bakersfield,9/27/2005,1
+Bakersfield,3/11/2006,1
+Bakersfield,5/29/2006,1
+Bakersfield,12/28/2006,1
+Bakersfield,4/14/2007,1
+Bakersfield,9/18/2007,1
+Bakersfield,4/11/2008,1
+Bakersfield,5/1/2008,1
+Bakersfield,6/4/2008,1
+Bakersfield,7/25/2008,1
+Bakersfield,8/10/2008,1
+Bakersfield,8/14/2008,1
+Bakersfield,8/24/2008,1
+Bakersfield,1/16/2009,1
+Bakersfield,3/21/2009,1
+Bakersfield,6/20/2009,1
+Bakersfield,1/1/2010,1
+Bakersfield,1/15/2010,1
+Bakersfield,3/27/2010,1
+Bakersfield,4/15/2010,1
+Bakersfield,8/20/2010,1
+Bakersfield,12/1/2010,1
+Bakersfield,2/10/2011,1
+Bakersfield,7/30/2011,1
+Bakersfield,8/24/2011,1
+Bakersfield,1/1/2012,1
+Bakersfield,2/5/2012,1
+Bakersfield,2/9/2012,1
+Bakersfield,3/26/2012,1
+Bakersfield,10/4/2012,1
+Bakersfield,11/9/2012,2
+Bakersfield,11/26/2012,1
+Bakersfield,12/16/2012,1
+Bakersfield,2/24/2013,1
+Bakersfield,3/5/2013,1
+Bakersfield,6/3/2013,1
+Bakersfield,8/14/2013,1
+Bakersfield,8/16/2013,1
+Bakersfield,11/24/2013,1
+Bakersfield,1/1/2014,1
+Bakersfield,2/19/2014,1
+Balboa Island,2/23/2014,1
+Baldwin Park,11/25/2009,1
+Barstow,8/10/1969,1
+Barstow,6/1/1992,1
+Barstow,11/6/1998,1
+Barstow,2/17/1999,1
+Barstow,8/20/1999,1
+Barstow,7/6/2000,1
+Barstow,5/28/2001,1
+Barstow,10/4/2001,1
+Barstow,6/13/2003,2
+Barstow,8/29/2003,1
+Barstow,1/15/2004,1
+Barstow,6/11/2005,1
+Barstow,7/17/2005,1
+Barstow,11/15/2005,1
+Barstow,11/20/2005,1
+Barstow,6/19/2008,1
+Barstow,6/16/2009,1
+Barstow,7/26/2010,1
+Barstow,8/5/2012,1
+Barstow,4/12/2014,1
+Bass Lake,8/15/1991,1
+Bass Lake,3/4/1999,1
+Bass Lake,9/17/2002,1
+Bass Lake,8/9/2007,1
+Beale Afb,11/6/2004,1
+Bell,2/12/2004,1
+Bell,5/29/2010,1
+Bell,7/31/2013,1
+Bell Canyon,8/30/2010,1
+Bell Gardens,11/16/2002,1
+Bella Vista,6/1/1993,1
+Bella Vista,9/8/1999,1
+Bella Vista,3/27/2000,1
+Bella Vista,5/12/2010,1
+Bella Vista,5/9/2011,1
+Bellflower,4/7/1996,1
+Bellflower,5/15/1996,1
+Bellflower,11/20/1999,1
+Bellflower,12/31/1999,1
+Bellflower,11/28/2001,1
+Bellflower,12/24/2001,1
+Bellflower,4/24/2002,1
+Bellflower,8/20/2003,1
+Bellflower,2/19/2004,1
+Bellflower,9/22/2004,1
+Bellflower,7/4/2006,1
+Bellflower,12/31/2006,1
+Bellflower,1/22/2007,1
+Bellflower,1/15/2008,1
+Bellflower,5/31/2008,1
+Bellflower,9/29/2008,1
+Bellflower,2/5/2012,1
+Bellflower,11/10/2012,1
+Belmont,11/3/1995,1
+Belmont,11/3/1998,1
+Benicia,2/20/1996,1
+Benicia,11/19/2000,1
+Benicia,2/15/2003,1
+Benicia,6/1/2004,1
+Benicia,11/22/2005,1
+Benicia,3/20/2006,1
+Benicia,2/25/2008,1
+Benicia,1/20/2009,1
+Benicia,3/9/2013,1
+Berkeley,6/30/1957,1
+Berkeley,4/1/1979,1
+Berkeley,6/7/1995,1
+Berkeley,9/5/1999,1
+Berkeley,9/15/2000,1
+Berkeley,5/7/2002,1
+Berkeley,5/19/2003,1
+Berkeley,11/23/2003,1
+Berkeley,9/20/2004,1
+Berkeley,10/8/2004,1
+Berkeley,2/2/2005,1
+Berkeley,7/28/2005,1
+Berkeley,2/27/2006,1
+Berkeley,3/5/2006,1
+Berkeley,3/16/2007,1
+Berkeley,5/23/2007,1
+Berkeley,7/28/2007,1
+Berkeley,3/26/2008,1
+Berkeley,1/18/2009,1
+Berkeley,1/21/2009,1
+Berkeley,2/1/2009,1
+Berkeley,2/7/2009,1
+Berkeley,3/25/2009,1
+Berkeley,6/15/2009,1
+Berkeley,11/25/2009,1
+Berkeley,12/17/2009,1
+Berkeley,5/2/2010,1
+Berkeley,11/2/2010,1
+Berkeley,12/14/2011,1
+Berkeley,5/5/2012,1
+Berkeley,11/14/2012,1
+Berkeley,12/31/2012,1
+Berkeley,1/1/2013,1
+Berkeley,7/3/2013,1
+Berkeley,1/2/2014,1
+Berry Creek,9/4/2005,1
+Berry Creek,7/15/2010,1
+Beverly Hills,11/18/2008,1
+Beverly Hills,10/28/2012,1
+Big Bear City,5/1/1978,1
+Big Bear City,7/17/1994,1
+Big Bear City,8/1/1999,1
+Big Bear Lake,4/14/1997,1
+Big Bear Lake,1/2/2000,1
+Big Bear Lake,5/26/2001,1
+Big Bear Lake,12/5/2001,1
+Big Bear Lake,2/4/2003,1
+Big Bear Lake,6/23/2007,1
+Big Bear Lake,9/22/2009,1
+Big Bear Lake,8/12/2012,1
+Big Bear Lake,6/23/2013,1
+Big Pine,2/1/1996,1
+Big Pine,8/10/1998,1
+Big Pine,7/10/2000,1
+Big Pine,7/4/2001,1
+Big River,5/15/2005,1
+Big River,5/3/2008,1
+Big River,2/4/2009,1
+Big Sur,8/18/1966,1
+Big Sur,3/25/1979,1
+Big Sur,8/1/1998,1
+Big Sur,9/12/2001,1
+Big Sur,7/10/2002,1
+Big Sur,9/7/2005,1
+Big Sur,5/11/2010,1
+Big Sur,8/7/2011,1
+Big Sur,10/28/2011,1
+Big Sur,1/4/2012,1
+Biola,8/15/1969,1
+Biola,7/21/2006,1
+Biola,6/14/2007,1
+Bishop,6/15/1968,1
+Bishop,4/1/1983,1
+Bishop,9/15/1993,1
+Bishop,4/25/1996,1
+Bishop,8/1/1996,1
+Bishop,8/21/1998,1
+Bishop,9/27/1998,1
+Bishop,2/27/1999,1
+Bishop,5/28/2005,1
+Bishop,8/19/2006,1
+Bishop,11/5/2007,1
+Bishop,4/20/2011,1
+Bishop,12/1/2011,1
+Bishop,3/23/2012,1
+Bishop,3/29/2012,1
+Bishop,5/21/2012,1
+Blackhawk,9/12/1998,1
+Blackhawk,9/20/2002,1
+Blackhawk,8/31/2004,1
+Blackhawk,7/10/2005,1
+Blackhawk,7/23/2006,1
+Blackhawk,9/18/2012,1
+Blackhawk,2/18/2014,1
+Bloomington,12/11/2000,1
+Bloomington,11/4/2006,1
+Bloomington,12/16/2011,1
+Blythe,6/1/1988,1
+Blythe,6/10/1996,1
+Blythe,1/3/1999,1
+Blythe,11/1/2000,1
+Blythe,3/23/2001,1
+Blythe,3/8/2007,1
+Blythe,9/8/2011,1
+Blythe,6/19/2013,1
+Blythe,7/10/2013,1
+Blythe,2/24/2014,1
+Blythe,4/16/2014,1
+Bodega Bay,7/15/1969,1
+Bodega Bay,9/17/2007,1
+Bodega Bay,6/20/2012,1
+Bodega Bay,1/3/2013,1
+Bonita,1/1/2010,1
+Bonny Doon,12/31/2000,1
+Bonny Doon,4/13/2001,1
+Bonny Doon,5/15/2002,1
+Bonny Doon,7/5/2002,1
+Bonny Doon,9/19/2002,1
+Bonny Doon,6/4/2007,1
+Bonny Doon,7/30/2009,1
+Bonny Doon,4/28/2010,1
+Bonny Doon,2/6/2011,1
+Bonny Doon,12/4/2011,1
+Bonny Doon,9/12/2013,1
+Bonsall,11/6/2013,1
+Bonsall,4/7/2014,1
+Boonville,10/28/2006,1
+Boonville,9/8/2012,1
+Borrego Springs,3/12/1995,1
+Borrego Springs,12/20/2002,1
+Borrego Springs,3/31/2005,1
+Borrego Springs,10/26/2005,1
+Borrego Springs,6/21/2007,1
+Borrego Springs,12/2/2008,1
+Borrego Springs,12/10/2011,1
+Borrego Springs,3/20/2013,1
+Borrego Springs,5/25/2013,1
+Borrego Springs,12/26/2013,1
+Borrego Springs,2/6/2014,1
+Boulder Creek,4/1/1971,1
+Boulder Creek,6/1/1974,1
+Boulder Creek,3/17/1995,1
+Boulder Creek,1/6/2007,1
+Boulder Creek,4/3/2011,1
+Bradley,10/29/2007,1
+Brawley,6/5/1991,1
+Brawley,5/23/1995,1
+Brawley,2/14/2001,1
+Brawley,12/31/2006,1
+Brawley,12/1/2008,1
+Brawley,2/26/2013,1
+Brea,7/15/1972,1
+Brea,7/15/1975,1
+Brea,3/15/1977,1
+Brea,8/15/1977,1
+Brea,5/13/2001,1
+Brea,9/16/2002,1
+Brea,6/20/2004,1
+Brea,2/20/2008,1
+Brea,3/1/2009,2
+Brea,2/11/2011,1
+Brea,9/4/2011,1
+Brea,12/11/2013,1
+Brentwood,3/12/1997,1
+Brentwood,11/20/1998,1
+Brentwood,7/17/2004,1
+Brentwood,1/1/2005,1
+Brentwood,1/2/2005,1
+Brentwood,9/22/2005,1
+Brentwood,4/16/2007,1
+Brentwood,4/24/2007,1
+Brentwood,4/7/2008,3
+Brentwood,8/13/2008,1
+Brentwood,1/9/2011,1
+Brentwood,8/21/2011,1
+Brentwood,2/3/2014,1
+Bridgeport,11/23/2005,1
+Bridgeville,1/12/2009,1
+Buena Park,6/23/1995,1
+Buena Park,7/15/1995,1
+Buena Park,8/15/1995,1
+Buena Park,12/31/2002,1
+Buena Park,10/8/2005,1
+Buena Park,10/28/2006,1
+Buena Park,11/10/2006,1
+Buena Park,11/26/2007,1
+Buena Park,1/18/2009,1
+Buena Park,9/30/2010,1
+Buena Park,5/15/2011,1
+Buena Park,8/11/2011,1
+Buena Park,11/3/2012,1
+Burbank,6/1/1970,1
+Burbank,4/15/1981,1
+Burbank,6/26/1994,1
+Burbank,1/28/1995,1
+Burbank,8/28/1995,1
+Burbank,11/5/1998,1
+Burbank,8/28/1999,1
+Burbank,5/26/2000,1
+Burbank,1/12/2001,1
+Burbank,2/16/2001,1
+Burbank,8/6/2001,1
+Burbank,12/12/2001,1
+Burbank,11/10/2002,1
+Burbank,1/1/2003,3
+Burbank,1/10/2003,1
+Burbank,1/12/2003,1
+Burbank,1/15/2003,1
+Burbank,1/17/2003,2
+Burbank,1/23/2003,1
+Burbank,1/25/2003,1
+Burbank,2/1/2003,1
+Burbank,2/6/2003,1
+Burbank,2/8/2003,1
+Burbank,2/14/2003,1
+Burbank,2/16/2003,1
+Burbank,2/17/2003,2
+Burbank,3/30/2003,1
+Burbank,7/26/2003,1
+Burbank,8/20/2003,1
+Burbank,8/26/2003,1
+Burbank,8/31/2003,1
+Burbank,11/17/2003,1
+Burbank,12/24/2003,1
+Burbank,2/5/2004,1
+Burbank,3/30/2004,1
+Burbank,8/15/2004,1
+Burbank,7/15/2005,1
+Burbank,9/12/2005,1
+Burbank,12/20/2005,1
+Burbank,8/26/2006,1
+Burbank,9/3/2006,1
+Burbank,11/15/2006,1
+Burbank,12/16/2006,1
+Burbank,1/13/2007,1
+Burbank,1/16/2007,1
+Burbank,2/4/2007,2
+Burbank,12/4/2007,1
+Burbank,12/25/2007,1
+Burbank,1/1/2008,3
+Burbank,1/19/2008,1
+Burbank,1/29/2008,1
+Burbank,2/11/2008,1
+Burbank,8/1/2008,1
+Burbank,1/27/2009,1
+Burbank,6/1/2009,1
+Burbank,7/11/2009,1
+Burbank,9/11/2009,1
+Burbank,12/31/2009,1
+Burbank,3/28/2010,1
+Burbank,6/14/2010,1
+Burbank,7/12/2010,1
+Burbank,8/14/2010,1
+Burbank,7/3/2011,1
+Burbank,9/29/2011,1
+Burbank,5/20/2012,1
+Burbank,8/19/2012,1
+Burbank,10/9/2012,1
+Burbank,11/3/2012,2
+Burbank,12/7/2012,1
+Burbank,1/9/2013,1
+Burbank,4/11/2013,1
+Burbank,9/16/2013,1
+Burbank,11/13/2013,1
+Burbank,12/21/2013,1
+Burbank,1/1/2014,1
+Burlingame,7/13/1998,1
+Burlingame,11/5/1999,1
+Burlingame,11/16/1999,1
+Burlingame,8/8/2005,1
+Burlingame,3/2/2008,1
+Burlingame,9/26/2009,1
+Burney,2/15/1954,1
+Burney,3/6/2002,1
+Burney,6/9/2003,1
+Burney,12/2/2005,1
+Butte Meadows,6/1/1977,1
+Butte Valley,9/20/2010,1
+Butte Valley,3/20/2013,1
+Buttonwillow,1/18/2000,1
+Buttonwillow,5/15/2000,1
+Cabazon,6/30/1989,1
+Cabazon,6/9/1996,1
+Cabazon,1/23/2002,1
+Cabazon,9/1/2005,1
+Cabazon,6/7/2010,1
+Cabazon,4/14/2011,1
+Cabazon,4/14/2014,1
+Calabasas,10/10/1989,1
+Calabasas,4/28/2003,1
+Calabasas,1/4/2005,1
+Calabasas,11/10/2005,1
+Calabasas,3/31/2006,1
+Calabasas,10/29/2007,1
+Calabasas,3/21/2008,1
+Calabasas,11/14/2008,1
+Calabasas,8/12/2010,1
+Calabasas,10/26/2013,1
+Calabasas,12/25/2013,1
+Calexico,9/9/2003,1
+Calexico,6/17/2008,1
+California City,9/19/2003,1
+California City,11/4/2003,1
+Calimesa,3/4/2008,1
+Calimesa,12/30/2012,1
+Calimesa,2/22/2013,1
+Calimesa,5/7/2014,1
+Calistoga,2/15/1991,1
+Calistoga,8/14/1992,1
+Calistoga,7/2/1997,1
+Calistoga,8/13/2000,1
+Calistoga,12/9/2001,1
+Calistoga,1/17/2003,1
+Calistoga,12/23/2006,1
+Calistoga,12/30/2008,1
+Calistoga,12/24/2011,1
+Calpella,3/2/2002,1
+Calpella,2/13/2013,1
+Camarillo,12/10/1996,1
+Camarillo,6/30/1997,1
+Camarillo,10/9/1997,1
+Camarillo,1/6/1998,1
+Camarillo,11/25/2000,1
+Camarillo,5/19/2002,1
+Camarillo,5/21/2002,1
+Camarillo,8/2/2002,1
+Camarillo,8/29/2002,1
+Camarillo,6/12/2003,1
+Camarillo,12/9/2003,1
+Camarillo,8/3/2004,1
+Camarillo,10/9/2005,1
+Camarillo,11/15/2005,1
+Camarillo,2/13/2006,1
+Camarillo,3/11/2006,1
+Camarillo,6/30/2006,1
+Camarillo,11/13/2009,1
+Camarillo,6/7/2012,1
+Camarillo,6/9/2012,1
+Camarillo,7/28/2012,1
+Cambria,7/10/2007,1
+Cambria,9/17/2010,1
+Cambria,2/16/2014,1
+Cameron Park,10/29/2006,1
+Camp Pendleton,3/21/1970,1
+Camp Pendleton,6/10/1981,1
+Camp Pendleton,6/1/1993,1
+Camp Pendleton,6/10/2002,1
+Camp Pendleton,12/8/2006,2
+Camp Pendleton,3/6/2011,1
+Campbell,9/5/1957,1
+Campbell,6/15/1959,1
+Campbell,7/1/1972,1
+Campbell,8/1/1974,1
+Campbell,3/1/1978,1
+Campbell,3/1/1981,1
+Campbell,2/15/1986,1
+Campbell,4/15/1996,1
+Campbell,11/3/2003,1
+Campbell,11/20/2003,1
+Campbell,11/21/2004,1
+Campbell,2/16/2006,1
+Campbell,5/12/2006,1
+Campbell,5/23/2006,1
+Campbell,8/16/2006,1
+Campbell,2/12/2008,1
+Campbell,4/19/2009,1
+Campbell,12/19/2009,1
+Campbell,5/23/2010,1
+Campbell,12/15/2010,1
+Campbell,8/6/2011,1
+Campbell,7/7/2012,1
+Campbell,12/28/2013,1
+Campbell,1/15/2014,1
+Campbell,1/24/2014,1
+Campbell,4/11/2014,1
+Camptonville,6/23/1997,1
+Canoga Park,9/15/1966,1
+Canoga Park,6/15/1968,1
+Canoga Park,3/31/1980,1
+Canoga Park,9/30/2000,1
+Canoga Park,6/23/2002,1
+Canoga Park,7/10/2004,1
+Canoga Park,2/25/2006,1
+Canoga Park,8/18/2007,1
+Canoga Park,3/2/2008,1
+Canoga Park,6/1/2008,1
+Canoga Park,1/1/2009,1
+Canoga Park,1/10/2009,1
+Canoga Park,11/24/2009,1
+Canoga Park,3/8/2011,1
+Canoga Park,3/16/2011,1
+Canoga Park,9/22/2012,1
+Canoga Park,1/6/2013,1
+Canyon Lake,11/12/2008,1
+Canyon Lake,11/10/2011,1
+Canyon Lake,12/12/2013,1
+Capistrano Beach,9/26/2000,1
+Capistrano Beach,9/20/2008,1
+Capistrano Beach,11/5/2011,1
+Capitola,6/1/1945,1
+Capitola,4/15/1963,1
+Capitola,8/5/2002,1
+Capitola,4/14/2007,1
+Cardiff,4/8/1999,1
+Cardiff,4/20/2003,1
+Cardiff,2/27/2008,1
+Cardiff,4/20/2013,1
+Carlsbad,3/20/1975,1
+Carlsbad,8/1/1987,1
+Carlsbad,9/1/1997,1
+Carlsbad,11/18/1999,1
+Carlsbad,9/21/2002,1
+Carlsbad,3/26/2003,1
+Carlsbad,3/7/2004,1
+Carlsbad,5/29/2004,1
+Carlsbad,8/25/2004,1
+Carlsbad,1/13/2005,1
+Carlsbad,10/28/2005,1
+Carlsbad,1/4/2006,1
+Carlsbad,12/1/2006,1
+Carlsbad,12/29/2007,1
+Carlsbad,2/8/2008,1
+Carlsbad,2/12/2008,1
+Carlsbad,2/15/2008,1
+Carlsbad,2/17/2008,1
+Carlsbad,3/13/2008,1
+Carlsbad,11/16/2008,1
+Carlsbad,2/2/2009,1
+Carlsbad,6/27/2009,1
+Carlsbad,12/11/2009,1
+Carlsbad,12/20/2009,1
+Carlsbad,1/15/2010,1
+Carlsbad,6/21/2010,1
+Carlsbad,6/26/2010,1
+Carlsbad,9/1/2010,1
+Carlsbad,2/12/2011,1
+Carlsbad,8/31/2012,1
+Carlsbad,11/18/2012,1
+Carlsbad,3/21/2013,1
+Carlsbad,7/6/2013,1
+Carlsbad,1/19/2014,1
+Carmel By The Sea,2/24/2007,1
+Carmel By The Sea,11/19/2009,1
+Carmel By The Sea,3/14/2010,1
+Carmel By The Sea,12/31/2010,1
+Carmel By The Sea,3/10/2011,1
+Carmel By The Sea,10/28/2012,1
+Carmel Valley,3/15/2007,1
+Carmichael,7/14/2003,1
+Carmichael,7/11/2005,1
+Carmichael,5/12/2006,1
+Carmichael,11/21/2007,1
+Carmichael,11/23/2008,1
+Carmichael,8/25/2009,2
+Carmichael,8/13/2011,1
+Carmichael,2/28/2013,1
+Carmichael,9/22/2013,1
+Carmichael,11/29/2013,1
+Carpinteria,12/15/1994,1
+Carpinteria,10/30/1999,1
+Carson,7/1/1978,1
+Carson,11/1/1997,1
+Carson,3/31/1999,1
+Carson,12/28/2000,1
+Carson,7/18/2001,1
+Carson,10/4/2002,1
+Carson,1/29/2005,1
+Carson,3/25/2006,1
+Carson,9/7/2006,1
+Carson,10/29/2008,1
+Carson,11/27/2008,1
+Carson,4/6/2009,1
+Carson,7/1/2010,1
+Carson,8/2/2011,1
+Carson,1/13/2014,1
+Carson,3/8/2014,1
+Cassel,5/15/1980,1
+Cassel,6/27/2010,1
+Castaic,9/18/1998,1
+Castaic,9/23/1998,1
+Castaic,6/14/2008,1
+Castaic,7/25/2008,1
+Castaic,7/24/2013,1
+Castro Valley,6/1/1979,1
+Castro Valley,1/1/1987,1
+Castro Valley,2/11/1999,1
+Castro Valley,12/17/2003,1
+Castro Valley,1/20/2004,1
+Castro Valley,5/15/2004,1
+Castro Valley,1/4/2005,1
+Castro Valley,1/8/2005,1
+Castro Valley,3/21/2005,1
+Castro Valley,4/12/2007,1
+Castro Valley,6/16/2007,1
+Castro Valley,2/22/2008,1
+Castro Valley,10/5/2008,1
+Castro Valley,12/23/2010,1
+Castro Valley,8/31/2011,1
+Castro Valley,10/31/2011,1
+Castro Valley,12/12/2012,1
+Castroville,11/11/2009,1
+Castroville,2/22/2011,1
+Castroville,9/23/2013,1
+Cathedral City,8/15/1994,1
+Cathedral City,6/15/1995,1
+Cathedral City,3/17/1997,1
+Cathedral City,9/3/2002,1
+Cathedral City,2/11/2004,1
+Cathedral City,3/23/2006,1
+Cathedral City,10/9/2006,1
+Cathedral City,11/13/2007,1
+Cathedral City,9/19/2008,1
+Cathedral City,7/13/2009,1
+Cathedral City,2/23/2011,1
+Cathedral City,6/7/2011,1
+Cathedral City,9/13/2011,1
+Cathedral City,2/7/2012,1
+Cathedral City,6/25/2012,1
+Cathedral City,8/12/2012,1
+Cathedral City,6/10/2013,1
+Cathedral City,8/1/2013,1
+Cayucos,12/30/2010,1
+Cayucos,3/19/2012,1
+Cayucos,6/9/2013,1
+Cayucos,8/3/2013,1
+Ceres,8/15/1988,1
+Ceres,12/31/1999,2
+Ceres,7/8/2000,1
+Ceres,2/19/2002,1
+Ceres,3/5/2004,1
+Ceres,1/12/2010,1
+Ceres,7/11/2010,1
+Ceres,1/18/2012,1
+Ceres,8/16/2013,1
+Cerritos,11/29/1999,1
+Cerritos,6/10/2001,1
+Cerritos,2/7/2004,1
+Cerritos,8/26/2008,1
+Cerritos,3/25/2009,1
+Cerritos,8/29/2009,1
+Cerritos,3/9/2010,1
+Charter Oak,1/31/2001,1
+Charter Oak,6/21/2001,1
+Charter Oak,8/5/2001,1
+Charter Oak,3/31/2002,1
+Charter Oak,3/9/2007,1
+Charter Oak,3/10/2007,1
+Charter Oak,3/2/2012,1
+Chester,6/30/1966,1
+Chester,8/1/1974,1
+Chester,1/15/2001,1
+Chester,4/3/2001,2
+Chester,1/25/2003,1
+Chester,10/26/2009,1
+Chester,11/8/2009,1
+Chester,4/8/2011,1
+Chico,9/15/1974,1
+Chico,7/1/1979,2
+Chico,7/15/1990,1
+Chico,2/25/1993,1
+Chico,9/9/1994,1
+Chico,5/25/1996,1
+Chico,11/17/1998,1
+Chico,1/8/1999,1
+Chico,7/12/1999,1
+Chico,9/1/1999,2
+Chico,9/24/1999,1
+Chico,6/29/2000,1
+Chico,11/18/2001,1
+Chico,2/16/2003,5
+Chico,7/4/2003,1
+Chico,6/30/2004,1
+Chico,12/9/2004,1
+Chico,1/12/2005,1
+Chico,6/1/2005,1
+Chico,11/3/2005,1
+Chico,2/21/2007,1
+Chico,3/20/2007,1
+Chico,4/20/2007,1
+Chico,7/12/2007,1
+Chico,8/19/2007,1
+Chico,10/30/2007,1
+Chico,12/11/2007,1
+Chico,3/1/2008,1
+Chico,12/23/2009,1
+Chico,7/28/2010,1
+Chico,3/30/2011,1
+Chico,5/22/2012,1
+Chico,7/23/2012,1
+Chico,1/2/2013,1
+Chico,2/22/2014,1
+Chico,4/18/2014,3
+Chilcoot,12/14/2003,1
+Chino,9/25/1992,1
+Chino,2/10/1999,1
+Chino,8/5/2001,1
+Chino,8/28/2002,1
+Chino,11/10/2003,1
+Chino,3/18/2007,1
+Chino,11/26/2007,1
+Chino,5/13/2008,1
+Chino,12/16/2008,1
+Chino,5/20/2010,1
+Chino,9/9/2010,1
+Chino,9/26/2010,1
+Chino,1/29/2011,1
+Chino,5/3/2011,1
+Chino,6/2/2011,1
+Chino,7/4/2011,1
+Chino,4/26/2012,1
+Chino,7/28/2012,2
+Chino,8/7/2012,1
+Chino,2/7/2014,1
+Chowchilla,6/24/1956,1
+Chowchilla,1/8/1999,1
+Chowchilla,9/19/2000,1
+Chowchilla,9/22/2006,1
+Chowchilla,5/4/2007,1
+Chula Vista,8/20/1967,1
+Chula Vista,1/21/1981,1
+Chula Vista,7/1/1994,1
+Chula Vista,7/25/1995,1
+Chula Vista,2/2/1999,1
+Chula Vista,7/21/2000,1
+Chula Vista,8/3/2002,1
+Chula Vista,1/4/2003,1
+Chula Vista,1/7/2003,1
+Chula Vista,8/18/2004,1
+Chula Vista,9/17/2006,1
+Chula Vista,6/15/2008,1
+Chula Vista,7/4/2008,1
+Chula Vista,8/7/2008,1
+Chula Vista,8/8/2008,1
+Chula Vista,11/19/2008,1
+Chula Vista,12/20/2009,1
+Chula Vista,1/5/2010,1
+Chula Vista,8/29/2011,1
+Chula Vista,9/9/2011,2
+Chula Vista,11/25/2011,1
+Chula Vista,7/28/2012,1
+Chula Vista,5/1/2014,1
+Citrus Heights,5/1/1964,1
+Citrus Heights,6/1/1969,1
+Citrus Heights,6/15/1973,1
+Citrus Heights,8/15/1983,1
+Citrus Heights,11/1/1983,1
+Citrus Heights,5/8/1997,1
+Citrus Heights,1/7/2000,1
+Citrus Heights,3/11/2000,2
+Citrus Heights,7/7/2000,1
+Citrus Heights,3/18/2001,1
+Citrus Heights,12/26/2003,1
+Citrus Heights,4/1/2004,1
+Citrus Heights,5/29/2004,1
+Citrus Heights,1/29/2005,1
+Citrus Heights,10/4/2005,1
+Citrus Heights,11/3/2005,1
+Citrus Heights,1/13/2006,1
+Citrus Heights,1/1/2008,1
+Citrus Heights,6/3/2008,1
+Citrus Heights,6/5/2008,1
+Citrus Heights,8/8/2008,1
+Citrus Heights,11/20/2008,1
+Citrus Heights,2/24/2009,1
+Citrus Heights,1/19/2011,1
+Citrus Heights,6/24/2011,1
+Citrus Heights,3/6/2012,1
+Citrus Heights,3/7/2012,1
+Citrus Heights,2/2/2013,1
+Citrus Heights,3/7/2013,1
+Citrus Heights,3/23/2013,1
+Citrus Heights,6/1/2013,1
+Citrus Heights,6/22/2013,1
+Citrus Heights,2/13/2014,1
+Citrus Heights,3/15/2014,2
+Claremont,7/15/1960,1
+Claremont,2/23/1999,1
+Claremont,3/29/1999,1
+Claremont,7/18/1999,1
+Claremont,9/13/1999,1
+Claremont,1/2/2000,1
+Claremont,6/23/2002,1
+Claremont,9/12/2003,1
+Claremont,3/8/2004,1
+Claremont,5/30/2004,1
+Claremont,6/16/2005,1
+Claremont,7/9/2005,1
+Claremont,8/14/2005,1
+Claremont,9/10/2006,1
+Claremont,10/9/2007,1
+Claremont,3/10/2009,1
+Claremont,6/3/2009,1
+Claremont,4/22/2010,1
+Claremont,5/26/2010,1
+Clay,5/15/2008,1
+Clayton,7/28/2010,1
+Clearlake,9/18/2013,1
+Clearlake,11/4/2013,1
+Clearlake Riviera,9/24/1999,1
+Clearlake Riviera,4/15/2001,1
+Clearlake Riviera,5/15/2001,1
+Clearlake Riviera,9/9/2009,1
+Cleone,1/6/1978,1
+Cleone,3/6/1995,1
+Cleone,9/20/2004,1
+Cleone,2/12/2010,1
+Cleone,3/3/2011,1
+Cleone,4/21/2011,1
+Cleone,3/31/2013,1
+Cloverdale,6/15/1983,1
+Cloverdale,8/15/1993,1
+Cloverdale,5/10/2001,1
+Cloverdale,7/6/2002,1
+Cloverdale,12/23/2002,1
+Cloverdale,2/12/2008,1
+Cloverdale,6/20/2008,1
+Cloverdale,5/5/2009,1
+Cloverdale,8/13/2012,1
+Cloverdale,6/1/2013,1
+Clovis,6/2/1968,1
+Clovis,6/2/1982,1
+Clovis,12/1/1985,1
+Clovis,3/15/1994,1
+Clovis,7/9/1994,1
+Clovis,4/19/1995,1
+Clovis,1/1/2000,1
+Clovis,5/29/2000,1
+Clovis,6/16/2004,1
+Clovis,4/1/2005,1
+Clovis,4/2/2005,1
+Clovis,5/2/2005,2
+Clovis,7/6/2005,1
+Clovis,10/9/2005,1
+Clovis,11/4/2005,1
+Clovis,6/6/2007,1
+Clovis,8/29/2007,1
+Clovis,12/26/2007,1
+Clovis,6/30/2008,1
+Clovis,11/27/2008,1
+Clovis,4/1/2009,1
+Clovis,8/5/2009,1
+Clovis,8/6/2009,1
+Clovis,8/26/2009,1
+Clovis,2/1/2010,1
+Clovis,7/2/2010,1
+Clovis,7/29/2010,1
+Clovis,2/12/2011,1
+Clovis,10/31/2011,1
+Clovis,5/8/2012,1
+Clovis,8/20/2012,1
+Clovis,5/16/2013,1
+Clovis,8/4/2013,1
+Clovis,4/10/2014,1
+Cn,9/22/1974,1
+Cn,6/1/1981,1
+Cn,2/1/1982,1
+Cn,6/14/1982,1
+Cn,4/15/1986,1
+Cn,6/15/1988,1
+Cn,8/1/1988,1
+Cn,6/1/1990,1
+Cn,9/24/1998,1
+Cn,4/27/2001,1
+Cn,1/31/2002,1
+Cn,8/1/2002,1
+Cn,3/10/2003,1
+Cn,6/19/2004,1
+Cn,1/3/2005,1
+Cn,2/25/2006,1
+Cn,5/18/2006,1
+Cn,7/4/2006,1
+Cn,7/8/2007,1
+Cn,4/16/2008,1
+Cn,12/28/2012,1
+Coachella,9/21/1998,1
+Coachella,6/19/2009,1
+Coachella,4/18/2012,1
+Coalinga,9/12/1998,1
+Coalinga,7/23/1999,1
+Coalinga,7/27/2001,1
+Coalinga,8/15/2002,1
+Coalinga,8/16/2002,1
+Coalinga,7/9/2003,1
+Coalinga,7/12/2004,1
+Coalinga,7/31/2004,1
+Coalinga,8/6/2005,1
+Coalinga,8/27/2005,2
+Coalinga,7/17/2006,1
+Coalinga,7/26/2006,1
+Coalinga,7/19/2007,1
+Coalinga,9/16/2007,1
+Coalinga,4/24/2008,1
+Coalinga,7/18/2010,1
+Coalinga,1/3/2013,1
+Cobb,6/19/2000,1
+Cobb,7/22/2001,1
+Cobb,7/6/2002,1
+Cobb,4/4/2007,1
+Colfax,11/8/1977,1
+Collierville,9/25/1998,1
+Collierville,7/25/2002,1
+Collierville,7/4/2004,1
+Collierville,7/17/2004,1
+Collierville,4/30/2009,1
+Colma,3/11/1999,1
+Colma,6/26/2003,1
+Colma,6/9/2005,1
+Colma,3/12/2006,1
+Colma,7/5/2008,1
+Colma,9/23/2008,1
+Colma,6/21/2009,1
+Colma,7/9/2009,1
+Colma,5/4/2012,1
+Colma,12/6/2013,1
+Coloma,6/15/1968,1
+Coloma,3/7/2014,1
+Colton,11/3/1995,1
+Colton,12/1/2001,1
+Colton,7/2/2004,1
+Colton,4/18/2010,1
+Colton,2/1/2012,1
+Colton,3/15/2013,1
+Columbia,5/29/1995,1
+Comptche,5/8/2011,1
+Compton,8/1/1963,1
+Compton,11/28/2001,1
+Compton,8/31/2002,1
+Compton,12/30/2002,1
+Compton,10/30/2003,1
+Compton,1/15/2008,1
+Compton,9/21/2009,1
+Compton,9/12/2012,1
+Compton,12/26/2013,1
+Concord,7/25/1965,1
+Concord,7/21/1985,1
+Concord,6/1/1996,1
+Concord,12/3/2000,1
+Concord,12/20/2000,1
+Concord,8/20/2001,1
+Concord,6/6/2002,1
+Concord,8/12/2002,1
+Concord,4/4/2003,2
+Concord,10/4/2003,1
+Concord,3/13/2004,1
+Concord,7/18/2005,2
+Concord,8/16/2005,1
+Concord,11/3/2005,1
+Concord,11/13/2008,1
+Concord,1/1/2009,1
+Concord,1/4/2009,1
+Concord,8/25/2009,1
+Concord,9/14/2010,1
+Concord,7/29/2011,1
+Concord,1/23/2014,1
+Contra Costa Centre,4/16/1996,1
+Contra Costa Centre,9/26/1998,1
+Contra Costa Centre,9/19/2002,1
+Contra Costa Centre,9/14/2008,1
+Contra Costa Centre,8/23/2013,1
+Corcoran,5/11/1999,1
+Corona,8/14/1997,1
+Corona,7/21/2000,1
+Corona,6/15/2002,1
+Corona,7/10/2002,1
+Corona,4/10/2003,1
+Corona,4/11/2003,1
+Corona,11/16/2003,1
+Corona,8/22/2005,1
+Corona,9/22/2005,1
+Corona,7/4/2006,1
+Corona,1/27/2007,1
+Corona,3/18/2007,1
+Corona,5/6/2007,1
+Corona,5/27/2007,2
+Corona,7/28/2007,1
+Corona,9/24/2007,1
+Corona,11/3/2007,1
+Corona,11/23/2007,1
+Corona,1/27/2008,1
+Corona,2/10/2008,1
+Corona,6/15/2008,1
+Corona,1/26/2009,1
+Corona,2/21/2009,1
+Corona,7/13/2009,1
+Corona,7/25/2009,1
+Corona,8/25/2009,1
+Corona,9/12/2009,1
+Corona,9/26/2009,1
+Corona,1/16/2010,2
+Corona,4/23/2010,1
+Corona,12/9/2010,1
+Corona,4/20/2011,1
+Corona,1/11/2012,1
+Corona,4/8/2012,1
+Corona,8/19/2012,1
+Corona,3/11/2013,1
+Corona,3/31/2013,1
+Corona,1/1/2014,2
+Corona,1/5/2014,1
+Corona Del Mar,5/10/2007,1
+Corona Del Mar,11/4/2007,2
+Corona Del Mar,5/3/2008,1
+Corona Del Mar,11/6/2010,1
+Coronado,6/10/1982,1
+Coronado,6/12/1985,1
+Coronado,9/10/2002,1
+Coronado,12/18/2004,1
+Coronado,9/6/2005,1
+Corte Madera,5/15/1967,1
+Corte Madera,9/15/2003,1
+Corte Madera,6/28/2009,1
+Costa Mesa,4/1/1980,1
+Costa Mesa,4/9/1998,1
+Costa Mesa,12/6/1999,1
+Costa Mesa,5/6/2000,1
+Costa Mesa,11/1/2000,1
+Costa Mesa,8/5/2001,2
+Costa Mesa,4/26/2003,1
+Costa Mesa,9/14/2003,1
+Costa Mesa,4/15/2004,1
+Costa Mesa,11/4/2004,1
+Costa Mesa,2/23/2006,1
+Costa Mesa,4/6/2007,1
+Costa Mesa,7/21/2007,1
+Costa Mesa,9/21/2007,1
+Costa Mesa,4/13/2008,1
+Costa Mesa,6/28/2008,1
+Costa Mesa,12/9/2010,1
+Costa Mesa,9/15/2011,1
+Costa Mesa,6/27/2012,1
+Costa Mesa,9/1/2013,1
+Coto De Caza,11/19/2007,1
+Cottonwood,6/30/1999,1
+Cottonwood,8/25/2001,1
+Cottonwood,11/13/2005,1
+Cottonwood,4/5/2006,1
+Covelo,5/10/1976,1
+Covina,8/17/1955,1
+Covina,10/9/1955,1
+Covina,5/15/1964,1
+Covina,12/14/1996,1
+Covina,3/3/1999,1
+Covina,1/23/2000,1
+Covina,1/27/2000,1
+Covina,5/12/2000,1
+Covina,7/7/2000,2
+Covina,8/11/2000,1
+Covina,8/18/2000,1
+Covina,9/3/2000,1
+Covina,5/1/2001,1
+Covina,2/11/2002,1
+Covina,7/5/2003,1
+Covina,11/10/2003,1
+Covina,2/2/2005,1
+Covina,7/5/2005,1
+Covina,5/10/2007,1
+Covina,6/1/2007,1
+Covina,2/9/2008,1
+Covina,4/1/2008,1
+Covina,12/13/2009,1
+Covina,12/31/2009,1
+Covina,4/24/2010,1
+Covina,9/2/2010,1
+Covina,9/15/2010,1
+Covina,11/13/2010,1
+Covina,12/27/2010,1
+Covina,2/28/2011,1
+Covina,4/5/2011,1
+Covina,4/12/2012,1
+Covina,6/19/2012,1
+Covina,7/4/2012,1
+Covina,6/28/2013,1
+Covina,12/11/2013,1
+Covina,2/1/2014,1
+Crescent City,9/15/1971,1
+Crescent City,11/1/1972,1
+Crescent City,6/10/1995,1
+Crescent City,8/15/1995,1
+Crescent City,1/1/1996,1
+Crescent City,2/9/1998,1
+Crescent City,9/3/1998,1
+Crescent City,1/18/2000,1
+Crescent City,1/26/2001,1
+Crescent City,9/21/2003,1
+Crescent City,6/28/2006,1
+Crescent City,1/2/2011,1
+Crescent City,4/29/2014,1
+Crescent City,5/3/2014,1
+Crestline,6/30/1962,1
+Crestline,2/1/1979,1
+Crestline,1/5/1998,1
+Crestline,8/15/1998,1
+Crestline,7/16/1999,1
+Crestline,6/30/2001,4
+Crestline,9/6/2004,1
+Crestline,6/13/2005,1
+Crestline,6/25/2005,1
+Crestline,7/4/2007,1
+Crestline,3/15/2008,1
+Crestline,4/17/2008,1
+Crestline,6/21/2008,1
+Crestline,7/10/2009,1
+Crestline,10/28/2009,1
+Crestline,2/25/2010,1
+Crestline,3/15/2010,1
+Crestline,7/4/2010,1
+Crestline,2/2/2014,1
+Creston,6/13/2000,1
+Crockett,6/1/1963,1
+Crockett,2/12/2004,1
+Cudahy,7/15/1952,1
+Cudahy,5/23/2003,1
+Cudahy,7/2/2003,1
+Cudahy,8/27/2006,1
+Cudahy,5/11/2013,1
+Cudahy,7/3/2013,1
+Cudahy,7/17/2013,1
+Culver City,8/11/1965,1
+Culver City,8/20/1995,1
+Culver City,12/11/1998,1
+Culver City,9/2/1999,1
+Culver City,3/31/2000,1
+Culver City,4/19/2000,1
+Culver City,8/9/2000,1
+Culver City,5/8/2005,1
+Culver City,10/5/2005,1
+Culver City,10/29/2006,1
+Culver City,8/31/2007,1
+Culver City,8/5/2008,1
+Culver City,4/8/2010,1
+Culver City,1/8/2013,1
+Culver City,4/30/2013,1
+Culver City,12/31/2013,1
+Cupertino,12/12/2000,1
+Cupertino,9/28/2003,1
+Cupertino,9/9/2006,1
+Cupertino,5/19/2007,1
+Cupertino,8/29/2008,1
+Cupertino,9/11/2013,1
+Cypress,7/1/1996,1
+Cypress,9/30/2001,1
+Cypress,9/19/2002,1
+Cypress,6/14/2008,1
+Cypress,7/16/2009,1
+Cypress,10/5/2011,1
+Daly City,1/15/2007,1
+Daly City,12/12/2009,1
+Daly City,12/13/2013,1
+Dana Point,6/1/1992,1
+Dana Point,12/17/1996,1
+Dana Point,10/5/1998,1
+Dana Point,8/13/2000,1
+Dana Point,11/2/2000,1
+Dana Point,4/14/2004,1
+Dana Point,5/15/2005,1
+Dana Point,2/9/2008,1
+Dana Point,6/21/2008,1
+Dana Point,7/19/2008,1
+Dana Point,11/8/2008,1
+Dana Point,6/21/2009,1
+Dana Point,8/18/2010,1
+Dana Point,6/14/2012,1
+Dana Point,11/3/2012,1
+Dana Point,8/23/2013,1
+Dana Point,9/13/2013,1
+Dana Point,1/15/2014,1
+Danville,3/8/1996,1
+Danville,1/11/1999,1
+Danville,12/8/2007,1
+Davis,11/24/1989,1
+Davis,8/10/1992,1
+Davis,4/6/1994,1
+Davis,8/15/1995,1
+Davis,1/16/2000,1
+Davis,9/30/2004,1
+Davis,12/2/2005,1
+Davis,6/26/2006,1
+Davis,9/15/2006,1
+Davis,5/2/2007,1
+Davis,1/18/2008,1
+Davis,1/25/2008,1
+Davis,11/12/2008,1
+Davis,7/20/2009,1
+Davis,8/13/2009,1
+Davis,9/23/2009,1
+Davis,7/15/2010,1
+Davis,7/24/2010,1
+Davis,1/14/2011,1
+Davis,2/3/2012,1
+Davis,5/18/2012,1
+Davis,5/30/2012,1
+Davis,6/16/2012,1
+Davis,8/12/2012,1
+Davis,8/18/2012,1
+Del Mar,7/1/1980,1
+Del Mar,9/18/1998,1
+Del Mar,4/1/2000,1
+Del Mar,1/24/2002,1
+Del Mar,1/17/2007,1
+Del Mar,3/26/2010,1
+Del Mar,11/5/2012,1
+Delft Colony,2/3/2004,1
+Delft Colony,6/6/2005,1
+Delft Colony,8/28/2007,1
+Delft Colony,12/9/2007,1
+Delft Colony,2/2/2009,1
+Delft Colony,2/24/2009,1
+Delft Colony,1/28/2014,1
+Denair,8/31/2012,1
+Desert Center,7/1/1979,1
+Desert Center,9/1/1998,1
+Desert Center,3/15/2003,1
+Desert Center,4/24/2004,1
+Desert Center,7/18/2010,1
+Desert Center,8/30/2012,2
+Desert Center,8/7/2013,1
+Desert Center,11/6/2013,1
+Desert Center,1/17/2014,1
+Desert Hot Springs,1/11/2012,1
+Desert Shores,7/7/2000,1
+Diamond Bar,7/15/1957,1
+Diamond Bar,8/29/1999,2
+Diamond Bar,11/16/1999,1
+Diamond Bar,2/3/2000,1
+Diamond Bar,4/9/2000,1
+Diamond Bar,7/13/2000,1
+Diamond Bar,8/24/2003,1
+Diamond Bar,8/30/2003,1
+Diamond Bar,6/7/2004,1
+Diamond Bar,7/19/2004,1
+Diamond Bar,8/11/2004,1
+Diamond Bar,2/25/2010,1
+Diamond Bar,1/12/2011,1
+Diamond Bar,2/23/2014,1
+Diamond Springs,6/13/1999,1
+Diamond Springs,9/1/2000,1
+Diamond Springs,9/11/2001,1
+Diamond Springs,9/29/2010,1
+Diamond Springs,11/5/2012,1
+Diamond Springs,3/2/2013,1
+Diamond Springs,10/3/2013,1
+Discovery Bay,11/2/2007,2
+Discovery Bay,8/21/2011,1
+Discovery Bay,11/2/2013,1
+Dixon,12/9/2010,1
+Dorris,3/4/1978,1
+Dorris,9/13/1998,1
+Dorris,8/18/2000,1
+Dorris,7/6/2002,1
+Dorris,8/17/2003,1
+Dorris,2/11/2004,1
+Dorris,8/18/2004,1
+Dorris,9/24/2006,1
+Dorris,2/3/2012,1
+Dorris,8/15/2012,1
+Dos Palos,11/14/2005,1
+Downey,8/1/1967,1
+Downey,3/1/1979,1
+Downey,2/10/1995,1
+Downey,6/11/1995,1
+Downey,12/20/2001,1
+Downey,2/4/2002,1
+Downey,11/17/2004,1
+Downey,5/1/2005,1
+Downey,11/22/2005,1
+Downey,6/20/2006,1
+Downey,1/7/2007,1
+Downey,1/2/2008,1
+Downey,12/27/2008,1
+Downey,1/31/2009,1
+Downey,1/9/2010,1
+Downey,1/27/2010,1
+Downey,4/8/2010,1
+Downey,3/5/2011,1
+Downey,3/16/2011,1
+Downey,6/4/2011,1
+Downey,6/23/2012,1
+Downey,2/9/2013,1
+Doyle,5/31/1965,1
+Doyle,9/9/1999,2
+Doyle,7/21/2003,2
+Doyle,6/26/2004,1
+Doyle,7/16/2013,1
+Duarte,10/30/2008,1
+Dublin,10/29/1998,1
+Dublin,3/12/2001,1
+Dublin,3/23/2001,1
+Dublin,3/31/2001,1
+Dublin,11/5/2004,1
+Dublin,7/9/2006,1
+Dublin,3/19/2007,1
+Dublin,11/11/2007,1
+Dublin,2/27/2008,1
+Dublin,8/7/2008,1
+Dublin,9/12/2008,1
+Dublin,11/4/2008,1
+Ducor,11/18/2006,1
+Dunsmuir,10/31/2010,1
+Earlimart,9/15/1987,1
+Earlimart,6/13/1995,1
+Earlimart,7/28/1998,1
+Earlimart,6/25/2007,1
+Earlimart,6/7/2008,1
+Earlimart,9/21/2013,1
+East Richmond Heights,6/1/1954,1
+East Richmond Heights,6/1/1967,1
+East Richmond Heights,3/25/2002,1
+East Richmond Heights,5/19/2010,1
+East Richmond Heights,12/31/2011,2
+East Richmond Heights,8/30/2012,1
+Eastvale,5/29/1971,1
+Eastvale,1/28/2001,1
+Eastvale,2/5/2001,1
+Eastvale,7/22/2008,1
+Eastvale,2/22/2013,1
+Eastvale,7/13/2013,1
+Eastvale,12/31/2013,1
+Eastvale,2/21/2014,1
+Edwards,12/21/2003,1
+Edwards,10/30/2005,1
+El Cajon,8/15/1969,1
+El Cajon,1/1/1981,1
+El Cajon,6/30/1991,1
+El Cajon,4/10/1998,1
+El Cajon,6/21/1999,1
+El Cajon,6/6/2000,1
+El Cajon,8/12/2000,1
+El Cajon,4/18/2001,1
+El Cajon,5/5/2001,1
+El Cajon,7/5/2001,1
+El Cajon,8/31/2001,1
+El Cajon,6/26/2003,1
+El Cajon,7/15/2003,1
+El Cajon,12/29/2003,1
+El Cajon,7/3/2004,1
+El Cajon,7/4/2004,4
+El Cajon,7/19/2004,1
+El Cajon,7/22/2004,1
+El Cajon,7/25/2004,1
+El Cajon,8/7/2004,1
+El Cajon,4/9/2005,1
+El Cajon,7/4/2005,2
+El Cajon,8/20/2005,1
+El Cajon,4/2/2006,1
+El Cajon,7/4/2006,2
+El Cajon,8/17/2006,1
+El Cajon,9/5/2006,1
+El Cajon,9/25/2007,1
+El Cajon,1/1/2008,1
+El Cajon,11/1/2008,1
+El Cajon,12/31/2008,1
+El Cajon,1/1/2009,1
+El Cajon,2/24/2009,2
+El Cajon,4/21/2009,1
+El Cajon,7/4/2009,6
+El Cajon,12/31/2009,1
+El Cajon,1/1/2010,4
+El Cajon,1/27/2011,1
+El Cajon,7/4/2011,1
+El Cajon,8/7/2011,1
+El Cajon,12/18/2011,1
+El Cajon,12/31/2011,1
+El Cajon,8/27/2012,1
+El Cajon,6/21/2013,1
+El Cajon,1/20/2014,1
+El Cajon,2/26/2014,2
+El Cajon,3/28/2014,1
+El Cajon,3/29/2014,1
+El Cajon,4/15/2014,2
+El Centro,10/6/1973,1
+El Centro,1/10/1987,1
+El Centro,5/15/1994,1
+El Centro,6/1/1997,1
+El Centro,11/11/1999,1
+El Centro,1/3/2000,1
+El Centro,12/21/2007,1
+El Centro,10/26/2008,1
+El Centro,8/28/2010,1
+El Centro,8/12/2011,1
+El Centro,8/13/2011,1
+El Centro,7/7/2012,1
+El Centro,8/28/2012,1
+El Centro,3/1/2013,1
+El Centro,3/26/2013,1
+El Cerrito,1/10/1964,1
+El Cerrito,12/15/2007,1
+El Dorado Hills,11/27/1988,1
+El Dorado Hills,8/17/1990,1
+El Dorado Hills,8/25/1999,1
+El Dorado Hills,9/1/1999,1
+El Dorado Hills,11/13/1999,1
+El Dorado Hills,9/20/2000,1
+El Dorado Hills,6/5/2004,1
+El Dorado Hills,4/7/2006,1
+El Dorado Hills,10/30/2008,1
+El Dorado Hills,9/15/2009,1
+El Dorado Hills,11/1/2009,1
+El Dorado Hills,5/6/2012,1
+El Dorado Hills,7/27/2013,1
+El Dorado Hills,1/15/2014,1
+El Monte,6/30/1975,1
+El Monte,11/12/2003,1
+El Monte,7/2/2004,1
+El Monte,7/19/2006,1
+El Monte,11/27/2011,1
+El Monte,7/20/2013,1
+El Rancho,6/1/1994,1
+El Rancho,5/28/2002,1
+El Segundo,1/1/1994,1
+El Segundo,3/3/2002,1
+El Segundo,1/2/2004,1
+El Segundo,1/7/2004,1
+El Segundo,1/9/2006,1
+El Segundo,2/18/2009,1
+El Segundo,10/26/2012,1
+Eldridge,2/1/2003,1
+Elk Grove,8/15/1992,1
+Elk Grove,11/16/1995,1
+Elk Grove,2/20/1999,1
+Elk Grove,9/7/1999,1
+Elk Grove,9/7/2002,1
+Elk Grove,9/17/2003,1
+Elk Grove,11/20/2005,1
+Elk Grove,11/12/2007,1
+Elk Grove,6/5/2009,1
+Elk Grove,6/1/2011,1
+Elk Grove,7/4/2011,1
+Elk Grove,6/2/2012,1
+Elk Grove,11/3/2012,1
+Elk Grove,12/12/2012,1
+Elk Grove,1/1/2013,1
+Elk Grove,1/25/2013,1
+Elk Grove,4/22/2013,1
+Elk Grove,7/4/2013,1
+Elk Grove,7/10/2013,1
+Elk Grove,7/12/2013,1
+Elk Grove,7/31/2013,1
+Elk Grove,1/28/2014,1
+Elk Grove,2/16/2014,1
+Elverta,2/28/1998,1
+Elverta,1/25/2006,1
+Elverta,3/23/2007,1
+Elverta,9/9/2007,1
+Elverta,8/14/2008,1
+Elverta,8/16/2008,1
+Elverta,1/5/2011,1
+Elverta,2/23/2014,1
+Elverta,3/12/2014,1
+Elverta,3/22/2014,1
+Emeryville,10/9/2001,1
+Emeryville,10/29/2007,1
+Emeryville,11/15/2008,1
+Encinitas,4/1/1999,1
+Encinitas,5/22/2002,1
+Encinitas,6/22/2005,1
+Encinitas,1/10/2007,1
+Encinitas,4/15/2009,1
+Encinitas,1/28/2011,1
+Encinitas,8/12/2011,1
+Encinitas,10/29/2011,1
+Encinitas,4/5/2012,1
+Encinitas,10/5/2013,1
+Encinitas,1/8/2014,1
+Encinitas,4/5/2014,1
+Encinitas,4/13/2014,1
+Escalon,7/22/2001,1
+Escalon,6/26/2013,1
+Escondido,5/1/1991,1
+Escondido,9/15/1998,1
+Escondido,12/17/1998,1
+Escondido,7/18/1999,1
+Escondido,1/31/2000,1
+Escondido,3/12/2000,1
+Escondido,6/2/2000,1
+Escondido,7/23/2001,1
+Escondido,4/22/2002,1
+Escondido,1/16/2003,1
+Escondido,5/30/2003,1
+Escondido,2/9/2004,1
+Escondido,11/25/2004,1
+Escondido,7/19/2005,1
+Escondido,12/29/2005,1
+Escondido,8/15/2006,1
+Escondido,9/13/2006,1
+Escondido,7/2/2007,1
+Escondido,5/18/2008,1
+Escondido,7/14/2008,1
+Escondido,10/28/2008,1
+Escondido,6/15/2009,1
+Escondido,7/18/2009,1
+Escondido,7/23/2009,1
+Escondido,8/19/2009,1
+Escondido,8/31/2009,2
+Escondido,10/9/2009,1
+Escondido,5/9/2010,1
+Escondido,8/22/2010,1
+Escondido,8/26/2010,1
+Escondido,9/17/2010,1
+Escondido,12/3/2010,1
+Escondido,2/24/2011,1
+Escondido,3/2/2011,1
+Escondido,3/31/2011,1
+Escondido,4/2/2011,1
+Escondido,5/11/2011,1
+Escondido,7/4/2011,2
+Escondido,9/7/2011,1
+Escondido,4/18/2012,1
+Escondido,6/22/2012,1
+Escondido,9/25/2012,1
+Escondido,11/20/2012,1
+Escondido,12/7/2012,1
+Escondido,3/17/2013,1
+Escondido,4/25/2013,1
+Escondido,11/4/2013,1
+Escondido,12/15/2013,1
+Escondido,4/10/2014,1
+Escondido,4/22/2014,1
+Esparto,5/15/2006,1
+Essex,11/23/2005,1
+Eureka,6/9/1970,1
+Eureka,5/15/1980,1
+Eureka,2/9/1996,1
+Eureka,8/12/1996,1
+Eureka,11/15/1997,1
+Eureka,12/9/1998,1
+Eureka,7/16/2001,1
+Eureka,12/23/2002,1
+Eureka,4/5/2003,1
+Eureka,12/17/2003,1
+Eureka,12/18/2003,1
+Eureka,1/12/2004,1
+Eureka,9/15/2004,1
+Eureka,9/17/2004,1
+Eureka,4/18/2006,1
+Eureka,1/20/2007,1
+Eureka,3/6/2010,1
+Eureka,3/18/2010,1
+Eureka,12/6/2011,1
+Eureka,1/13/2012,1
+Eureka,6/29/2012,1
+Eureka,6/30/2012,1
+Eureka,11/3/2012,1
+Eureka,3/15/2013,1
+Eureka,6/22/2013,1
+Eureka,1/22/2014,1
+Eureka,4/5/2014,1
+Exeter,7/21/1980,2
+Exeter,2/1/2001,1
+Exeter,7/23/2002,1
+Exeter,8/15/2004,1
+Exeter,10/29/2012,1
+Fair Oaks,9/30/1992,1
+Fair Oaks,9/20/1994,1
+Fair Oaks,4/25/1996,1
+Fair Oaks,9/10/1999,1
+Fair Oaks,11/5/1999,1
+Fair Oaks,11/10/1999,1
+Fair Oaks,3/11/2000,1
+Fair Oaks,5/17/2001,1
+Fair Oaks,1/15/2003,1
+Fair Oaks,9/19/2003,1
+Fair Oaks,4/6/2004,1
+Fair Oaks,12/10/2007,1
+Fair Oaks,2/11/2009,1
+Fair Oaks,9/5/2009,1
+Fair Oaks,8/20/2010,1
+Fair Oaks,2/6/2011,1
+Fair Oaks,2/8/2011,1
+Fair Oaks,1/3/2013,1
+Fair Oaks,3/31/2013,2
+Fair Oaks,3/18/2014,1
+Fairfax,1/14/2009,1
+Fairfield,6/20/1967,1
+Fairfield,6/1/1968,1
+Fairfield,5/29/1995,1
+Fairfield,6/11/1995,1
+Fairfield,2/20/1998,1
+Fairfield,8/17/1999,1
+Fairfield,9/1/1999,1
+Fairfield,9/30/1999,1
+Fairfield,10/9/1999,1
+Fairfield,8/26/2000,1
+Fairfield,9/19/2000,1
+Fairfield,9/25/2000,1
+Fairfield,1/3/2001,1
+Fairfield,11/1/2001,1
+Fairfield,7/29/2003,1
+Fairfield,11/1/2003,1
+Fairfield,7/15/2005,1
+Fairfield,10/31/2005,1
+Fairfield,12/13/2005,1
+Fairfield,2/9/2006,1
+Fairfield,4/18/2006,1
+Fairfield,7/1/2006,1
+Fairfield,8/23/2006,1
+Fairfield,12/5/2006,1
+Fairfield,5/6/2010,1
+Fairfield,5/9/2010,1
+Fairfield,12/8/2010,1
+Fairfield,8/13/2011,1
+Fairfield,12/24/2012,1
+Fairfield,4/8/2013,1
+Fairfield,8/20/2013,1
+Fairfield,2/2/2014,1
+Fallbrook,11/11/1999,1
+Fallbrook,3/9/2000,1
+Fallbrook,5/4/2000,1
+Fallbrook,1/6/2002,1
+Fallbrook,4/26/2003,1
+Fallbrook,5/27/2003,1
+Fallbrook,5/1/2005,1
+Fallbrook,4/23/2006,1
+Fallbrook,2/24/2009,1
+Fallbrook,6/9/2009,1
+Fallbrook,8/3/2010,1
+Fallbrook,12/27/2013,1
+Fallbrook,12/31/2013,1
+Fallbrook,2/18/2014,1
+Fallbrook,4/22/2014,1
+Farmersville,3/29/2002,1
+Farmersville,12/30/2002,1
+Felton,1/19/2007,1
+Felton,11/24/2012,1
+Fillmore,6/15/1965,1
+Fillmore,2/23/2001,1
+Fillmore,8/11/2008,1
+Fillmore,1/7/2009,1
+Fillmore,7/5/2011,1
+Fillmore,4/8/2014,1
+Firebaugh,11/23/1987,1
+Firebaugh,1/10/2014,1
+Folsom,7/28/1995,1
+Folsom,4/19/2002,1
+Folsom,12/5/2002,1
+Folsom,8/24/2005,1
+Folsom,12/3/2005,1
+Folsom,1/17/2006,1
+Folsom,3/11/2006,1
+Folsom,5/11/2006,1
+Folsom,1/30/2007,1
+Folsom,5/16/2008,1
+Folsom,7/9/2008,1
+Folsom,11/20/2008,1
+Folsom,11/11/2010,1
+Folsom,7/19/2011,1
+Folsom,8/12/2013,1
+Folsom,3/21/2014,1
+Fontana,8/15/1937,1
+Fontana,7/1/1990,1
+Fontana,12/31/1994,1
+Fontana,2/3/1995,1
+Fontana,3/14/1995,1
+Fontana,3/15/1995,2
+Fontana,6/9/1995,1
+Fontana,8/22/1995,2
+Fontana,11/1/1995,1
+Fontana,4/3/1996,2
+Fontana,12/26/1996,1
+Fontana,8/25/1997,1
+Fontana,1/2/2000,1
+Fontana,1/23/2000,1
+Fontana,8/5/2000,1
+Fontana,8/16/2003,1
+Fontana,11/18/2003,1
+Fontana,7/11/2004,1
+Fontana,8/1/2005,1
+Fontana,3/22/2006,1
+Fontana,3/7/2008,1
+Fontana,5/14/2009,1
+Fontana,9/14/2009,1
+Fontana,2/16/2010,1
+Fontana,3/26/2010,1
+Fontana,5/16/2010,1
+Fontana,9/25/2010,1
+Fontana,11/8/2010,1
+Fontana,2/20/2011,1
+Fontana,6/25/2011,1
+Fontana,8/17/2011,1
+Fontana,3/25/2012,1
+Fontana,7/19/2012,1
+Fontana,3/15/2014,1
+Foothill Ranch,5/26/2003,1
+Foothill Ranch,2/6/2007,2
+Foothill Ranch,2/27/2008,1
+Foothill Ranch,11/5/2008,1
+Forest Falls,12/16/1954,1
+Forest Falls,4/8/1989,1
+Forest Falls,3/21/1997,1
+Forest Falls,4/12/1998,1
+Forest Falls,11/4/2000,1
+Forest Falls,12/12/2001,1
+Forest Falls,5/4/2002,1
+Forest Falls,11/18/2003,1
+Forest Falls,2/5/2006,1
+Forest Falls,8/30/2007,1
+Forest Falls,5/31/2008,1
+Forest Falls,8/18/2010,1
+Forest Falls,3/29/2011,1
+Forest Falls,7/23/2011,1
+Forest Falls,8/20/2011,1
+Forest Falls,8/22/2012,1
+Forest Falls,12/22/2012,1
+Forest Falls,3/9/2013,1
+Forest Falls,8/12/2013,1
+Foresthill,7/28/1981,1
+Foresthill,12/31/2006,1
+Foresthill,6/21/2012,1
+Forestville,6/1/1985,1
+Forestville,6/1/1996,1
+Forestville,7/15/1999,1
+Forestville,8/7/1999,1
+Forestville,7/8/2000,1
+Forestville,3/6/2001,1
+Forestville,6/9/2003,1
+Forestville,9/4/2003,1
+Forestville,12/31/2006,1
+Forestville,7/30/2007,1
+Forestville,2/12/2010,1
+Forestville,4/16/2012,1
+Forestville,7/8/2012,2
+Fort Bragg,3/27/2000,1
+Fort Bragg,12/13/2006,1
+Fort Jones,9/7/2010,1
+Fort Jones,9/13/2010,1
+Fortuna,5/4/1986,1
+Fortuna,7/31/2000,1
+Fortuna,11/3/2000,1
+Fortuna,12/24/2000,1
+Fortuna,2/14/2001,1
+Fortuna,1/30/2002,1
+Fortuna,2/3/2003,1
+Fortuna,7/15/2003,1
+Fortuna,10/27/2004,1
+Fortuna,1/2/2005,1
+Fortuna,3/15/2008,1
+Fortuna,9/21/2008,1
+Fortuna,1/21/2009,1
+Fortuna,4/9/2011,1
+Foster City,11/18/2001,1
+Foster City,11/25/2001,1
+Foster City,12/22/2002,1
+Fountain Valley,6/30/1965,1
+Fountain Valley,3/1/2000,1
+Fountain Valley,7/15/2003,1
+Fountain Valley,2/20/2006,1
+Fountain Valley,8/20/2007,1
+Fountain Valley,2/5/2012,1
+Fountain Valley,3/14/2012,1
+Fountain Valley,9/5/2012,1
+Fountain Valley,9/16/2012,1
+Fountain Valley,9/17/2012,1
+Fountain Valley,9/28/2012,1
+Fountain Valley,1/5/2013,1
+Fowler,10/4/2013,1
+Frazier Park,4/18/2004,1
+Frazier Park,4/4/2006,1
+Frazier Park,1/27/2009,1
+Fremont,6/10/1971,1
+Fremont,6/10/1981,1
+Fremont,9/23/2000,1
+Fremont,4/3/2002,1
+Fremont,9/26/2002,1
+Fremont,10/8/2002,1
+Fremont,5/27/2003,1
+Fremont,5/30/2003,1
+Fremont,8/29/2004,1
+Fremont,6/2/2005,1
+Fremont,11/11/2005,1
+Fremont,11/15/2005,1
+Fremont,8/8/2006,1
+Fremont,4/26/2007,1
+Fremont,1/1/2008,1
+Fremont,3/21/2008,1
+Fremont,4/9/2008,1
+Fremont,6/19/2008,1
+Fremont,7/20/2008,1
+Fremont,8/9/2008,1
+Fremont,9/25/2008,1
+Fremont,1/18/2009,1
+Fremont,4/28/2009,1
+Fremont,12/1/2009,1
+Fremont,12/27/2010,1
+Fremont,5/29/2011,1
+Fremont,6/15/2012,1
+Fremont,6/24/2012,1
+Fremont,2/16/2013,1
+Fremont,12/9/2013,1
+French Camp,11/23/1996,1
+Fresno,6/1/1953,1
+Fresno,8/10/1963,1
+Fresno,7/7/1969,1
+Fresno,7/15/1989,1
+Fresno,10/5/1990,1
+Fresno,6/20/1992,1
+Fresno,8/9/1995,1
+Fresno,5/7/1996,1
+Fresno,3/13/1997,1
+Fresno,6/1/1997,1
+Fresno,6/24/1997,1
+Fresno,7/1/1998,1
+Fresno,11/10/1998,1
+Fresno,3/4/1999,1
+Fresno,8/12/1999,1
+Fresno,11/23/1999,1
+Fresno,3/7/2000,1
+Fresno,4/10/2000,1
+Fresno,5/28/2000,1
+Fresno,8/6/2000,1
+Fresno,8/11/2000,1
+Fresno,3/29/2001,1
+Fresno,6/4/2001,1
+Fresno,7/10/2001,1
+Fresno,11/25/2001,1
+Fresno,4/17/2002,1
+Fresno,6/6/2002,1
+Fresno,7/3/2002,1
+Fresno,3/12/2003,1
+Fresno,4/5/2003,1
+Fresno,4/11/2003,1
+Fresno,5/19/2003,1
+Fresno,7/16/2003,1
+Fresno,8/10/2003,1
+Fresno,2/11/2004,1
+Fresno,4/25/2004,1
+Fresno,7/5/2004,1
+Fresno,8/30/2004,1
+Fresno,9/9/2004,1
+Fresno,9/28/2004,1
+Fresno,11/27/2004,1
+Fresno,5/15/2005,1
+Fresno,6/26/2005,1
+Fresno,7/6/2005,1
+Fresno,7/11/2005,1
+Fresno,9/2/2005,1
+Fresno,9/17/2005,1
+Fresno,9/29/2005,1
+Fresno,11/21/2005,1
+Fresno,4/7/2006,1
+Fresno,5/17/2006,1
+Fresno,6/5/2006,1
+Fresno,7/26/2006,1
+Fresno,8/4/2006,1
+Fresno,12/7/2006,1
+Fresno,6/7/2007,2
+Fresno,6/22/2007,1
+Fresno,7/24/2007,1
+Fresno,7/25/2007,1
+Fresno,8/23/2007,1
+Fresno,12/20/2007,1
+Fresno,5/25/2008,1
+Fresno,6/5/2008,1
+Fresno,12/17/2008,1
+Fresno,1/21/2009,1
+Fresno,1/23/2009,1
+Fresno,2/13/2009,1
+Fresno,7/9/2009,1
+Fresno,8/22/2009,1
+Fresno,12/1/2009,1
+Fresno,1/1/2010,1
+Fresno,11/20/2010,1
+Fresno,12/26/2010,1
+Fresno,2/10/2011,1
+Fresno,2/28/2011,1
+Fresno,7/3/2011,1
+Fresno,7/5/2011,1
+Fresno,7/17/2011,1
+Fresno,8/25/2011,1
+Fresno,10/3/2011,1
+Fresno,10/5/2011,1
+Fresno,11/22/2011,1
+Fresno,12/6/2011,1
+Fresno,12/16/2011,1
+Fresno,3/13/2012,1
+Fresno,4/30/2012,1
+Fresno,5/20/2012,1
+Fresno,6/26/2012,1
+Fresno,8/13/2012,1
+Fresno,8/24/2012,1
+Fresno,2/25/2013,1
+Fresno,4/2/2013,1
+Fresno,4/28/2013,1
+Fresno,5/15/2013,1
+Fresno,5/31/2013,1
+Fresno,6/2/2013,1
+Fresno,8/3/2013,1
+Fresno,8/23/2013,1
+Fresno,9/3/2013,1
+Fresno,9/8/2013,1
+Fresno,11/20/2013,1
+Fresno,12/28/2013,1
+Fresno,2/1/2014,1
+Fresno,2/17/2014,1
+Fresno,2/21/2014,1
+Fresno,2/22/2014,1
+Fresno,2/24/2014,1
+Fresno,2/26/2014,1
+Fresno,3/16/2014,1
+Fresno,3/28/2014,1
+Fresno,4/5/2014,1
+Friant,9/25/2012,1
+Fullerton,9/1/1975,1
+Fullerton,6/1/1990,2
+Fullerton,1/22/1996,1
+Fullerton,4/15/1997,1
+Fullerton,11/7/1998,1
+Fullerton,3/23/2000,1
+Fullerton,12/23/2002,1
+Fullerton,2/20/2003,1
+Fullerton,12/13/2003,1
+Fullerton,4/8/2004,1
+Fullerton,12/30/2004,1
+Fullerton,1/1/2005,1
+Fullerton,7/16/2005,1
+Fullerton,7/23/2005,1
+Fullerton,11/14/2005,1
+Fullerton,3/31/2006,1
+Fullerton,7/10/2006,1
+Fullerton,7/9/2007,1
+Fullerton,11/4/2007,1
+Fullerton,11/12/2007,1
+Fullerton,1/26/2008,1
+Fullerton,8/1/2008,1
+Fullerton,1/16/2009,1
+Fullerton,12/20/2009,1
+Fullerton,2/20/2011,1
+Fullerton,4/24/2011,1
+Fullerton,5/16/2011,1
+Fullerton,8/20/2011,1
+Fullerton,10/3/2011,1
+Fullerton,1/13/2012,1
+Fullerton,2/1/2012,1
+Fullerton,4/3/2012,1
+Fullerton,3/20/2014,1
+Furnace Creek,11/15/1990,1
+Galt,11/10/2007,1
+Garberville,6/30/1966,1
+Garden Grove,4/6/1942,1
+Garden Grove,3/8/1991,1
+Garden Grove,5/1/1991,1
+Garden Grove,12/29/2000,2
+Garden Grove,6/30/2001,1
+Garden Grove,9/4/2004,1
+Garden Grove,3/15/2005,1
+Garden Grove,11/2/2005,1
+Garden Grove,2/9/2006,1
+Garden Grove,3/1/2006,1
+Garden Grove,12/18/2006,1
+Garden Grove,3/3/2007,1
+Garden Grove,4/2/2007,1
+Garden Grove,2/1/2008,2
+Garden Grove,2/6/2008,1
+Garden Grove,7/4/2008,1
+Garden Grove,6/21/2009,1
+Garden Grove,9/1/2010,1
+Garden Grove,1/11/2011,1
+Garden Grove,3/14/2013,1
+Garden Grove,6/15/2013,1
+Garden Grove,12/7/2013,1
+Garden Grove,12/12/2013,1
+Garden Grove,12/24/2013,1
+Garden Grove,2/7/2014,1
+Garden Grove,3/11/2014,1
+Garden Grove,3/14/2014,1
+Gardena,5/8/1996,1
+Gardena,4/13/1999,1
+Gardena,7/8/2001,1
+Gardena,11/13/2004,1
+Gardena,11/27/2004,1
+Gardena,3/25/2007,1
+Gardena,8/24/2008,1
+Gardena,9/1/2008,1
+Gasquet,8/11/1999,1
+Gasquet,6/30/2010,1
+Gilroy,7/30/1996,1
+Gilroy,2/26/1999,1
+Gilroy,3/3/1999,1
+Gilroy,3/12/2002,1
+Gilroy,6/8/2002,2
+Gilroy,7/9/2003,1
+Gilroy,12/26/2003,1
+Gilroy,6/24/2004,1
+Gilroy,1/3/2007,1
+Gilroy,5/29/2007,1
+Gilroy,6/27/2007,1
+Gilroy,6/20/2009,1
+Gilroy,7/9/2010,1
+Gilroy,3/10/2011,1
+Gilroy,4/16/2012,1
+Gilroy,5/11/2012,2
+Gilroy,11/28/2013,1
+Gilroy,1/1/2014,1
+Glen Ellen,11/29/1995,1
+Glen Ellen,11/28/2002,1
+Glendale,4/10/1945,1
+Glendale,8/1/1975,1
+Glendale,5/9/1993,1
+Glendale,11/23/1994,1
+Glendale,5/19/1995,1
+Glendale,4/1/1998,1
+Glendale,8/15/1999,1
+Glendale,2/8/2000,1
+Glendale,3/12/2000,1
+Glendale,7/25/2000,1
+Glendale,9/25/2000,1
+Glendale,2/3/2002,1
+Glendale,6/14/2002,1
+Glendale,3/3/2003,1
+Glendale,9/21/2003,1
+Glendale,2/7/2005,1
+Glendale,6/21/2005,1
+Glendale,9/16/2007,1
+Glendale,4/11/2008,1
+Glendale,6/7/2008,1
+Glendale,3/31/2009,1
+Glendale,8/2/2009,1
+Glendale,9/14/2009,1
+Glendale,5/13/2010,1
+Glendale,6/21/2010,1
+Glendale,8/16/2010,1
+Glendale,9/18/2010,1
+Glendale,8/26/2011,1
+Glendale,12/6/2011,1
+Glendale,5/15/2012,1
+Glendale,5/21/2012,1
+Glendale,7/6/2012,1
+Glendale,7/20/2012,1
+Glendale,9/15/2012,1
+Glendale,3/10/2013,1
+Glendora,1/10/1981,1
+Glendora,11/29/2011,1
+Glenhaven,12/1/1998,1
+Goleta,6/30/1967,1
+Goleta,4/10/1995,1
+Goleta,3/5/1998,1
+Goleta,7/28/2002,1
+Goleta,8/11/2002,1
+Goleta,5/11/2003,1
+Goleta,1/7/2004,1
+Goleta,1/28/2004,1
+Goleta,7/14/2005,1
+Goleta,8/11/2005,1
+Goleta,11/7/2006,1
+Goleta,2/4/2007,1
+Goleta,9/15/2007,1
+Goleta,12/12/2007,1
+Goleta,12/14/2007,1
+Goleta,1/14/2008,1
+Goleta,4/17/2009,1
+Goleta,3/20/2011,1
+Goleta,8/7/2012,1
+Gorman,11/29/1997,1
+Granada Hills,1/20/1999,1
+Grangeville,9/5/1999,1
+Grangeville,9/30/2001,1
+Grangeville,7/23/2004,1
+Grangeville,4/17/2011,1
+Grangeville,8/12/2013,1
+Granite Bay,9/15/1973,1
+Granite Bay,7/7/1999,1
+Granite Bay,11/21/2008,1
+Graniteville,7/1/1986,1
+Graniteville,3/4/1999,1
+Graniteville,6/1/1999,1
+Graniteville,8/13/2000,1
+Graniteville,8/14/2000,1
+Graniteville,4/7/2006,1
+Graniteville,7/19/2010,1
+Grass Valley,5/15/1981,1
+Grass Valley,6/30/1982,1
+Grass Valley,7/22/1982,1
+Grass Valley,11/10/1986,1
+Grass Valley,6/30/1995,1
+Grass Valley,7/31/1998,1
+Grass Valley,2/25/2002,1
+Grass Valley,8/25/2003,1
+Grass Valley,8/28/2006,1
+Grass Valley,1/25/2007,1
+Grass Valley,1/14/2009,1
+Grass Valley,12/2/2009,1
+Grass Valley,1/16/2010,1
+Grass Valley,9/5/2010,1
+Grass Valley,11/29/2011,1
+Grass Valley,12/23/2011,1
+Grass Valley,3/3/2012,1
+Grass Valley,3/9/2012,1
+Grass Valley,5/1/2013,1
+Grass Valley,9/26/2013,1
+Graton,6/1/1985,1
+Graton,6/1/1988,1
+Graton,8/16/2000,1
+Graton,4/17/2002,1
+Graton,5/9/2004,1
+Graton,8/2/2004,1
+Graton,5/13/2005,1
+Graton,3/22/2008,1
+Graton,7/26/2008,1
+Graton,9/12/2013,1
+Graton,12/31/2013,1
+Grayson,3/6/2009,1
+Greeley Hill,7/13/1991,1
+Greeley Hill,9/12/2008,1
+Green Valley,9/13/2001,1
+Greenfield,3/9/1999,1
+Greenwood,10/28/1995,1
+Grenada,6/30/1966,1
+Grenada,6/19/2007,1
+Grenada,8/11/2007,1
+Gridley,8/16/1998,1
+Gridley,2/7/2005,1
+Gridley,7/21/2008,1
+Grizzly Flats,2/3/2001,1
+Grover Beach,2/15/1979,1
+Grover Beach,11/26/2001,1
+Grover Beach,9/10/2002,1
+Grover Beach,9/8/2007,1
+Grover Beach,12/6/2008,1
+Grover Beach,2/10/2009,1
+Grover Beach,11/4/2010,1
+Hacienda Heights,7/11/2003,1
+Hacienda Heights,6/30/2013,1
+Half Moon Bay,12/12/1950,1
+Half Moon Bay,1/1/1995,1
+Half Moon Bay,11/23/1999,1
+Half Moon Bay,1/17/2008,1
+Hanford,11/5/2005,1
+Hanford,11/15/2008,1
+Harbor City,12/21/2008,1
+Harbor City,11/11/2011,1
+Hawthorne,6/30/1954,1
+Hawthorne,10/10/1968,1
+Hawthorne,4/15/1997,1
+Hawthorne,2/1/2004,1
+Hawthorne,1/18/2005,1
+Hawthorne,11/20/2005,1
+Hawthorne,2/2/2009,1
+Hawthorne,8/5/2009,1
+Hawthorne,7/4/2011,1
+Hawthorne,5/16/2012,1
+Hayfork,5/16/2008,1
+Hayward,6/6/1999,1
+Hayward,10/3/2000,1
+Hayward,10/8/2000,1
+Hayward,1/15/2002,1
+Hayward,11/14/2002,1
+Hayward,10/4/2003,1
+Hayward,11/1/2003,1
+Hayward,11/9/2003,1
+Hayward,11/28/2003,1
+Hayward,10/5/2004,1
+Hayward,11/12/2006,1
+Hayward,11/16/2010,1
+Hayward,10/5/2012,1
+Hayward,12/25/2013,1
+Healdsburg,6/15/1998,1
+Healdsburg,7/8/1999,1
+Healdsburg,3/13/2000,1
+Healdsburg,4/21/2000,1
+Healdsburg,5/18/2001,1
+Healdsburg,8/25/2001,1
+Healdsburg,9/5/2001,1
+Healdsburg,6/22/2003,1
+Healdsburg,3/3/2004,1
+Healdsburg,9/2/2009,1
+Healdsburg,11/15/2009,1
+Healdsburg,4/5/2012,1
+Healdsburg,9/22/2013,1
+Hemet,1/15/1970,1
+Hemet,11/15/1992,1
+Hemet,7/9/1994,1
+Hemet,3/2/1997,1
+Hemet,4/23/2003,1
+Hemet,11/27/2003,1
+Hemet,8/17/2005,1
+Hemet,1/28/2006,1
+Hemet,3/28/2006,1
+Hemet,6/19/2007,1
+Hemet,12/4/2007,1
+Hemet,7/18/2008,1
+Hemet,9/14/2008,1
+Hemet,4/18/2009,1
+Hemet,5/14/2009,1
+Hemet,7/16/2010,1
+Hemet,7/21/2011,1
+Hemet,7/24/2011,1
+Hemet,9/7/2011,1
+Hemet,4/21/2012,1
+Hemet,5/15/2012,1
+Hemet,6/16/2012,1
+Hemet,6/25/2013,1
+Hemet,9/6/2013,1
+Hemet,9/10/2013,1
+Hermosa Beach,9/8/1967,1
+Hermosa Beach,7/4/1982,1
+Hermosa Beach,11/15/2004,1
+Hermosa Beach,9/13/2008,1
+Hermosa Beach,10/31/2008,1
+Hermosa Beach,11/12/2008,1
+Hermosa Beach,11/17/2008,1
+Hermosa Beach,11/6/2010,1
+Hermosa Beach,5/13/2011,1
+Hermosa Beach,11/2/2011,1
+Hesperia,6/1/1977,1
+Hesperia,6/15/1995,1
+Hesperia,7/15/1995,1
+Hesperia,11/13/1996,1
+Hesperia,2/27/1998,1
+Hesperia,2/2/1999,1
+Hesperia,6/27/1999,1
+Hesperia,5/15/2002,1
+Hesperia,12/10/2002,1
+Hesperia,1/6/2004,1
+Hesperia,1/9/2004,1
+Hesperia,1/17/2004,1
+Hesperia,6/28/2005,1
+Hesperia,9/11/2005,1
+Hesperia,7/12/2007,1
+Hesperia,8/12/2007,1
+Hesperia,3/14/2009,1
+Hesperia,7/6/2009,1
+Hesperia,11/9/2009,1
+Hesperia,6/13/2010,1
+Hesperia,9/30/2010,1
+Hesperia,8/1/2013,1
+Hesperia,12/31/2013,1
+Hickman,11/13/2009,1
+Hidden Valley Lake,8/27/2000,1
+Hidden Valley Lake,8/16/2012,1
+Hidden Valley Lake,8/25/2012,1
+Highland,4/16/1989,1
+Highland,12/27/2003,1
+Highland,1/15/2008,1
+Highland,2/16/2009,1
+Hillsborough,6/1/1970,1
+Hillsborough,7/12/1977,1
+Hillsborough,11/6/1999,1
+Hillsborough,7/27/2003,1
+Hillsborough,3/15/2004,1
+Hillsborough,3/30/2006,1
+Hollister,6/30/1978,1
+Hollister,6/1/1979,1
+Hollister,2/15/1980,1
+Hollister,6/30/2000,1
+Hollister,9/19/2002,2
+Hollister,9/29/2003,1
+Hollister,9/22/2004,1
+Hollister,4/7/2006,1
+Hollister,11/7/2006,1
+Hollister,6/6/2009,1
+Hollister,12/20/2009,1
+Hollister,4/22/2011,1
+Hollister,8/23/2011,1
+Hollister,7/14/2012,1
+Hollister,11/20/2013,1
+Hollister,11/27/2013,1
+Hollister,1/25/2014,1
+Hollister,3/13/2014,1
+Holtville,12/4/2008,1
+Homeland,1/3/2012,1
+Homestead Valley,4/15/1992,1
+Homestead Valley,6/1/2004,1
+Homestead Valley,9/12/2006,1
+Homestead Valley,9/10/2011,1
+Hopland,9/19/2005,1
+Huntington Beach,8/8/1945,1
+Huntington Beach,11/15/1966,1
+Huntington Beach,6/15/1973,1
+Huntington Beach,7/15/1977,1
+Huntington Beach,8/22/1977,1
+Huntington Beach,8/15/1981,1
+Huntington Beach,8/8/1990,1
+Huntington Beach,5/11/1991,1
+Huntington Beach,6/15/1991,1
+Huntington Beach,9/24/1998,1
+Huntington Beach,4/11/1999,1
+Huntington Beach,8/15/1999,1
+Huntington Beach,4/1/2000,1
+Huntington Beach,7/17/2001,1
+Huntington Beach,7/22/2004,1
+Huntington Beach,9/4/2004,1
+Huntington Beach,10/30/2004,1
+Huntington Beach,3/17/2006,1
+Huntington Beach,3/18/2006,1
+Huntington Beach,11/20/2006,1
+Huntington Beach,12/28/2006,1
+Huntington Beach,7/25/2007,1
+Huntington Beach,9/21/2007,1
+Huntington Beach,10/6/2007,1
+Huntington Beach,2/22/2008,1
+Huntington Beach,12/2/2008,1
+Huntington Beach,12/6/2008,1
+Huntington Beach,12/12/2008,1
+Huntington Beach,12/22/2008,1
+Huntington Beach,1/31/2009,2
+Huntington Beach,9/18/2009,1
+Huntington Beach,12/15/2009,1
+Huntington Beach,6/14/2010,1
+Huntington Beach,7/4/2010,1
+Huntington Beach,7/15/2010,1
+Huntington Beach,7/23/2010,1
+Huntington Beach,11/8/2010,1
+Huntington Beach,2/5/2011,1
+Huntington Beach,2/20/2011,1
+Huntington Beach,4/8/2011,1
+Huntington Beach,5/28/2011,1
+Huntington Beach,5/30/2011,1
+Huntington Beach,8/26/2011,1
+Huntington Beach,2/4/2012,1
+Huntington Beach,6/17/2012,1
+Huntington Beach,7/31/2012,1
+Huntington Beach,8/29/2012,1
+Huntington Beach,9/1/2012,1
+Huntington Beach,12/4/2012,1
+Huntington Beach,1/5/2013,1
+Huntington Beach,4/6/2013,1
+Huntington Beach,5/3/2013,1
+Huntington Beach,5/4/2013,1
+Huntington Beach,8/22/2013,1
+Huntington Beach,12/25/2013,1
+Huntington Beach,1/3/2014,1
+Huntington Beach,1/9/2014,1
+Huntington Beach,2/2/2014,1
+Huntington Beach,4/24/2014,1
+Huntington Park,7/1/1947,1
+Huntington Park,6/15/1952,1
+Huntington Park,12/20/1978,1
+Huntington Park,9/8/2004,1
+Huntington Park,4/13/2006,1
+Huntington Park,7/13/2006,1
+Huntington Park,3/1/2008,1
+Huntington Park,8/25/2009,1
+Huntington Park,9/25/2012,1
+Huntington Park,12/28/2013,1
+Huron,3/15/1994,1
+Huron,6/21/2002,1
+Huron,8/31/2003,1
+Huron,6/30/2009,1
+Imperial,4/15/2002,1
+Imperial,3/3/2005,1
+Imperial,8/29/2012,1
+Imperial Beach,6/6/1976,1
+Imperial Beach,9/9/1978,1
+Imperial Beach,10/31/1999,1
+Imperial Beach,3/15/2000,1
+Imperial Beach,1/1/2003,1
+Imperial Beach,7/13/2006,1
+Imperial Beach,2/28/2011,1
+Imperial Beach,4/14/2013,1
+Indio,4/7/1942,1
+Indio,3/29/1998,1
+Indio,11/19/1999,1
+Indio,5/26/2001,1
+Indio,3/15/2002,1
+Indio,6/19/2004,1
+Indio,4/10/2005,1
+Indio,1/3/2006,1
+Indio,3/13/2006,1
+Indio,4/14/2006,1
+Indio,7/14/2006,1
+Indio,11/3/2006,1
+Indio,4/27/2007,1
+Indio,11/2/2007,1
+Indio,4/2/2010,1
+Indio,6/12/2010,1
+Indio,7/4/2010,1
+Indio,4/21/2012,1
+Indio,4/21/2014,1
+Industry,9/1/1977,1
+Industry,6/12/1978,1
+Industry,9/18/1998,1
+Industry,3/13/1999,1
+Industry,6/1/1999,1
+Industry,8/4/2000,1
+Industry,9/1/2007,1
+Industry,4/15/2008,1
+Industry,3/13/2012,1
+Industry,7/20/2012,1
+Industry,2/8/2013,1
+Industry,2/15/2014,1
+Inglewood,7/28/2002,1
+Inglewood,7/1/2003,1
+Inglewood,12/30/2004,1
+Inglewood,7/8/2005,1
+Inglewood,11/3/2010,1
+Inglewood,12/4/2010,1
+Inyokern,12/23/2003,1
+Ione,10/5/2002,1
+Irvine,7/7/1993,1
+Irvine,3/26/1996,1
+Irvine,6/15/1997,1
+Irvine,11/20/1998,1
+Irvine,3/6/2000,1
+Irvine,3/13/2001,1
+Irvine,6/27/2001,1
+Irvine,12/26/2002,1
+Irvine,1/29/2003,1
+Irvine,11/21/2003,1
+Irvine,2/11/2004,1
+Irvine,11/29/2004,1
+Irvine,6/18/2005,1
+Irvine,7/15/2005,1
+Irvine,9/19/2005,1
+Irvine,9/21/2005,1
+Irvine,11/1/2005,1
+Irvine,11/11/2006,1
+Irvine,2/24/2007,1
+Irvine,4/15/2007,1
+Irvine,5/9/2007,1
+Irvine,6/10/2007,1
+Irvine,6/24/2007,1
+Irvine,7/3/2007,1
+Irvine,7/7/2007,1
+Irvine,7/14/2007,1
+Irvine,8/15/2007,1
+Irvine,9/4/2007,1
+Irvine,9/18/2007,1
+Irvine,10/7/2007,1
+Irvine,10/30/2007,1
+Irvine,11/12/2007,1
+Irvine,12/19/2007,1
+Irvine,12/26/2007,1
+Irvine,1/31/2008,1
+Irvine,4/3/2008,1
+Irvine,4/24/2008,1
+Irvine,5/8/2008,1
+Irvine,5/19/2008,1
+Irvine,8/6/2008,1
+Irvine,10/9/2008,1
+Irvine,1/18/2009,1
+Irvine,2/12/2009,1
+Irvine,7/4/2010,2
+Irvine,3/2/2011,1
+Irvine,12/22/2011,1
+Irvine,12/24/2011,1
+Irvine,3/19/2012,1
+Irvine,7/3/2012,1
+Irvine,9/3/2012,1
+Irvine,9/28/2012,1
+Irvine,12/30/2012,1
+Irvine,3/31/2013,1
+Irvine,4/29/2013,1
+Irvine,5/11/2013,1
+Irvine,7/15/2013,1
+Irvine,1/25/2014,1
+Irwindale,6/10/1958,1
+Irwindale,6/15/1998,1
+Irwindale,6/8/2012,1
+Irwindale,9/30/2012,1
+Irwindale,7/16/2013,1
+Jackson,11/5/2010,1
+Janesville,1/20/2008,1
+Joshua Tree,5/15/1967,1
+Joshua Tree,8/8/1977,1
+Joshua Tree,6/30/1978,1
+Joshua Tree,2/7/1998,1
+Joshua Tree,2/16/2004,1
+Joshua Tree,12/18/2006,1
+Joshua Tree,5/25/2009,1
+Joshua Tree,1/5/2010,1
+Joshua Tree,8/12/2011,1
+Joshua Tree,12/30/2011,1
+Joshua Tree,9/13/2012,1
+June Lake,1/1/1978,1
+June Lake,11/1/1978,1
+June Lake,12/11/2003,1
+June Lake,7/14/2005,1
+Keeler,5/25/1991,1
+Keeler,8/20/2001,1
+Keeler,2/7/2004,1
+Keeler,6/28/2008,1
+Keeler,1/26/2012,1
+Keene,9/26/1998,1
+Kelseyville,8/20/1985,1
+Kelseyville,5/12/1996,1
+Kelseyville,6/1/1998,1
+Kelseyville,11/16/1999,1
+Kelseyville,3/18/2001,1
+Kelseyville,7/1/2003,1
+Kelseyville,12/21/2003,1
+Kelseyville,7/21/2004,1
+Kelseyville,3/12/2005,1
+Kelseyville,8/2/2005,1
+Kelseyville,10/30/2005,1
+Kelseyville,3/31/2007,1
+Kelseyville,6/15/2012,1
+Kelseyville,6/29/2013,1
+Kentfield,3/14/2003,1
+Kentfield,8/30/2005,1
+Kentfield,3/13/2013,1
+Kerman,8/10/1996,1
+Kerman,8/15/2003,1
+Kerman,7/23/2004,1
+Kerman,7/3/2013,1
+Kerman,3/23/2014,1
+Kernville,7/15/1994,1
+Kernville,7/23/2002,1
+Kernville,5/25/2003,1
+Kernville,7/17/2004,1
+Kettleman City,12/22/2000,1
+Kettleman City,6/29/2003,1
+Kettleman City,2/9/2010,1
+Keyes,7/14/2011,1
+Kingsburg,7/6/2004,1
+Kirkwood,6/23/2001,1
+Kirkwood,8/11/2012,1
+Klamath,11/25/2010,1
+Klamath River,10/4/2012,1
+La Canada Flintridge,10/29/2000,1
+La Canada Flintridge,11/14/2003,1
+La Canada Flintridge,9/7/2009,1
+La Crescenta,1/1/1977,1
+La Crescenta,2/9/1999,1
+La Crescenta,1/18/2004,1
+La Crescenta,9/11/2007,1
+La Crescenta,11/14/2007,1
+La Crescenta,4/5/2014,1
+La Grange,12/15/1978,1
+La Habra,7/7/1970,1
+La Habra,7/15/1979,1
+La Habra,8/15/1979,1
+La Habra,9/15/1995,1
+La Habra,12/17/1998,1
+La Habra,2/23/2008,1
+La Habra,7/28/2011,1
+La Jolla,10/30/1999,1
+La Jolla,11/26/2000,1
+La Jolla,1/18/2003,1
+La Jolla,1/10/2005,1
+La Jolla,1/1/2008,1
+La Jolla,10/29/2008,1
+La Mesa,5/15/1965,1
+La Mesa,6/14/1974,1
+La Mesa,8/20/1978,1
+La Mesa,9/15/1996,1
+La Mesa,11/12/2000,1
+La Mesa,1/5/2001,2
+La Mesa,5/21/2001,1
+La Mesa,9/1/2003,1
+La Mesa,12/31/2003,1
+La Mesa,3/7/2004,1
+La Mesa,7/4/2004,1
+La Mesa,8/15/2004,1
+La Mesa,7/4/2007,1
+La Mesa,1/19/2008,1
+La Mesa,2/24/2009,1
+La Mesa,7/4/2009,1
+La Mesa,8/24/2009,1
+La Mesa,1/1/2010,3
+La Mesa,5/25/2010,1
+La Mesa,1/1/2012,2
+La Mesa,4/10/2012,1
+La Mesa,10/30/2012,1
+La Mesa,8/18/2013,1
+La Mesa,12/2/2013,1
+La Mesa,1/1/2014,1
+La Mesa,3/21/2014,1
+La Mesa,4/23/2014,1
+La Mirada,6/30/1961,1
+La Mirada,4/4/1999,1
+La Mirada,1/1/2004,1
+La Mirada,3/2/2004,1
+La Mirada,5/14/2006,1
+La Mirada,1/3/2007,1
+La Mirada,6/8/2009,1
+La Mirada,4/8/2012,1
+La Mirada,2/23/2013,1
+La Mirada,5/29/2013,1
+La Puente,7/15/1966,1
+La Puente,6/1/1969,1
+La Puente,11/15/1995,1
+La Puente,2/15/1997,1
+La Puente,11/13/2002,1
+La Puente,4/17/2006,1
+La Puente,5/17/2006,1
+La Puente,8/1/2008,1
+La Puente,11/29/2010,1
+La Puente,4/14/2011,1
+La Puente,11/12/2012,1
+La Puente,4/7/2013,1
+La Quinta,1/2/2000,1
+La Quinta,11/11/2006,1
+Lafayette,2/15/1970,1
+Lafayette,6/14/2001,1
+Lafayette,7/22/2003,1
+Lafayette,6/2/2004,1
+Lafayette,6/24/2004,1
+Lafayette,1/9/2005,1
+Lafayette,3/13/2007,1
+Lafayette,6/11/2012,1
+Laguna Beach,6/1/1963,1
+Laguna Beach,9/15/1973,1
+Laguna Beach,11/21/1986,1
+Laguna Beach,12/15/1993,1
+Laguna Beach,5/7/2000,1
+Laguna Beach,2/28/2006,1
+Laguna Beach,3/4/2006,1
+Laguna Beach,7/6/2006,1
+Laguna Beach,1/17/2007,1
+Laguna Beach,7/1/2007,1
+Laguna Beach,8/19/2010,1
+Laguna Beach,2/10/2011,1
+Laguna Beach,8/23/2012,1
+Laguna Beach,9/3/2013,1
+Laguna Beach,12/7/2013,1
+Laguna Hills,9/6/2000,1
+Laguna Hills,11/3/2000,1
+Laguna Hills,1/9/2004,1
+Laguna Hills,9/22/2005,1
+Laguna Hills,8/1/2006,1
+Laguna Hills,7/17/2007,1
+Laguna Hills,10/7/2007,1
+Laguna Hills,4/3/2008,1
+Laguna Hills,11/19/2008,1
+Laguna Hills,12/27/2008,1
+Laguna Hills,1/18/2009,1
+Laguna Hills,4/26/2010,1
+Laguna Hills,11/11/2010,1
+Laguna Hills,11/24/2011,1
+Laguna Hills,12/5/2011,1
+Laguna Hills,7/6/2012,1
+Laguna Hills,11/4/2012,1
+Laguna Niguel,11/18/2004,1
+Laguna Niguel,1/10/2008,1
+Laguna Niguel,1/13/2009,1
+Laguna Niguel,1/14/2012,1
+Laguna Niguel,11/19/2013,1
+Laguna Woods,1/29/2001,1
+Laguna Woods,6/30/2005,1
+Laguna Woods,7/4/2005,1
+Laguna Woods,8/27/2005,1
+Laguna Woods,1/4/2006,1
+Laguna Woods,12/27/2006,1
+Laguna Woods,8/27/2007,1
+Laguna Woods,9/5/2008,1
+Laguna Woods,8/25/2009,1
+Laguna Woods,2/3/2011,1
+Laguna Woods,8/17/2012,1
+Lake Arrowhead,6/30/1984,1
+Lake Arrowhead,11/18/2002,1
+Lake Arrowhead,8/30/2011,1
+Lake Arrowhead,11/13/2012,1
+Lake California,6/19/1995,1
+Lake California,8/3/2005,1
+Lake California,4/9/2007,1
+Lake California,5/23/2007,1
+Lake California,2/28/2013,1
+Lake Elsinore,7/15/1986,1
+Lake Elsinore,5/2/1999,1
+Lake Elsinore,12/25/1999,1
+Lake Elsinore,2/9/2000,1
+Lake Elsinore,10/7/2001,1
+Lake Elsinore,5/6/2002,1
+Lake Elsinore,2/16/2003,1
+Lake Elsinore,12/31/2003,1
+Lake Elsinore,1/4/2006,1
+Lake Elsinore,2/1/2006,1
+Lake Elsinore,9/10/2006,1
+Lake Elsinore,9/11/2006,1
+Lake Elsinore,9/22/2006,1
+Lake Elsinore,3/10/2007,1
+Lake Elsinore,1/31/2008,2
+Lake Elsinore,4/24/2010,1
+Lake Elsinore,4/25/2010,1
+Lake Elsinore,6/6/2010,2
+Lake Elsinore,8/2/2010,1
+Lake Elsinore,1/6/2011,1
+Lake Elsinore,8/6/2011,1
+Lake Elsinore,9/14/2011,2
+Lake Elsinore,10/5/2011,1
+Lake Elsinore,12/30/2011,1
+Lake Elsinore,4/20/2012,1
+Lake Elsinore,5/19/2012,1
+Lake Elsinore,10/3/2012,1
+Lake Elsinore,12/6/2012,1
+Lake Elsinore,11/1/2013,2
+Lake Elsinore,1/1/2014,1
+Lake Forest,12/15/1994,1
+Lake Forest,11/1/1995,1
+Lake Forest,3/22/2000,1
+Lake Forest,2/9/2003,1
+Lake Forest,11/24/2004,1
+Lake Forest,4/12/2005,1
+Lake Forest,5/13/2005,1
+Lake Forest,8/6/2006,1
+Lake Forest,8/21/2006,1
+Lake Forest,6/18/2007,1
+Lake Forest,11/2/2007,1
+Lake Forest,12/19/2007,1
+Lake Forest,7/19/2009,1
+Lake Forest,11/25/2009,1
+Lake Forest,11/6/2010,1
+Lake Forest,2/9/2011,1
+Lake Isabella,5/25/2002,1
+Lake Isabella,6/28/2007,1
+Lake Isabella,6/24/2012,1
+Lake Nacimiento,4/26/1996,1
+Lake Nacimiento,3/12/2004,1
+Lake Riverside,7/16/1999,1
+Lake Riverside,9/15/1999,1
+Lake Riverside,8/14/2003,1
+Lake Riverside,9/19/2004,1
+Lake Riverside,2/1/2005,1
+Lake Riverside,3/7/2007,1
+Lake Riverside,1/3/2008,1
+Lake Riverside,7/6/2008,1
+Lake Riverside,9/24/2008,1
+Lake Riverside,5/9/2009,1
+Lake Riverside,12/5/2009,2
+Lake Riverside,12/6/2009,1
+Lake Riverside,5/14/2010,1
+Lake Riverside,8/13/2010,1
+Lake Riverside,12/31/2010,1
+Lake Riverside,1/6/2011,1
+Lake Riverside,7/1/2011,1
+Lake Riverside,8/12/2011,1
+Lake Riverside,8/21/2011,1
+Lake Riverside,7/14/2012,1
+Lake Riverside,4/27/2013,1
+Lake Riverside,7/4/2013,1
+Lake Riverside,7/18/2013,1
+Lake Riverside,8/18/2013,1
+Lake Riverside,3/3/2014,1
+Lake Sherwood,9/4/2000,1
+Lake Sherwood,5/17/2008,1
+Lake Sherwood,7/4/2009,1
+Lake Sherwood,8/28/2009,1
+Lake Wildwood,5/25/1997,1
+Lake Wildwood,6/29/2000,1
+Lake Wildwood,5/7/2001,1
+Lake Wildwood,1/31/2005,1
+Lake Wildwood,2/20/2008,1
+Lake Wildwood,6/20/2009,1
+Lakeport,7/4/1995,1
+Lakeport,11/1/1995,1
+Lakeside,3/6/1996,1
+Lakeside,1/6/1999,1
+Lakeside,10/8/1999,1
+Lakeside,7/31/2000,1
+Lakeside,4/19/2002,1
+Lakeside,7/3/2004,1
+Lakeside,5/24/2011,1
+Lakeside,7/31/2011,1
+Lakeside,8/2/2011,1
+Lakeside,10/31/2011,1
+Lakeside,2/4/2012,1
+Lakeside,6/30/2012,1
+Lakeside,7/23/2012,1
+Lakeside,8/2/2012,1
+Lakewood,6/1/1975,1
+Lakewood,6/15/1995,1
+Lakewood,4/18/1999,1
+Lakewood,6/10/2000,1
+Lakewood,11/28/2001,1
+Lakewood,11/2/2002,2
+Lakewood,6/11/2003,1
+Lakewood,8/17/2003,1
+Lakewood,8/20/2003,1
+Lakewood,7/4/2005,1
+Lakewood,7/17/2005,1
+Lakewood,10/3/2006,1
+Lakewood,10/7/2007,1
+Lakewood,6/10/2009,1
+Lakewood,11/25/2009,1
+Lakewood,2/11/2011,1
+Lamont,8/15/1969,1
+Lancaster,2/2/1961,1
+Lancaster,8/20/1993,1
+Lancaster,1/15/1999,1
+Lancaster,3/4/1999,1
+Lancaster,8/15/1999,1
+Lancaster,5/15/2000,1
+Lancaster,5/20/2000,1
+Lancaster,7/1/2000,1
+Lancaster,2/10/2002,2
+Lancaster,4/21/2002,1
+Lancaster,9/18/2003,1
+Lancaster,7/17/2004,1
+Lancaster,1/12/2005,1
+Lancaster,3/7/2005,1
+Lancaster,3/10/2005,1
+Lancaster,6/5/2005,1
+Lancaster,10/29/2005,1
+Lancaster,8/21/2006,1
+Lancaster,9/23/2006,1
+Lancaster,10/4/2006,1
+Lancaster,5/8/2007,1
+Lancaster,1/9/2008,1
+Lancaster,1/20/2008,1
+Lancaster,11/18/2008,1
+Lancaster,1/4/2009,1
+Lancaster,9/23/2009,1
+Lancaster,1/24/2011,1
+Lancaster,3/4/2011,1
+Lancaster,8/29/2011,1
+Lancaster,7/28/2012,1
+Lancaster,7/22/2013,1
+Lancaster,8/19/2013,1
+Lancaster,12/18/2013,1
+Lancaster,3/24/2014,1
+Lathrop,6/20/1999,1
+Lathrop,8/28/2010,1
+Lathrop,11/24/2011,1
+Lathrop,12/11/2011,1
+Lathrop,9/22/2012,1
+Lawndale,1/1/1968,1
+Lawndale,12/1/2004,1
+Laytonville,12/7/2008,1
+Laytonville,7/23/2009,1
+Laytonville,3/4/2014,1
+Lebec,5/12/1976,1
+Lebec,7/6/1993,1
+Lebec,8/26/1999,1
+Lebec,1/13/2006,1
+Lebec,8/20/2006,1
+Lee Vining,11/23/2005,1
+Leggett,12/18/2009,1
+Lemon Grove,12/2/2000,1
+Lemon Grove,7/4/2009,1
+Lemon Grove,12/31/2009,1
+Lemon Grove,1/1/2010,1
+Lemon Grove,11/13/2012,1
+Lemoore,6/15/1994,1
+Lemoore,2/16/2001,1
+Lemoore,9/19/2002,1
+Lemoore,6/26/2003,1
+Lemoore,11/1/2003,1
+Lemoore,12/1/2003,1
+Lemoore,4/9/2004,1
+Lemoore,11/4/2005,1
+Lemoore,5/14/2009,1
+Lemoore,7/3/2010,1
+Lemoore,7/27/2013,1
+Lewiston,3/12/2005,1
+Lincoln,6/15/1982,1
+Lincoln,11/18/2005,1
+Lincoln,11/5/2007,1
+Lincoln,5/27/2009,1
+Lincoln,5/20/2011,1
+Lincoln,9/10/2011,1
+Lincoln,6/18/2012,1
+Lincoln,9/1/2012,1
+Lincoln,8/12/2013,1
+Lincoln,9/8/2013,1
+Lincoln,11/15/2013,1
+Lincoln,4/23/2014,1
+Lindcove,7/4/1995,1
+Little River,5/6/2011,1
+Live Oak,6/15/1974,1
+Live Oak,7/15/1974,1
+Live Oak,7/14/1977,1
+Live Oak,6/1/1992,1
+Live Oak,4/5/1998,1
+Live Oak,3/20/2004,1
+Live Oak,4/25/2007,1
+Live Oak,6/10/2009,1
+Livermore,5/5/1980,1
+Livermore,7/7/1998,1
+Livermore,4/21/2001,1
+Livermore,8/1/2002,1
+Livermore,11/3/2002,1
+Livermore,12/3/2002,1
+Livermore,2/4/2003,1
+Livermore,11/12/2003,1
+Livermore,11/22/2003,1
+Livermore,2/29/2004,1
+Livermore,10/8/2005,1
+Livermore,9/10/2006,1
+Livermore,3/20/2007,1
+Livermore,9/14/2007,1
+Livermore,1/9/2008,1
+Livermore,5/15/2009,1
+Livermore,8/14/2009,1
+Livermore,3/10/2010,1
+Livermore,5/12/2010,1
+Livermore,3/22/2011,1
+Livermore,7/31/2012,3
+Livermore,4/12/2013,1
+Livermore,1/1/2014,1
+Livingston,1/14/1990,1
+Lodi,4/30/1976,1
+Lodi,7/11/1980,1
+Lodi,6/15/1996,1
+Lodi,12/3/1999,1
+Lodi,2/21/2000,1
+Lodi,9/2/2002,1
+Lodi,6/28/2003,1
+Lodi,8/16/2003,1
+Lodi,12/12/2003,1
+Lodi,11/6/2005,1
+Lodi,8/1/2006,1
+Lodi,6/2/2008,1
+Lodi,7/4/2010,1
+Lodi,7/22/2010,1
+Lodi,9/14/2010,1
+Lodi,4/23/2011,1
+Lodi,9/14/2011,1
+Lodi,1/28/2012,1
+Lodi,4/2/2012,1
+Lodi,6/16/2012,1
+Lodi,8/8/2012,1
+Lodi,1/5/2014,1
+Loleta,9/15/2009,1
+Loma Rica,9/23/1998,1
+Lomita,11/22/2011,1
+Lompico,7/1/1994,1
+Lompico,3/23/2006,1
+Lompico,4/14/2012,1
+Lompoc,6/30/1955,1
+Lompoc,7/1/1976,1
+Lompoc,3/25/2000,1
+Lompoc,8/15/2002,1
+Lompoc,8/25/2003,1
+Lompoc,9/18/2003,1
+Lompoc,4/25/2005,2
+Lompoc,8/15/2005,1
+Lompoc,7/27/2006,1
+Lompoc,11/11/2007,1
+Lompoc,1/10/2010,1
+Lompoc,2/8/2013,1
+Lone Pine,10/9/2002,1
+Lone Pine,10/28/2012,1
+Lone Pine,11/7/2012,1
+Long Beach,7/15/1957,1
+Long Beach,7/7/1959,1
+Long Beach,8/17/1960,1
+Long Beach,6/1/1965,1
+Long Beach,1/15/1981,1
+Long Beach,4/18/1981,1
+Long Beach,7/1/1985,1
+Long Beach,5/7/1994,1
+Long Beach,6/15/1995,1
+Long Beach,4/15/1996,1
+Long Beach,7/4/1997,1
+Long Beach,11/28/1998,1
+Long Beach,2/23/1999,1
+Long Beach,8/12/1999,1
+Long Beach,2/8/2000,1
+Long Beach,7/4/2001,1
+Long Beach,4/17/2002,1
+Long Beach,5/12/2002,1
+Long Beach,8/10/2002,1
+Long Beach,9/23/2002,1
+Long Beach,9/28/2002,1
+Long Beach,8/3/2003,1
+Long Beach,3/30/2004,1
+Long Beach,6/12/2004,1
+Long Beach,12/25/2004,1
+Long Beach,3/27/2005,1
+Long Beach,9/28/2005,1
+Long Beach,10/7/2005,1
+Long Beach,11/21/2005,1
+Long Beach,3/18/2006,1
+Long Beach,5/13/2006,1
+Long Beach,9/30/2006,1
+Long Beach,11/12/2006,2
+Long Beach,11/13/2006,1
+Long Beach,11/19/2006,1
+Long Beach,11/26/2006,1
+Long Beach,2/8/2007,1
+Long Beach,3/16/2007,1
+Long Beach,8/12/2007,1
+Long Beach,9/20/2007,1
+Long Beach,10/7/2007,1
+Long Beach,1/14/2008,1
+Long Beach,1/15/2008,1
+Long Beach,2/26/2008,1
+Long Beach,3/3/2008,1
+Long Beach,7/15/2008,1
+Long Beach,8/22/2008,1
+Long Beach,11/12/2008,2
+Long Beach,12/13/2008,1
+Long Beach,12/31/2008,1
+Long Beach,1/13/2009,1
+Long Beach,1/14/2009,1
+Long Beach,3/5/2009,1
+Long Beach,3/17/2009,1
+Long Beach,3/23/2009,1
+Long Beach,4/22/2009,1
+Long Beach,8/4/2009,1
+Long Beach,11/10/2009,1
+Long Beach,11/25/2009,1
+Long Beach,12/12/2009,1
+Long Beach,1/15/2010,1
+Long Beach,2/15/2010,1
+Long Beach,3/16/2010,1
+Long Beach,8/1/2010,1
+Long Beach,8/3/2010,1
+Long Beach,12/31/2010,1
+Long Beach,8/5/2011,1
+Long Beach,8/6/2011,1
+Long Beach,8/18/2011,1
+Long Beach,8/30/2011,1
+Long Beach,9/29/2011,1
+Long Beach,11/25/2011,1
+Long Beach,1/21/2012,1
+Long Beach,7/20/2012,1
+Long Beach,10/8/2012,1
+Long Beach,11/16/2012,2
+Long Beach,1/1/2013,1
+Long Beach,1/27/2013,1
+Long Beach,3/9/2013,1
+Long Beach,6/1/2013,1
+Long Beach,6/19/2013,1
+Long Beach,11/3/2013,1
+Long Beach,11/13/2013,1
+Long Beach,1/4/2014,1
+Los Alamitos,4/9/2013,1
+Los Alamos,8/15/1976,1
+Los Alamos,12/23/2007,1
+Los Alamos,7/9/2010,1
+Los Altos,7/18/1982,1
+Los Altos,3/15/1990,1
+Los Altos,9/9/1999,1
+Los Altos,2/21/2000,1
+Los Altos,3/10/2003,1
+Los Altos,5/9/2006,1
+Los Altos,7/18/2009,1
+Los Angeles,2/15/1951,1
+Los Angeles,8/10/1951,1
+Los Angeles,4/15/1953,1
+Los Angeles,7/1/1954,1
+Los Angeles,3/15/1957,2
+Los Angeles,12/20/1959,1
+Los Angeles,6/30/1962,1
+Los Angeles,8/20/1964,1
+Los Angeles,7/10/1965,1
+Los Angeles,7/12/1965,1
+Los Angeles,2/10/1970,1
+Los Angeles,9/1/1970,1
+Los Angeles,3/3/1971,1
+Los Angeles,6/20/1972,1
+Los Angeles,6/30/1974,1
+Los Angeles,6/30/1975,1
+Los Angeles,12/1/1975,1
+Los Angeles,6/1/1976,1
+Los Angeles,8/20/1976,1
+Los Angeles,10/31/1976,1
+Los Angeles,3/17/1977,1
+Los Angeles,3/19/1977,1
+Los Angeles,5/28/1977,1
+Los Angeles,1/9/1978,1
+Los Angeles,4/4/1978,1
+Los Angeles,6/14/1978,1
+Los Angeles,7/1/1978,1
+Los Angeles,1/15/1979,1
+Los Angeles,6/15/1979,1
+Los Angeles,1/21/1980,1
+Los Angeles,5/5/1980,1
+Los Angeles,8/28/1981,1
+Los Angeles,8/17/1982,1
+Los Angeles,5/14/1984,1
+Los Angeles,6/1/1984,1
+Los Angeles,11/10/1985,1
+Los Angeles,3/25/1986,1
+Los Angeles,7/1/1987,1
+Los Angeles,9/1/1987,1
+Los Angeles,6/15/1988,1
+Los Angeles,7/4/1989,1
+Los Angeles,4/3/1991,1
+Los Angeles,10/28/1991,1
+Los Angeles,12/5/1991,1
+Los Angeles,7/15/1992,1
+Los Angeles,11/28/1992,1
+Los Angeles,3/15/1993,1
+Los Angeles,1/17/1994,1
+Los Angeles,1/24/1994,1
+Los Angeles,6/23/1994,1
+Los Angeles,12/30/1994,1
+Los Angeles,3/30/1995,1
+Los Angeles,4/10/1995,1
+Los Angeles,6/1/1995,2
+Los Angeles,6/24/1995,1
+Los Angeles,7/30/1995,2
+Los Angeles,8/27/1995,1
+Los Angeles,2/23/1996,1
+Los Angeles,4/15/1996,1
+Los Angeles,7/1/1996,1
+Los Angeles,11/29/1996,1
+Los Angeles,2/10/1997,1
+Los Angeles,3/14/1997,1
+Los Angeles,4/21/1997,1
+Los Angeles,5/21/1997,1
+Los Angeles,6/13/1997,1
+Los Angeles,7/23/1997,1
+Los Angeles,11/1/1997,1
+Los Angeles,12/17/1997,1
+Los Angeles,12/25/1997,1
+Los Angeles,2/1/1998,1
+Los Angeles,4/23/1998,1
+Los Angeles,5/2/1998,1
+Los Angeles,6/7/1998,1
+Los Angeles,6/30/1998,1
+Los Angeles,8/15/1998,1
+Los Angeles,9/23/1998,2
+Los Angeles,11/8/1998,1
+Los Angeles,1/7/1999,1
+Los Angeles,1/10/1999,1
+Los Angeles,1/18/1999,1
+Los Angeles,2/23/1999,1
+Los Angeles,3/7/1999,1
+Los Angeles,4/17/1999,1
+Los Angeles,6/6/1999,1
+Los Angeles,6/24/1999,1
+Los Angeles,8/2/1999,1
+Los Angeles,8/28/1999,1
+Los Angeles,9/20/1999,1
+Los Angeles,9/27/1999,1
+Los Angeles,10/9/1999,1
+Los Angeles,11/10/1999,1
+Los Angeles,11/13/1999,1
+Los Angeles,1/1/2000,1
+Los Angeles,1/2/2000,1
+Los Angeles,1/9/2000,1
+Los Angeles,1/12/2000,1
+Los Angeles,1/18/2000,1
+Los Angeles,2/24/2000,1
+Los Angeles,3/12/2000,1
+Los Angeles,4/17/2000,1
+Los Angeles,5/15/2000,1
+Los Angeles,5/27/2000,1
+Los Angeles,6/13/2000,1
+Los Angeles,6/15/2000,1
+Los Angeles,6/26/2000,1
+Los Angeles,7/1/2000,1
+Los Angeles,7/7/2000,4
+Los Angeles,7/15/2000,1
+Los Angeles,7/21/2000,1
+Los Angeles,8/1/2000,1
+Los Angeles,8/12/2000,1
+Los Angeles,8/13/2000,1
+Los Angeles,9/30/2000,2
+Los Angeles,10/3/2000,1
+Los Angeles,10/8/2000,2
+Los Angeles,11/12/2000,1
+Los Angeles,11/13/2000,1
+Los Angeles,12/7/2000,1
+Los Angeles,1/1/2001,1
+Los Angeles,1/10/2001,1
+Los Angeles,1/13/2001,1
+Los Angeles,1/15/2001,1
+Los Angeles,1/21/2001,1
+Los Angeles,2/4/2001,1
+Los Angeles,2/18/2001,1
+Los Angeles,3/19/2001,1
+Los Angeles,3/26/2001,1
+Los Angeles,4/11/2001,1
+Los Angeles,4/17/2001,1
+Los Angeles,4/29/2001,1
+Los Angeles,4/30/2001,1
+Los Angeles,5/12/2001,1
+Los Angeles,5/22/2001,1
+Los Angeles,5/29/2001,1
+Los Angeles,6/6/2001,1
+Los Angeles,6/9/2001,1
+Los Angeles,6/27/2001,1
+Los Angeles,7/23/2001,1
+Los Angeles,7/28/2001,1
+Los Angeles,8/6/2001,1
+Los Angeles,8/12/2001,1
+Los Angeles,9/12/2001,1
+Los Angeles,11/14/2001,1
+Los Angeles,11/22/2001,1
+Los Angeles,2/3/2002,1
+Los Angeles,2/24/2002,1
+Los Angeles,2/27/2002,1
+Los Angeles,3/5/2002,1
+Los Angeles,3/15/2002,1
+Los Angeles,3/21/2002,1
+Los Angeles,5/8/2002,1
+Los Angeles,5/9/2002,1
+Los Angeles,5/13/2002,1
+Los Angeles,6/7/2002,1
+Los Angeles,6/13/2002,1
+Los Angeles,6/18/2002,1
+Los Angeles,6/20/2002,1
+Los Angeles,6/23/2002,1
+Los Angeles,6/29/2002,1
+Los Angeles,7/2/2002,1
+Los Angeles,7/23/2002,2
+Los Angeles,7/29/2002,1
+Los Angeles,8/4/2002,1
+Los Angeles,8/13/2002,1
+Los Angeles,9/19/2002,1
+Los Angeles,10/5/2002,1
+Los Angeles,11/11/2002,1
+Los Angeles,12/2/2002,1
+Los Angeles,12/25/2002,1
+Los Angeles,1/2/2003,1
+Los Angeles,1/17/2003,1
+Los Angeles,1/29/2003,1
+Los Angeles,3/11/2003,1
+Los Angeles,4/24/2003,1
+Los Angeles,4/28/2003,1
+Los Angeles,5/7/2003,1
+Los Angeles,5/12/2003,1
+Los Angeles,6/7/2003,1
+Los Angeles,6/17/2003,1
+Los Angeles,6/22/2003,1
+Los Angeles,6/30/2003,1
+Los Angeles,8/7/2003,1
+Los Angeles,8/15/2003,1
+Los Angeles,8/17/2003,1
+Los Angeles,8/23/2003,1
+Los Angeles,8/24/2003,1
+Los Angeles,8/26/2003,1
+Los Angeles,8/28/2003,1
+Los Angeles,8/30/2003,3
+Los Angeles,8/31/2003,2
+Los Angeles,9/1/2003,1
+Los Angeles,9/9/2003,1
+Los Angeles,9/13/2003,1
+Los Angeles,10/4/2003,1
+Los Angeles,11/16/2003,1
+Los Angeles,11/22/2003,1
+Los Angeles,11/27/2003,1
+Los Angeles,12/11/2003,1
+Los Angeles,12/24/2003,1
+Los Angeles,2/1/2004,1
+Los Angeles,3/7/2004,2
+Los Angeles,3/8/2004,1
+Los Angeles,3/9/2004,1
+Los Angeles,3/12/2004,1
+Los Angeles,3/21/2004,1
+Los Angeles,4/2/2004,1
+Los Angeles,4/24/2004,1
+Los Angeles,4/26/2004,1
+Los Angeles,5/2/2004,1
+Los Angeles,5/8/2004,1
+Los Angeles,5/11/2004,1
+Los Angeles,5/12/2004,1
+Los Angeles,5/14/2004,1
+Los Angeles,5/15/2004,1
+Los Angeles,6/13/2004,1
+Los Angeles,6/19/2004,1
+Los Angeles,6/26/2004,1
+Los Angeles,7/10/2004,1
+Los Angeles,7/15/2004,2
+Los Angeles,7/20/2004,1
+Los Angeles,7/23/2004,1
+Los Angeles,8/19/2004,1
+Los Angeles,8/29/2004,1
+Los Angeles,9/11/2004,2
+Los Angeles,9/13/2004,1
+Los Angeles,9/16/2004,1
+Los Angeles,9/22/2004,2
+Los Angeles,12/3/2004,1
+Los Angeles,12/10/2004,1
+Los Angeles,12/17/2004,1
+Los Angeles,1/5/2005,1
+Los Angeles,1/29/2005,1
+Los Angeles,3/14/2005,1
+Los Angeles,4/12/2005,3
+Los Angeles,4/18/2005,1
+Los Angeles,4/19/2005,1
+Los Angeles,4/20/2005,1
+Los Angeles,6/17/2005,1
+Los Angeles,6/26/2005,1
+Los Angeles,8/6/2005,1
+Los Angeles,8/9/2005,1
+Los Angeles,8/12/2005,1
+Los Angeles,8/28/2005,1
+Los Angeles,9/7/2005,1
+Los Angeles,9/8/2005,1
+Los Angeles,9/15/2005,1
+Los Angeles,11/16/2005,2
+Los Angeles,12/4/2005,1
+Los Angeles,12/13/2005,1
+Los Angeles,1/4/2006,1
+Los Angeles,2/24/2006,1
+Los Angeles,3/6/2006,1
+Los Angeles,3/16/2006,1
+Los Angeles,4/3/2006,1
+Los Angeles,4/7/2006,1
+Los Angeles,4/28/2006,1
+Los Angeles,4/29/2006,1
+Los Angeles,6/3/2006,1
+Los Angeles,6/16/2006,1
+Los Angeles,6/19/2006,1
+Los Angeles,6/27/2006,1
+Los Angeles,7/6/2006,1
+Los Angeles,7/10/2006,1
+Los Angeles,7/13/2006,1
+Los Angeles,7/14/2006,1
+Los Angeles,7/15/2006,1
+Los Angeles,8/9/2006,1
+Los Angeles,8/15/2006,1
+Los Angeles,8/19/2006,1
+Los Angeles,8/23/2006,2
+Los Angeles,8/24/2006,1
+Los Angeles,8/26/2006,1
+Los Angeles,9/23/2006,1
+Los Angeles,10/28/2006,1
+Los Angeles,11/6/2006,1
+Los Angeles,11/18/2006,1
+Los Angeles,11/19/2006,1
+Los Angeles,12/3/2006,1
+Los Angeles,12/4/2006,1
+Los Angeles,1/3/2007,1
+Los Angeles,1/8/2007,1
+Los Angeles,1/13/2007,1
+Los Angeles,1/26/2007,1
+Los Angeles,2/1/2007,1
+Los Angeles,2/26/2007,1
+Los Angeles,3/1/2007,1
+Los Angeles,3/11/2007,2
+Los Angeles,3/14/2007,1
+Los Angeles,3/30/2007,1
+Los Angeles,3/31/2007,1
+Los Angeles,4/15/2007,1
+Los Angeles,7/4/2007,1
+Los Angeles,7/14/2007,1
+Los Angeles,8/5/2007,1
+Los Angeles,8/11/2007,2
+Los Angeles,8/28/2007,1
+Los Angeles,9/22/2007,1
+Los Angeles,10/6/2007,1
+Los Angeles,11/9/2007,1
+Los Angeles,11/13/2007,1
+Los Angeles,12/2/2007,1
+Los Angeles,12/12/2007,2
+Los Angeles,12/15/2007,1
+Los Angeles,12/23/2007,2
+Los Angeles,12/31/2007,1
+Los Angeles,1/8/2008,1
+Los Angeles,1/26/2008,1
+Los Angeles,2/15/2008,1
+Los Angeles,2/20/2008,1
+Los Angeles,2/26/2008,1
+Los Angeles,3/25/2008,2
+Los Angeles,4/4/2008,1
+Los Angeles,4/12/2008,1
+Los Angeles,4/22/2008,1
+Los Angeles,4/29/2008,1
+Los Angeles,5/3/2008,1
+Los Angeles,5/13/2008,1
+Los Angeles,5/30/2008,1
+Los Angeles,6/14/2008,3
+Los Angeles,6/20/2008,1
+Los Angeles,6/21/2008,1
+Los Angeles,7/5/2008,1
+Los Angeles,8/1/2008,1
+Los Angeles,8/9/2008,1
+Los Angeles,8/28/2008,1
+Los Angeles,9/6/2008,1
+Los Angeles,9/16/2008,1
+Los Angeles,9/19/2008,1
+Los Angeles,9/21/2008,2
+Los Angeles,10/31/2008,1
+Los Angeles,11/1/2008,1
+Los Angeles,11/12/2008,1
+Los Angeles,11/14/2008,1
+Los Angeles,11/16/2008,1
+Los Angeles,11/26/2008,1
+Los Angeles,11/27/2008,1
+Los Angeles,12/6/2008,1
+Los Angeles,12/9/2008,1
+Los Angeles,12/13/2008,1
+Los Angeles,12/20/2008,2
+Los Angeles,12/27/2008,1
+Los Angeles,12/31/2008,1
+Los Angeles,1/7/2009,1
+Los Angeles,1/9/2009,1
+Los Angeles,1/18/2009,1
+Los Angeles,1/30/2009,1
+Los Angeles,2/4/2009,1
+Los Angeles,2/10/2009,1
+Los Angeles,2/12/2009,1
+Los Angeles,3/28/2009,1
+Los Angeles,4/12/2009,1
+Los Angeles,4/19/2009,1
+Los Angeles,6/5/2009,1
+Los Angeles,6/8/2009,1
+Los Angeles,6/20/2009,2
+Los Angeles,6/24/2009,1
+Los Angeles,7/2/2009,1
+Los Angeles,7/6/2009,1
+Los Angeles,7/18/2009,1
+Los Angeles,7/25/2009,1
+Los Angeles,8/1/2009,1
+Los Angeles,9/2/2009,1
+Los Angeles,9/3/2009,1
+Los Angeles,9/8/2009,1
+Los Angeles,9/12/2009,1
+Los Angeles,9/16/2009,1
+Los Angeles,1/6/2010,1
+Los Angeles,2/3/2010,1
+Los Angeles,2/4/2010,1
+Los Angeles,2/13/2010,1
+Los Angeles,3/27/2010,1
+Los Angeles,3/29/2010,1
+Los Angeles,4/4/2010,1
+Los Angeles,5/8/2010,1
+Los Angeles,5/25/2010,1
+Los Angeles,6/2/2010,1
+Los Angeles,7/15/2010,1
+Los Angeles,7/16/2010,1
+Los Angeles,7/18/2010,1
+Los Angeles,8/13/2010,1
+Los Angeles,8/14/2010,1
+Los Angeles,8/22/2010,1
+Los Angeles,8/28/2010,3
+Los Angeles,9/5/2010,1
+Los Angeles,9/17/2010,1
+Los Angeles,9/22/2010,2
+Los Angeles,9/25/2010,1
+Los Angeles,11/1/2010,2
+Los Angeles,11/2/2010,1
+Los Angeles,12/6/2010,1
+Los Angeles,12/13/2010,1
+Los Angeles,12/27/2010,1
+Los Angeles,1/27/2011,1
+Los Angeles,3/11/2011,1
+Los Angeles,4/11/2011,1
+Los Angeles,4/26/2011,1
+Los Angeles,4/28/2011,1
+Los Angeles,5/6/2011,1
+Los Angeles,6/3/2011,1
+Los Angeles,6/11/2011,1
+Los Angeles,6/20/2011,1
+Los Angeles,7/4/2011,1
+Los Angeles,7/9/2011,1
+Los Angeles,7/10/2011,1
+Los Angeles,7/30/2011,1
+Los Angeles,8/27/2011,1
+Los Angeles,8/31/2011,1
+Los Angeles,9/11/2011,1
+Los Angeles,9/16/2011,1
+Los Angeles,10/28/2011,2
+Los Angeles,12/29/2011,1
+Los Angeles,2/13/2012,1
+Los Angeles,2/19/2012,1
+Los Angeles,3/4/2012,2
+Los Angeles,3/18/2012,1
+Los Angeles,3/29/2012,1
+Los Angeles,4/17/2012,1
+Los Angeles,5/5/2012,1
+Los Angeles,6/5/2012,2
+Los Angeles,6/12/2012,1
+Los Angeles,6/21/2012,1
+Los Angeles,7/8/2012,1
+Los Angeles,7/9/2012,1
+Los Angeles,7/14/2012,1
+Los Angeles,7/15/2012,1
+Los Angeles,7/19/2012,1
+Los Angeles,7/31/2012,2
+Los Angeles,8/2/2012,1
+Los Angeles,8/12/2012,1
+Los Angeles,9/28/2012,1
+Los Angeles,9/30/2012,1
+Los Angeles,11/10/2012,1
+Los Angeles,11/12/2012,1
+Los Angeles,12/10/2012,1
+Los Angeles,12/21/2012,2
+Los Angeles,12/28/2012,1
+Los Angeles,12/31/2012,1
+Los Angeles,1/4/2013,1
+Los Angeles,1/12/2013,1
+Los Angeles,1/20/2013,1
+Los Angeles,2/16/2013,1
+Los Angeles,3/2/2013,1
+Los Angeles,3/3/2013,1
+Los Angeles,3/30/2013,2
+Los Angeles,4/13/2013,1
+Los Angeles,5/11/2013,1
+Los Angeles,5/23/2013,1
+Los Angeles,6/3/2013,2
+Los Angeles,6/22/2013,1
+Los Angeles,6/23/2013,1
+Los Angeles,7/4/2013,1
+Los Angeles,7/13/2013,1
+Los Angeles,8/6/2013,1
+Los Angeles,8/8/2013,1
+Los Angeles,8/20/2013,1
+Los Angeles,8/24/2013,1
+Los Angeles,9/15/2013,1
+Los Angeles,9/28/2013,2
+Los Angeles,10/6/2013,1
+Los Angeles,10/26/2013,1
+Los Angeles,10/31/2013,1
+Los Angeles,11/6/2013,1
+Los Angeles,11/16/2013,1
+Los Angeles,12/2/2013,1
+Los Angeles,12/25/2013,1
+Los Angeles,12/26/2013,1
+Los Angeles,12/30/2013,1
+Los Angeles,1/9/2014,2
+Los Angeles,2/23/2014,1
+Los Angeles,3/9/2014,1
+Los Angeles,4/11/2014,1
+Los Angeles,4/14/2014,1
+Los Angeles,4/15/2014,1
+Los Angeles,4/27/2014,3
+Los Angeles,5/1/2014,1
+Los Banos,9/25/1966,1
+Los Banos,11/17/1998,1
+Los Banos,2/19/2000,1
+Los Banos,2/5/2003,1
+Los Banos,3/10/2004,1
+Los Banos,3/13/2006,1
+Los Banos,6/16/2010,1
+Los Banos,7/18/2011,1
+Los Banos,2/10/2012,1
+Los Banos,4/16/2012,2
+Los Banos,4/17/2012,1
+Los Banos,5/11/2012,2
+Los Banos,6/27/2012,1
+Los Banos,7/12/2012,1
+Los Banos,8/6/2012,1
+Los Banos,9/11/2012,1
+Los Banos,9/12/2012,1
+Los Banos,5/31/2013,1
+Los Banos,9/5/2013,1
+Los Gatos,1/18/2000,1
+Los Gatos,11/20/2003,2
+Los Molinos,11/11/2000,1
+Los Molinos,10/26/2003,1
+Los Olivos,5/4/2002,1
+Los Olivos,2/6/2004,1
+Los Olivos,3/25/2008,1
+Lost Hills,9/5/2001,1
+Lost Hills,5/16/2006,1
+Lost Hills,1/27/2008,1
+Lower Lake,11/1/1994,1
+Lucerne,4/12/2008,1
+Lucerne,5/9/2011,1
+Lucerne Valley,12/14/2004,1
+Ludlow,11/15/2002,1
+Ludlow,11/22/2008,1
+Mad River,8/11/2006,1
+Madera,12/24/2004,1
+Madera,11/5/2007,1
+Madera,11/16/2011,1
+Madera,10/8/2012,1
+Magalia,11/13/2010,1
+Malibu,7/15/1966,1
+Malibu,4/1/1987,1
+Malibu,7/16/1988,1
+Malibu,5/4/1990,1
+Malibu,5/5/1992,1
+Malibu,6/14/1994,1
+Malibu,9/19/2002,1
+Malibu,11/1/2004,1
+Malibu,12/28/2004,1
+Malibu,4/11/2006,1
+Malibu,5/23/2006,1
+Malibu,11/28/2008,1
+Malibu,7/16/2010,1
+Malibu,11/10/2011,1
+Malibu,3/3/2013,1
+Malibu,9/4/2013,1
+Malibu,3/31/2014,1
+Mammoth Lakes,8/15/1979,1
+Mammoth Lakes,1/24/2000,1
+Mammoth Lakes,8/7/2001,1
+Mammoth Lakes,9/19/2003,1
+Mammoth Lakes,2/16/2006,1
+Mammoth Lakes,5/21/2008,1
+Mammoth Lakes,11/15/2012,1
+Manhattan Beach,7/3/1993,1
+Manhattan Beach,8/18/1997,1
+Manhattan Beach,8/6/1999,1
+Manhattan Beach,4/24/2001,1
+Manhattan Beach,5/28/2002,1
+Manhattan Beach,1/9/2006,1
+Manhattan Beach,2/7/2008,1
+Manhattan Beach,1/18/2009,1
+Manhattan Beach,9/25/2010,1
+Manhattan Beach,7/9/2013,1
+Manhattan Beach,4/20/2014,1
+Manteca,3/1/1974,1
+Manteca,6/15/1979,1
+Manteca,7/1/1993,1
+Manteca,5/16/1998,1
+Manteca,8/22/1998,1
+Manteca,7/15/2002,1
+Manteca,12/24/2006,2
+Manteca,1/11/2007,1
+Manteca,10/7/2007,1
+Manteca,2/17/2008,1
+Manteca,9/6/2008,1
+Manteca,11/19/2008,1
+Manteca,6/8/2009,1
+Maricopa,1/29/1999,1
+Maricopa,5/28/2000,1
+Marina,8/15/1987,1
+Marina,6/18/1998,1
+Marina,5/13/2008,1
+Marina,3/25/2009,1
+Marina,12/30/2012,1
+Marina Del Rey,12/5/1998,1
+Marina Del Rey,7/23/2002,1
+Marina Del Rey,7/9/2010,1
+Marina Del Rey,5/5/2012,1
+Marina Del Rey,11/2/2012,1
+Marina Del Rey,5/4/2013,1
+Marina Del Rey,1/3/2014,1
+Mariposa,6/15/1968,1
+Mariposa,8/26/1998,1
+Mariposa,11/14/2002,1
+Mariposa,9/4/2003,1
+Mariposa,12/9/2004,1
+Mariposa,4/9/2007,1
+Mariposa,7/2/2009,1
+Mariposa,10/4/2010,1
+Mariposa,1/21/2014,1
+Martinez,6/1/1955,1
+Martinez,8/13/1995,1
+Martinez,6/15/1999,1
+Martinez,1/23/2001,1
+Martinez,8/27/2001,2
+Martinez,3/30/2002,1
+Martinez,6/29/2002,1
+Martinez,8/9/2002,1
+Martinez,1/16/2003,1
+Martinez,12/26/2003,1
+Martinez,3/28/2004,1
+Martinez,9/8/2004,1
+Martinez,11/15/2005,1
+Martinez,3/10/2006,1
+Martinez,7/7/2006,1
+Martinez,11/7/2006,1
+Martinez,8/24/2007,1
+Martinez,9/3/2008,1
+Martinez,9/26/2008,1
+Martinez,10/9/2008,1
+Martinez,6/16/2009,1
+Martinez,8/10/2009,1
+Martinez,11/18/2010,1
+Martinez,9/16/2011,1
+Martinez,9/18/2011,1
+Marysville,8/10/1982,1
+Marysville,1/1/1999,1
+Marysville,12/20/1999,1
+Marysville,7/18/2000,1
+Marysville,10/27/2004,1
+Marysville,8/6/2005,1
+Marysville,7/30/2006,1
+Marysville,5/15/2009,1
+Marysville,2/21/2011,1
+Marysville,4/8/2012,1
+Marysville,4/22/2012,1
+Marysville,1/22/2014,1
+Mcarthur,5/20/2013,1
+Mcclellan Park,7/4/2010,1
+Mcclellan Park,2/14/2014,1
+Mccloud,12/10/2005,1
+Mccloud,11/18/2008,1
+Mckinleyville,1/15/1995,1
+Mckinleyville,1/14/1997,1
+Mckinleyville,11/8/2012,1
+Mecca,4/25/2005,1
+Mendocino,9/13/1995,1
+Mendocino,9/14/1995,1
+Mendota,6/30/1966,1
+Mendota,7/4/2005,1
+Mendota,8/13/2008,1
+Mendota,10/3/2008,1
+Menifee,7/10/1984,1
+Menifee,2/27/2005,1
+Menifee,11/12/2005,1
+Menifee,11/30/2010,1
+Menifee,1/4/2011,1
+Menifee,1/16/2014,1
+Mentone,1/1/2014,1
+Merced,2/1/1946,1
+Merced,9/15/1969,1
+Merced,4/26/1996,1
+Merced,6/1/1999,1
+Merced,8/24/1999,1
+Merced,7/4/2003,1
+Merced,4/14/2004,1
+Merced,2/19/2006,1
+Merced,3/3/2007,1
+Merced,4/16/2008,1
+Merced,4/18/2010,1
+Merced,9/2/2011,1
+Merced,11/1/2012,1
+Merced,3/9/2013,1
+Merced,3/13/2013,1
+Merced,6/15/2013,1
+Merced,8/9/2013,2
+Merced,4/13/2014,1
+Midway City,10/8/2008,1
+Mill Valley,10/3/2009,1
+Milpitas,3/22/1983,1
+Milpitas,6/1/1986,1
+Milpitas,12/31/2002,1
+Milpitas,4/28/2003,1
+Milpitas,9/21/2003,1
+Milpitas,7/2/2004,1
+Milpitas,1/23/2008,1
+Milpitas,3/13/2008,1
+Milpitas,12/19/2008,1
+Milpitas,5/10/2009,1
+Milpitas,1/1/2014,1
+Milpitas,2/26/2014,1
+Mission Hills,10/5/1998,1
+Mission Hills,11/24/2007,1
+Mission Viejo,9/20/1999,1
+Mission Viejo,4/1/2000,1
+Mission Viejo,9/26/2000,1
+Mission Viejo,6/28/2001,1
+Mission Viejo,8/16/2001,1
+Mission Viejo,8/17/2003,1
+Mission Viejo,12/9/2003,1
+Mission Viejo,1/18/2005,1
+Mission Viejo,10/30/2005,1
+Mission Viejo,11/2/2006,1
+Mission Viejo,2/18/2007,1
+Mission Viejo,3/11/2007,1
+Mission Viejo,9/20/2007,1
+Mission Viejo,10/9/2007,1
+Mission Viejo,11/10/2008,2
+Mission Viejo,1/24/2012,1
+Mission Viejo,11/14/2012,1
+Mission Viejo,5/3/2013,1
+Mission Viejo,7/18/2013,1
+Mission Viejo,8/15/2013,1
+Mission Viejo,8/24/2013,1
+Modesto,7/10/1992,1
+Modesto,6/11/1995,1
+Modesto,8/10/1998,1
+Modesto,9/24/1998,1
+Modesto,12/26/1998,1
+Modesto,4/15/1999,1
+Modesto,9/10/1999,1
+Modesto,6/7/2000,1
+Modesto,6/20/2000,1
+Modesto,11/18/2001,1
+Modesto,11/25/2001,1
+Modesto,7/9/2002,1
+Modesto,7/14/2002,1
+Modesto,1/24/2003,1
+Modesto,1/28/2004,1
+Modesto,5/31/2004,1
+Modesto,7/17/2004,1
+Modesto,7/19/2004,1
+Modesto,8/14/2004,1
+Modesto,1/11/2005,1
+Modesto,1/30/2005,1
+Modesto,2/23/2005,1
+Modesto,5/28/2005,1
+Modesto,6/17/2005,1
+Modesto,7/3/2005,1
+Modesto,10/4/2005,1
+Modesto,3/8/2007,1
+Modesto,3/26/2007,1
+Modesto,9/2/2007,1
+Modesto,11/19/2007,1
+Modesto,11/30/2007,1
+Modesto,3/24/2008,1
+Modesto,6/2/2008,1
+Modesto,8/21/2008,1
+Modesto,9/4/2008,1
+Modesto,11/6/2008,1
+Modesto,11/30/2008,1
+Modesto,1/20/2009,1
+Modesto,4/19/2009,1
+Modesto,6/16/2009,1
+Modesto,8/24/2009,1
+Modesto,8/26/2009,1
+Modesto,8/27/2009,1
+Modesto,9/13/2009,1
+Modesto,9/20/2009,1
+Modesto,9/23/2009,1
+Modesto,9/27/2009,1
+Modesto,9/28/2009,1
+Modesto,11/27/2009,1
+Modesto,11/28/2009,1
+Modesto,1/13/2010,1
+Modesto,2/7/2010,1
+Modesto,2/9/2010,1
+Modesto,3/15/2010,1
+Modesto,3/28/2010,1
+Modesto,3/31/2010,1
+Modesto,4/4/2010,1
+Modesto,6/2/2010,1
+Modesto,9/7/2010,1
+Modesto,2/6/2011,1
+Modesto,3/26/2011,1
+Modesto,5/29/2011,1
+Modesto,6/29/2011,2
+Modesto,8/2/2012,1
+Modesto,8/30/2012,1
+Modesto,9/28/2012,1
+Modesto,12/31/2012,1
+Modesto,1/1/2013,1
+Modesto,4/27/2013,1
+Modesto,7/4/2013,1
+Modesto,10/30/2013,1
+Modesto,12/28/2013,1
+Modesto,1/1/2014,1
+Modesto,3/2/2014,1
+Modesto,3/5/2014,1
+Mojave,8/15/1959,1
+Mojave,6/15/1968,1
+Mojave,9/15/1971,1
+Mojave,7/30/1972,1
+Mojave,7/1/1978,1
+Mojave,7/19/1978,1
+Mojave,4/14/1981,1
+Mojave,6/15/1985,1
+Mojave,4/9/1989,1
+Mojave,6/25/1995,1
+Mojave,7/9/1995,1
+Mojave,11/18/1995,1
+Mojave,7/16/1997,1
+Mojave,12/21/2000,1
+Mojave,7/26/2002,1
+Mojave,7/27/2004,1
+Mojave,8/3/2004,1
+Mojave,9/4/2004,1
+Mojave,9/29/2004,1
+Mojave,2/18/2010,1
+Mojave,4/30/2011,1
+Mojave,12/3/2011,1
+Mojave,3/20/2012,1
+Mojave,7/5/2013,1
+Mojave,4/24/2014,1
+Monrovia,4/15/1996,1
+Monrovia,4/12/1997,1
+Monrovia,11/26/1999,1
+Monrovia,7/1/2001,1
+Monrovia,12/31/2002,1
+Monrovia,1/3/2006,1
+Monrovia,5/28/2012,1
+Monrovia,8/16/2012,1
+Monrovia,9/12/2012,1
+Monrovia,8/3/2013,1
+Monrovia,11/24/2013,1
+Monrovia,2/21/2014,1
+Monson,7/30/2010,1
+Montclair,1/6/2003,1
+Montclair,7/9/2005,1
+Montclair,1/1/2007,1
+Montclair,6/6/2010,1
+Montclair,6/2/2011,1
+Monte Rio,5/9/1999,1
+Montebello,6/1/1997,1
+Montebello,6/12/1998,1
+Montebello,8/23/2003,1
+Montebello,8/24/2003,2
+Montebello,8/28/2003,1
+Montebello,8/30/2003,2
+Montebello,8/31/2003,2
+Montebello,9/7/2003,1
+Montebello,2/26/2006,1
+Montebello,11/12/2007,1
+Montebello,9/28/2008,1
+Monterey,9/15/1964,1
+Monterey,6/15/1978,1
+Monterey,11/25/1996,1
+Monterey,3/13/1997,1
+Monterey,6/9/1997,1
+Monterey,3/29/1999,1
+Monterey,8/1/1999,1
+Monterey,10/31/2001,1
+Monterey,1/12/2002,1
+Monterey,1/31/2002,1
+Monterey,4/12/2003,1
+Monterey,6/15/2003,1
+Monterey,6/25/2003,1
+Monterey,6/4/2004,1
+Monterey,7/27/2004,1
+Monterey,9/16/2006,1
+Monterey,11/8/2006,1
+Monterey,3/25/2007,1
+Monterey,11/14/2007,1
+Monterey,4/16/2008,1
+Monterey,11/14/2009,1
+Monterey,1/23/2010,1
+Monterey,2/6/2010,1
+Monterey,3/28/2010,1
+Monterey,4/3/2010,1
+Monterey,6/27/2010,1
+Monterey,2/26/2011,1
+Monterey,6/14/2011,1
+Monterey,12/5/2011,1
+Monterey,6/27/2012,1
+Monterey,1/31/2013,1
+Monterey,2/19/2013,1
+Monterey,4/2/2013,1
+Monterey,7/2/2013,1
+Monterey Bay,2/19/2014,1
+Monterey Park,11/12/1971,1
+Monterey Park,9/15/1977,1
+Monterey Park,5/13/2002,1
+Monterey Park,8/30/2003,1
+Monterey Park,3/25/2006,1
+Monterey Park,5/18/2009,1
+Monterey Park,6/27/2009,1
+Monterey Park,7/14/2010,1
+Monterey Park,3/14/2011,1
+Monterey Park,3/22/2013,1
+Montrose,11/9/2010,1
+Moorpark,1/14/1994,1
+Moraga,11/15/2005,1
+Moraga,1/17/2009,1
+Moreno Valley,7/15/1983,1
+Moreno Valley,2/17/1998,1
+Moreno Valley,5/1/2000,1
+Moreno Valley,12/15/2001,1
+Moreno Valley,1/22/2004,1
+Moreno Valley,11/8/2006,1
+Moreno Valley,8/28/2007,1
+Moreno Valley,9/2/2007,1
+Moreno Valley,8/7/2009,1
+Moreno Valley,9/26/2009,1
+Moreno Valley,9/28/2009,1
+Moreno Valley,1/2/2011,1
+Moreno Valley,1/4/2012,1
+Moreno Valley,7/8/2012,1
+Moreno Valley,7/23/2013,1
+Moreno Valley,9/12/2013,1
+Moreno Valley,9/28/2013,1
+Moreno Valley,12/28/2013,1
+Moreno Valley,1/1/2014,1
+Moreno Valley,1/4/2014,1
+Moreno Valley,2/5/2014,1
+Morgan Hill,9/5/1980,1
+Morgan Hill,9/2/1991,1
+Morgan Hill,6/1/1994,1
+Morgan Hill,11/21/2001,1
+Morgan Hill,9/23/2003,1
+Morgan Hill,1/30/2005,1
+Morgan Hill,9/6/2005,1
+Morgan Hill,11/7/2007,1
+Morgan Hill,1/20/2008,1
+Morgan Hill,6/10/2008,1
+Morgan Hill,7/4/2011,1
+Morgan Hill,9/5/2011,1
+Morgan Hill,2/19/2012,1
+Morgan Hill,1/3/2014,1
+Morgan Hill,1/6/2014,1
+Morongo Valley,6/6/2002,1
+Morongo Valley,12/31/2006,1
+Morongo Valley,11/16/2008,1
+Morongo Valley,11/17/2008,1
+Morro Bay,8/12/1968,1
+Morro Bay,11/21/2000,1
+Morro Bay,1/7/2003,1
+Morro Bay,5/22/2008,1
+Morro Bay,6/10/2008,1
+Morro Bay,9/14/2013,1
+Moss Beach,6/1/1975,1
+Moss Beach,5/28/1999,1
+Moss Beach,6/11/2003,1
+Moss Beach,7/24/2010,1
+Moss Landing,11/23/2006,1
+Mount Shasta,6/30/1965,1
+Mount Shasta,2/10/1996,1
+Mount Shasta,6/3/1999,1
+Mount Shasta,9/9/1999,1
+Mount Shasta,9/10/2002,1
+Mount Shasta,8/24/2003,1
+Mount Shasta,8/31/2006,1
+Mount Shasta,9/23/2006,1
+Mount Shasta,12/3/2006,1
+Mount Shasta,12/7/2011,1
+Mount Shasta,6/22/2013,1
+Mountain House,7/23/1999,1
+Mountain Ranch,7/1/1993,1
+Mountain Ranch,4/21/2001,1
+Mountain Ranch,12/3/2003,1
+Mountain Ranch,1/20/2005,1
+Mountain Ranch,4/6/2005,1
+Mountain Ranch,8/11/2007,1
+Mountain Ranch,3/1/2008,1
+Mountain Ranch,6/2/2010,1
+Mountain Ranch,8/23/2010,1
+Mountain Ranch,8/15/2011,1
+Mountain View,3/16/1997,1
+Mountain View,3/30/1998,1
+Mountain View,2/2/1999,1
+Mountain View,9/17/2000,1
+Mountain View,5/4/2001,1
+Mountain View,9/12/2001,1
+Mountain View,3/18/2002,1
+Mountain View,2/1/2003,1
+Mountain View,6/28/2003,1
+Mountain View,11/3/2005,1
+Mountain View,6/19/2007,1
+Mountain View,10/6/2007,1
+Mountain View,6/7/2008,1
+Mountain View,2/17/2009,1
+Mountain View,5/10/2009,1
+Mountain View,6/20/2011,1
+Mountain View,1/7/2012,1
+Mountain View,11/1/2013,1
+Muir Beach,6/1/1969,1
+Muir Beach,8/2/1999,1
+Muir Beach,7/11/2009,1
+Muir Beach,9/1/2009,1
+Muir Beach,4/13/2012,1
+Murphys,11/29/2007,1
+Murrieta,8/31/1981,1
+Murrieta,12/20/1999,1
+Murrieta,1/2/2000,1
+Murrieta,7/4/2002,1
+Murrieta,4/15/2004,1
+Murrieta,9/4/2004,1
+Murrieta,9/5/2004,1
+Murrieta,3/23/2005,1
+Murrieta,4/30/2005,1
+Murrieta,5/21/2006,1
+Murrieta,6/14/2006,1
+Murrieta,1/28/2007,1
+Murrieta,12/1/2007,1
+Murrieta,2/22/2008,1
+Murrieta,5/26/2008,1
+Murrieta,9/5/2008,1
+Murrieta,3/13/2009,1
+Murrieta,1/1/2011,1
+Murrieta,1/6/2011,3
+Murrieta,2/23/2011,1
+Murrieta,6/5/2012,1
+Napa,6/11/1950,1
+Napa,6/2/1974,1
+Napa,6/6/1977,1
+Napa,6/16/1979,1
+Napa,6/26/1988,1
+Napa,8/20/1994,1
+Napa,8/10/1999,1
+Napa,9/29/2000,1
+Napa,12/10/2001,1
+Napa,2/9/2002,1
+Napa,6/29/2002,1
+Napa,7/1/2002,1
+Napa,1/15/2003,1
+Napa,1/23/2003,1
+Napa,11/23/2003,1
+Napa,12/15/2003,1
+Napa,3/15/2004,1
+Napa,2/6/2005,1
+Napa,3/24/2005,1
+Napa,9/16/2006,1
+Napa,11/1/2006,1
+Napa,8/2/2007,1
+Napa,2/25/2008,1
+Napa,3/26/2008,1
+Napa,8/12/2008,1
+Napa,8/17/2008,1
+Napa,12/1/2009,1
+Napa,6/20/2010,1
+Napa,12/30/2010,1
+Napa,1/21/2011,1
+Napa,1/9/2012,1
+Napa,10/26/2012,1
+Napa,2/11/2013,1
+Napa,6/8/2013,1
+Napa,7/2/2013,1
+Napa,9/9/2013,1
+Napa,11/4/2013,1
+Napa,12/7/2013,1
+Napa,1/10/2014,1
+Napa,3/4/2014,1
+Napa,4/5/2014,1
+Nas Point Mugu,1/11/2002,1
+National City,1/17/2003,1
+National City,1/28/2003,1
+National City,11/20/2008,1
+National City,1/1/2010,1
+National City,1/3/2011,1
+Nevada City,11/9/2004,1
+Newark,12/19/2001,1
+Newark,4/24/2003,1
+Newark,6/1/2004,1
+Newark,2/10/2007,1
+Newark,4/15/2008,1
+Newark,4/18/2008,1
+Newark,4/15/2009,1
+Newark,8/14/2009,1
+Newbury Park,7/20/1976,1
+Newbury Park,2/1/1998,1
+Newbury Park,8/15/2000,1
+Newbury Park,5/11/2001,1
+Newbury Park,11/15/2004,1
+Newbury Park,1/25/2007,1
+Newbury Park,1/18/2009,1
+Newbury Park,9/8/2009,1
+Newbury Park,8/20/2012,1
+Newbury Park,4/20/2013,1
+Newport Beach,6/30/1973,1
+Newport Beach,5/5/1994,1
+Newport Beach,6/15/1996,1
+Newport Beach,5/4/1997,1
+Newport Beach,8/6/1999,1
+Newport Beach,12/15/2002,1
+Newport Beach,3/1/2005,1
+Newport Beach,8/6/2005,1
+Newport Beach,1/5/2006,1
+Newport Beach,7/20/2006,1
+Newport Beach,12/2/2006,2
+Newport Beach,12/8/2006,1
+Newport Beach,1/2/2007,1
+Newport Beach,1/17/2007,1
+Newport Beach,9/30/2007,1
+Newport Beach,11/1/2007,1
+Newport Beach,5/30/2008,1
+Newport Beach,10/30/2008,1
+Newport Beach,3/10/2009,1
+Newport Beach,3/12/2009,1
+Newport Beach,7/19/2009,1
+Newport Beach,12/8/2009,1
+Newport Beach,5/19/2012,1
+Newport Beach,9/25/2013,1
+Newport Beach,1/10/2014,1
+Newport Beach,2/14/2014,1
+Newport Beach,2/22/2014,1
+Newport Coast,4/9/2000,1
+Nicasio,11/20/2003,1
+Nicasio,10/30/2005,1
+Nipinnawasee,9/1/1976,1
+Nipinnawasee,8/6/2002,1
+Nipomo,6/1/1966,1
+Nipomo,8/17/1987,1
+Nipomo,4/5/2003,2
+Nipomo,9/16/2006,1
+Nipomo,12/29/2012,1
+Norco,11/20/2008,1
+North Fork,6/30/1990,1
+North Fork,7/15/1990,1
+North Fork,6/24/2000,1
+North Highlands,12/14/2003,1
+North Highlands,12/14/2012,1
+North Hollywood,8/1/1954,1
+North Hollywood,5/7/1958,1
+North Hollywood,4/15/1967,1
+North Hollywood,8/17/1969,1
+North Hollywood,2/8/2000,1
+North Hollywood,9/30/2000,1
+North Hollywood,11/16/2001,1
+North Hollywood,8/26/2003,1
+North Hollywood,12/15/2003,1
+North Hollywood,6/24/2004,1
+North Hollywood,9/10/2004,1
+North Hollywood,1/1/2005,1
+North Hollywood,9/22/2005,1
+North Hollywood,11/14/2005,1
+North Hollywood,11/2/2006,1
+North Hollywood,3/11/2007,1
+North Hollywood,6/23/2007,1
+North Hollywood,6/21/2008,1
+North Hollywood,6/30/2008,1
+North Hollywood,11/9/2008,1
+North Hollywood,1/31/2009,1
+North Hollywood,5/10/2009,1
+North Hollywood,3/31/2010,1
+North Hollywood,7/15/2010,1
+North Hollywood,1/15/2011,1
+North Hollywood,12/26/2011,1
+North Hollywood,11/4/2012,2
+North Hollywood,11/23/2012,1
+North Hollywood,2/14/2013,1
+North Hollywood,5/18/2013,1
+North Hollywood,7/13/2013,1
+North Lakeport,5/8/2013,1
+North Richmond,5/5/1959,1
+North Richmond,5/30/2001,1
+North Richmond,4/12/2005,1
+North Richmond,3/6/2009,1
+North Richmond,5/30/2013,1
+Northridge,12/15/2002,1
+Northridge,10/31/2005,1
+Northridge,10/28/2010,1
+Northridge,10/31/2010,1
+Northridge,11/6/2011,1
+Norwalk,6/21/1957,1
+Norwalk,6/1/1975,1
+Norwalk,5/19/1990,1
+Norwalk,11/23/2000,1
+Norwalk,11/4/2001,1
+Norwalk,12/23/2003,1
+Norwalk,3/13/2004,1
+Norwalk,5/8/2004,1
+Norwalk,7/12/2004,1
+Norwalk,12/3/2004,1
+Norwalk,7/31/2005,1
+Norwalk,9/24/2005,1
+Norwalk,12/3/2005,1
+Norwalk,3/10/2006,1
+Norwalk,4/22/2006,1
+Norwalk,2/17/2007,1
+Norwalk,5/15/2007,1
+Norwalk,7/29/2007,1
+Norwalk,1/12/2008,1
+Norwalk,4/17/2008,1
+Norwalk,6/18/2008,2
+Norwalk,7/28/2008,1
+Norwalk,8/13/2008,1
+Norwalk,1/5/2009,1
+Norwalk,5/26/2010,1
+Norwalk,8/8/2011,1
+Norwalk,10/28/2011,1
+Norwalk,5/12/2012,1
+Norwalk,6/23/2012,1
+Norwalk,5/10/2013,1
+Novato,7/15/1958,1
+Novato,8/10/1989,1
+Novato,3/13/1998,1
+Novato,3/4/1999,1
+Novato,4/30/1999,1
+Novato,9/1/1999,1
+Novato,9/27/2000,1
+Novato,2/15/2004,1
+Novato,9/22/2004,1
+Novato,9/29/2004,1
+Novato,7/21/2006,1
+Novato,12/16/2006,1
+Novato,3/20/2007,1
+Novato,9/2/2007,1
+Novato,7/11/2008,1
+Novato,11/22/2011,1
+Novato,2/4/2012,1
+Novato,7/16/2013,1
+O'neals,1/10/2011,1
+Oak Glen,3/29/1964,1
+Oak Glen,4/30/2003,1
+Oak Glen,8/16/2003,1
+Oak Glen,5/2/2008,1
+Oak Glen,3/2/2009,1
+Oak Glen,7/4/2012,1
+Oak Park,11/20/2002,1
+Oak View,10/6/2007,1
+Oakhurst,7/3/2007,1
+Oakhurst,5/17/2009,1
+Oakhurst,7/4/2013,1
+Oakhurst,7/20/2013,1
+Oakland,7/21/1968,1
+Oakland,3/28/1994,1
+Oakland,11/14/1997,1
+Oakland,12/10/1997,1
+Oakland,10/9/1998,1
+Oakland,9/1/2000,1
+Oakland,11/13/2000,1
+Oakland,5/6/2001,1
+Oakland,7/1/2001,1
+Oakland,11/25/2001,1
+Oakland,1/16/2002,1
+Oakland,6/7/2003,1
+Oakland,7/9/2003,1
+Oakland,8/31/2003,1
+Oakland,3/17/2004,1
+Oakland,9/4/2004,1
+Oakland,10/6/2004,1
+Oakland,5/10/2006,1
+Oakland,9/16/2006,1
+Oakland,12/1/2006,1
+Oakland,1/14/2007,1
+Oakland,7/27/2007,1
+Oakland,4/21/2008,1
+Oakland,12/24/2008,1
+Oakland,2/1/2009,1
+Oakland,5/2/2009,1
+Oakland,5/17/2009,1
+Oakland,6/14/2009,1
+Oakland,10/28/2009,1
+Oakland,1/4/2010,1
+Oakland,1/30/2010,1
+Oakland,4/9/2010,1
+Oakland,5/7/2010,1
+Oakland,7/9/2010,1
+Oakland,12/26/2010,1
+Oakland,2/26/2011,1
+Oakland,12/17/2011,1
+Oakland,4/16/2012,1
+Oakland,6/24/2012,1
+Oakland,7/8/2012,1
+Oakland,9/16/2012,1
+Oakland,9/22/2012,1
+Oakland,1/13/2013,1
+Oakland,7/29/2013,1
+Oakland,8/31/2013,1
+Oakland,11/4/2013,1
+Oakland,12/22/2013,1
+Oakland,2/21/2014,1
+Oakley,6/8/2003,1
+Oakley,8/20/2004,1
+Oakley,8/21/2011,2
+Oakley,1/13/2012,1
+Oakley,3/12/2012,1
+Oakley,9/1/2012,1
+Oakley,11/29/2012,2
+Oakley,2/27/2013,1
+Oakley,5/19/2013,1
+Oakley,11/30/2013,2
+Oakley,12/2/2013,1
+Oakley,1/21/2014,1
+Occidental,8/29/2001,1
+Oceano,12/26/2012,1
+Oceanside,11/1/1969,1
+Oceanside,11/1/1975,1
+Oceanside,6/1/1993,1
+Oceanside,5/2/1997,2
+Oceanside,2/14/1998,1
+Oceanside,9/10/1998,1
+Oceanside,12/10/1998,1
+Oceanside,4/9/2000,1
+Oceanside,8/20/2000,1
+Oceanside,1/1/2001,1
+Oceanside,1/26/2001,1
+Oceanside,11/26/2002,1
+Oceanside,8/3/2003,1
+Oceanside,12/5/2003,1
+Oceanside,7/2/2004,1
+Oceanside,2/15/2006,1
+Oceanside,10/3/2006,1
+Oceanside,7/20/2007,1
+Oceanside,12/3/2007,1
+Oceanside,3/20/2008,1
+Oceanside,4/4/2009,1
+Oceanside,9/25/2010,1
+Oceanside,3/9/2011,1
+Oceanside,7/25/2011,1
+Oceanside,11/9/2012,1
+Oceanside,12/24/2012,1
+Oceanside,4/4/2013,1
+Oceanside,4/20/2013,1
+Oceanside,5/20/2013,1
+Oceanside,12/24/2013,1
+Ocotillo,6/4/1998,1
+Oildale,8/10/1996,1
+Oildale,9/22/2005,1
+Oildale,6/12/2009,1
+Oildale,7/8/2012,1
+Oildale,2/8/2014,1
+Ojai,7/15/1948,1
+Ojai,1/15/1987,1
+Ojai,7/1/2000,1
+Ojai,6/9/2001,1
+Ojai,5/27/2002,2
+Ojai,8/14/2002,1
+Ojai,5/22/2004,1
+Ojai,2/24/2005,1
+Ojai,7/26/2008,1
+Ojai,9/20/2010,1
+Ojai,12/15/2013,1
+Old Station,11/14/1979,1
+Old Station,6/23/2007,1
+Old Station,10/7/2013,1
+Olivehurst,1/1/2009,1
+Olivehurst,11/18/2010,1
+Olivehurst,11/18/2012,1
+Olivehurst,11/10/2013,1
+Ontario,4/10/1968,1
+Ontario,6/15/1986,1
+Ontario,6/15/1999,1
+Ontario,7/6/2000,1
+Ontario,6/15/2001,1
+Ontario,12/24/2001,1
+Ontario,8/22/2002,1
+Ontario,9/16/2002,1
+Ontario,9/26/2003,1
+Ontario,3/1/2006,1
+Ontario,3/19/2006,1
+Ontario,9/5/2006,1
+Ontario,4/19/2009,1
+Ontario,12/13/2009,1
+Ontario,3/4/2010,1
+Ontario,3/3/2012,1
+Ontario,3/13/2013,1
+Ontario,8/18/2013,1
+Ontario,12/14/2013,1
+Ontario,4/29/2014,1
+Orange,11/9/1973,1
+Orange,2/15/1974,1
+Orange,6/15/1978,1
+Orange,1/1/1979,1
+Orange,6/15/1995,1
+Orange,12/6/1998,1
+Orange,6/25/2000,1
+Orange,7/15/2000,1
+Orange,7/5/2001,1
+Orange,7/11/2001,1
+Orange,1/2/2003,1
+Orange,7/13/2004,1
+Orange,11/17/2004,1
+Orange,12/14/2004,1
+Orange,1/5/2005,1
+Orange,9/2/2006,1
+Orange,10/3/2006,1
+Orange,4/10/2007,1
+Orange,9/9/2007,1
+Orange,6/15/2008,1
+Orange,10/31/2008,1
+Orange,11/19/2008,1
+Orange,1/15/2009,1
+Orange,7/14/2009,1
+Orange,1/2/2010,1
+Orange,7/16/2010,1
+Orange,7/18/2010,1
+Orange,9/2/2010,1
+Orange,4/4/2011,1
+Orange,7/7/2012,1
+Orange,5/26/2013,1
+Orange,7/4/2013,1
+Orange,12/23/2013,1
+Orange,1/30/2014,1
+Orange,4/9/2014,1
+Orinda,1/12/1980,1
+Orinda,11/29/2006,1
+Orinda,12/13/2008,1
+Orinda,12/1/2010,1
+Orland,9/1/1999,1
+Orland,1/17/2000,1
+Orland,5/21/2003,1
+Orland,6/30/2003,1
+Orland,12/10/2005,1
+Orland,4/9/2006,2
+Orland,4/26/2007,1
+Orland,12/13/2007,1
+Orland,3/17/2009,1
+Orland,7/4/2010,1
+Orland,11/21/2010,1
+Orland,3/11/2011,1
+Orland,4/23/2011,1
+Orland,9/19/2012,1
+Oroville,6/1/1947,1
+Oroville,6/1/1980,1
+Oroville,1/17/1981,1
+Oroville,6/6/1995,1
+Oroville,12/15/1998,1
+Oroville,1/2/2000,1
+Oroville,1/17/2000,1
+Oroville,1/24/2006,1
+Oroville,9/17/2007,1
+Oroville,1/4/2009,1
+Oroville,5/8/2011,1
+Oroville,11/15/2011,1
+Oroville,2/13/2012,2
+Oroville,12/7/2013,1
+Oroville,3/19/2014,1
+Oxnard,12/25/1971,1
+Oxnard,11/1/1982,1
+Oxnard,1/1/1995,1
+Oxnard,12/18/1997,1
+Oxnard,8/20/1998,1
+Oxnard,2/14/2002,1
+Oxnard,4/17/2002,1
+Oxnard,5/11/2002,1
+Oxnard,5/21/2002,1
+Oxnard,5/22/2002,1
+Oxnard,1/22/2003,1
+Oxnard,6/13/2003,1
+Oxnard,5/21/2005,1
+Oxnard,11/5/2005,1
+Oxnard,10/28/2006,1
+Oxnard,1/12/2007,1
+Oxnard,2/11/2007,1
+Oxnard,6/8/2008,1
+Oxnard,7/4/2008,1
+Oxnard,9/19/2008,1
+Oxnard,2/24/2009,1
+Oxnard,4/18/2009,1
+Oxnard,1/20/2010,1
+Oxnard,9/20/2010,1
+Oxnard,11/2/2010,1
+Oxnard,11/5/2010,1
+Oxnard,7/24/2011,1
+Oxnard,1/2/2012,1
+Oxnard,2/16/2012,1
+Oxnard,5/27/2012,1
+Oxnard,6/10/2012,1
+Oxnard,7/24/2012,1
+Oxnard,12/17/2012,1
+Oxnard,5/13/2013,1
+Oxnard,11/14/2013,1
+Oxnard,4/25/2014,1
+Pacifica,11/9/1998,1
+Pacifica,10/28/2011,1
+Pacifica,11/5/2012,1
+Paicines,1/16/2007,2
+Palm Desert,9/7/1982,1
+Palm Desert,4/5/1990,1
+Palm Desert,8/15/1993,1
+Palm Desert,5/11/1995,1
+Palm Desert,11/29/1998,1
+Palm Desert,5/15/1999,1
+Palm Desert,3/18/2000,1
+Palm Desert,4/20/2000,1
+Palm Desert,10/7/2000,1
+Palm Desert,11/23/2000,1
+Palm Desert,2/18/2001,1
+Palm Desert,8/25/2003,1
+Palm Desert,3/4/2004,1
+Palm Desert,6/30/2004,1
+Palm Desert,12/9/2004,1
+Palm Desert,3/26/2005,1
+Palm Desert,11/24/2005,1
+Palm Desert,5/31/2006,1
+Palm Desert,1/8/2008,1
+Palm Desert,2/3/2009,1
+Palm Desert,7/19/2009,1
+Palm Desert,2/21/2011,1
+Palm Desert,11/21/2011,1
+Palm Desert,1/1/2013,1
+Palm Desert,4/9/2013,1
+Palm Desert,5/8/2013,1
+Palm Desert,5/24/2013,1
+Palm Desert,6/13/2013,1
+Palm Desert,12/31/2013,1
+Palm Desert,4/3/2014,1
+Palm Desert,4/10/2014,1
+Palm Springs,1/20/1951,1
+Palm Springs,4/10/1986,1
+Palm Springs,6/30/1987,1
+Palm Springs,11/1/1995,1
+Palm Springs,11/28/1995,1
+Palm Springs,3/27/1997,1
+Palm Springs,8/3/1997,1
+Palm Springs,8/24/1997,1
+Palm Springs,1/30/1999,1
+Palm Springs,2/20/1999,1
+Palm Springs,3/23/1999,1
+Palm Springs,7/27/1999,1
+Palm Springs,11/30/1999,1
+Palm Springs,3/15/2000,1
+Palm Springs,4/27/2000,1
+Palm Springs,8/20/2000,1
+Palm Springs,9/26/2000,1
+Palm Springs,4/13/2002,1
+Palm Springs,2/25/2003,1
+Palm Springs,5/1/2003,1
+Palm Springs,5/3/2003,2
+Palm Springs,1/25/2004,1
+Palm Springs,3/25/2004,1
+Palm Springs,7/24/2004,1
+Palm Springs,7/28/2004,1
+Palm Springs,8/6/2004,1
+Palm Springs,4/6/2005,1
+Palm Springs,6/17/2005,1
+Palm Springs,9/26/2005,1
+Palm Springs,1/8/2006,1
+Palm Springs,3/7/2006,1
+Palm Springs,8/4/2006,1
+Palm Springs,11/12/2007,1
+Palm Springs,11/18/2007,1
+Palm Springs,3/19/2008,1
+Palm Springs,4/13/2008,1
+Palm Springs,5/8/2008,1
+Palm Springs,10/26/2008,1
+Palm Springs,11/7/2008,1
+Palm Springs,11/10/2008,1
+Palm Springs,4/25/2009,1
+Palm Springs,5/5/2010,1
+Palm Springs,9/5/2010,1
+Palm Springs,12/15/2010,1
+Palm Springs,4/14/2011,1
+Palm Springs,5/11/2011,1
+Palm Springs,9/14/2011,1
+Palm Springs,12/1/2011,1
+Palm Springs,4/12/2012,1
+Palm Springs,5/20/2012,1
+Palm Springs,6/21/2012,1
+Palm Springs,8/26/2012,1
+Palm Springs,11/22/2012,1
+Palm Springs,4/21/2013,1
+Palm Springs,9/28/2013,1
+Palm Springs,1/25/2014,1
+Palmdale,6/1/1960,1
+Palmdale,8/1/1970,1
+Palmdale,6/7/1996,1
+Palmdale,10/3/2002,1
+Palmdale,12/22/2003,1
+Palmdale,1/4/2004,1
+Palmdale,8/16/2004,1
+Palmdale,2/27/2005,1
+Palmdale,5/1/2005,1
+Palmdale,5/2/2005,1
+Palmdale,7/23/2005,1
+Palmdale,12/6/2005,1
+Palmdale,5/7/2006,1
+Palmdale,3/24/2007,1
+Palmdale,4/16/2007,1
+Palmdale,6/11/2007,1
+Palmdale,6/24/2007,1
+Palmdale,7/26/2007,1
+Palmdale,1/28/2008,1
+Palmdale,6/20/2008,1
+Palmdale,7/4/2008,1
+Palmdale,7/30/2008,1
+Palmdale,8/23/2008,1
+Palmdale,1/1/2009,1
+Palmdale,1/6/2009,1
+Palmdale,5/27/2010,1
+Palmdale,6/25/2010,1
+Palmdale,7/1/2010,1
+Palmdale,9/24/2010,1
+Palmdale,11/8/2010,1
+Palmdale,12/23/2011,1
+Palmdale,8/2/2012,1
+Palmdale,1/11/2014,1
+Palo Alto,4/1/1954,1
+Palo Alto,6/15/1956,1
+Palo Alto,6/22/1976,1
+Palo Alto,9/19/1995,1
+Palo Alto,12/4/1998,1
+Palo Alto,8/25/1999,1
+Palo Alto,12/15/2000,1
+Palo Alto,11/19/2001,1
+Palo Alto,9/19/2002,1
+Palo Alto,9/12/2003,1
+Palo Alto,9/23/2003,1
+Palo Alto,9/29/2003,1
+Palo Alto,11/28/2003,1
+Palo Alto,9/12/2004,1
+Palo Alto,12/15/2004,1
+Palo Alto,12/23/2004,1
+Palo Alto,7/3/2005,1
+Palo Alto,11/20/2005,1
+Palo Alto,4/4/2007,1
+Palo Alto,4/12/2008,1
+Palo Alto,3/11/2009,1
+Palo Alto,8/20/2009,1
+Palo Alto,9/26/2010,1
+Palo Alto,5/10/2011,1
+Palo Alto,12/12/2011,1
+Palo Alto,5/20/2012,1
+Palo Alto,6/25/2013,1
+Palo Alto,10/30/2013,1
+Palo Alto,1/11/2014,1
+Palo Alto,2/16/2014,1
+Palo Alto,4/29/2014,1
+Palomar Mountain,7/17/2011,1
+Panorama City,1/17/2003,1
+Paradise,1/8/1999,1
+Paradise,1/10/1999,1
+Paradise,6/17/2002,1
+Paradise,6/18/2002,1
+Paradise,3/15/2005,1
+Paradise,6/21/2005,1
+Paradise,12/1/2007,1
+Paradise,9/8/2009,1
+Paradise,11/16/2009,1
+Paradise,7/20/2011,1
+Paramount,1/20/2007,2
+Parkway,3/2/2000,1
+Parlier,2/14/1991,1
+Parlier,6/20/2008,1
+Parlier,7/4/2010,1
+Parlier,7/17/2013,1
+Pasadena,6/30/1954,1
+Pasadena,5/5/1978,1
+Pasadena,9/20/1989,1
+Pasadena,7/15/1991,1
+Pasadena,9/15/1998,1
+Pasadena,2/18/2000,1
+Pasadena,3/19/2000,1
+Pasadena,6/17/2000,1
+Pasadena,8/26/2000,1
+Pasadena,11/18/2000,1
+Pasadena,12/28/2000,1
+Pasadena,6/27/2001,1
+Pasadena,11/17/2001,1
+Pasadena,12/8/2001,1
+Pasadena,8/16/2003,1
+Pasadena,8/30/2003,1
+Pasadena,11/10/2003,1
+Pasadena,12/11/2003,1
+Pasadena,3/2/2004,1
+Pasadena,9/16/2004,1
+Pasadena,1/1/2007,1
+Pasadena,4/23/2007,1
+Pasadena,11/10/2007,1
+Pasadena,7/6/2008,1
+Pasadena,11/5/2008,1
+Pasadena,1/1/2010,1
+Pasadena,2/13/2010,1
+Pasadena,3/14/2010,1
+Pasadena,12/31/2011,1
+Pasadena,2/27/2012,1
+Pasadena,7/4/2012,2
+Pasadena,12/10/2012,1
+Pasadena,12/14/2012,1
+Pasadena,2/14/2013,1
+Pasadena,2/24/2013,1
+Pasadena,10/27/2013,1
+Paso Robles,2/2/1999,1
+Paso Robles,5/30/1999,1
+Paso Robles,5/22/2000,1
+Paso Robles,6/29/2000,1
+Paso Robles,6/30/2000,1
+Paso Robles,11/10/2000,1
+Paso Robles,11/27/2005,2
+Paso Robles,3/22/2007,1
+Paso Robles,7/2/2007,1
+Paso Robles,8/7/2008,1
+Paso Robles,9/6/2008,1
+Paso Robles,2/28/2011,1
+Paso Robles,5/19/2013,1
+Paso Robles,9/11/2013,1
+Patterson,8/26/1995,1
+Patterson,6/11/1998,1
+Patterson,5/21/1999,1
+Patterson,6/27/2000,1
+Patterson,8/27/2004,1
+Patterson,6/7/2005,1
+Patterson,8/11/2005,1
+Patterson,3/16/2006,1
+Patterson,9/14/2008,1
+Patterson,6/27/2009,1
+Patterson,5/28/2010,1
+Patterson,9/10/2010,1
+Patterson,8/7/2012,1
+Patterson,1/31/2013,1
+Patterson,1/1/2014,1
+Pearblossom,7/9/2003,1
+Pebble Beach,11/26/2009,1
+Penn Valley,12/10/2007,1
+Penn Valley,11/23/2008,1
+Penn Valley,10/27/2011,1
+Penngrove,4/30/2004,1
+Perris,8/15/1990,1
+Perris,8/15/1993,1
+Perris,3/1/1994,1
+Perris,6/12/1998,1
+Perris,4/6/2000,1
+Perris,4/9/2000,1
+Perris,2/18/2001,1
+Perris,10/30/2005,1
+Perris,8/13/2006,1
+Perris,2/5/2008,1
+Perris,3/28/2009,1
+Perris,12/5/2009,1
+Perris,12/16/2009,1
+Perris,1/28/2010,1
+Perris,8/5/2010,1
+Perris,1/6/2011,1
+Perris,1/14/2013,1
+Perris,6/15/2013,1
+Petaluma,3/1/1956,1
+Petaluma,9/5/1975,1
+Petaluma,4/28/1981,1
+Petaluma,3/15/1996,1
+Petaluma,5/13/1997,1
+Petaluma,6/17/1997,1
+Petaluma,7/2/1997,1
+Petaluma,12/15/1998,1
+Petaluma,2/11/1999,1
+Petaluma,11/23/1999,1
+Petaluma,1/23/2000,1
+Petaluma,11/2/2000,1
+Petaluma,12/17/2000,1
+Petaluma,10/27/2001,2
+Petaluma,8/7/2002,1
+Petaluma,7/20/2003,1
+Petaluma,9/20/2003,1
+Petaluma,5/1/2004,1
+Petaluma,6/7/2004,1
+Petaluma,9/22/2004,1
+Petaluma,5/11/2005,1
+Petaluma,11/14/2005,1
+Petaluma,10/8/2006,1
+Petaluma,12/28/2006,1
+Petaluma,6/25/2007,1
+Petaluma,8/29/2007,1
+Petaluma,6/20/2008,1
+Petaluma,8/31/2008,1
+Petaluma,6/21/2010,1
+Petaluma,11/7/2011,1
+Petaluma,9/11/2012,1
+Petaluma,9/22/2012,1
+Petaluma,9/29/2012,1
+Petaluma,10/3/2012,1
+Petaluma,11/12/2012,1
+Petaluma,11/13/2012,1
+Petaluma,3/20/2013,1
+Petaluma,9/7/2013,2
+Pico Rivera,1/15/1997,1
+Pico Rivera,6/17/1997,1
+Pico Rivera,12/16/1999,1
+Pico Rivera,5/31/2002,1
+Pico Rivera,12/6/2002,1
+Pico Rivera,11/30/2003,1
+Pico Rivera,5/11/2004,2
+Pico Rivera,7/16/2005,1
+Pico Rivera,12/1/2007,1
+Pico Rivera,8/6/2009,1
+Pico Rivera,6/10/2010,1
+Pico Rivera,6/29/2012,1
+Pico Rivera,12/6/2012,1
+Pico Rivera,12/24/2012,1
+Pico Rivera,7/20/2013,1
+Piedmont,8/12/1997,1
+Pierpoint,7/10/2001,1
+Pierpoint,6/5/2004,1
+Pine Grove,7/20/1978,1
+Pine Mtn Club,9/10/2013,1
+Pinole,11/23/2013,1
+Pismo Beach,2/20/1979,1
+Pismo Beach,3/6/1988,1
+Pismo Beach,10/8/2000,1
+Pismo Beach,12/31/2000,2
+Pismo Beach,7/21/2001,1
+Pismo Beach,1/1/2003,1
+Pismo Beach,6/18/2003,1
+Pismo Beach,7/4/2005,1
+Pismo Beach,2/15/2006,1
+Pismo Beach,4/22/2006,1
+Pismo Beach,2/1/2009,1
+Pismo Beach,7/12/2012,1
+Pittsburg,5/1/1980,1
+Pittsburg,2/11/1999,1
+Pittsburg,7/22/1999,1
+Pittsburg,9/4/1999,1
+Pittsburg,2/9/2005,1
+Pittsburg,3/5/2005,1
+Pittsburg,12/11/2005,1
+Pittsburg,3/11/2006,1
+Pittsburg,7/5/2006,1
+Pittsburg,11/17/2006,1
+Pittsburg,11/3/2008,1
+Pittsburg,2/5/2009,1
+Pittsburg,3/1/2010,1
+Pittsburg,9/1/2010,1
+Pittsburg,12/21/2010,1
+Pittsburg,9/3/2011,1
+Pittsburg,11/16/2011,1
+Pittsburg,12/11/2012,1
+Pittsburg,2/3/2013,1
+Pittsburg,4/19/2013,1
+Pittsburg,6/12/2013,1
+Pixley,3/31/2001,1
+Pixley,7/5/2008,1
+Placentia,7/1/1994,1
+Placentia,12/10/2001,1
+Placentia,2/24/2002,1
+Placentia,12/16/2005,1
+Placentia,1/26/2008,1
+Placentia,12/13/2008,1
+Placentia,6/15/2010,1
+Placentia,6/9/2012,1
+Placentia,11/10/2012,1
+Placentia,1/1/2014,1
+Placentia,1/10/2014,1
+Placerville,6/1/1974,1
+Placerville,8/1/1981,1
+Placerville,4/15/1991,1
+Placerville,3/31/1995,1
+Placerville,11/19/1995,1
+Placerville,9/5/1999,1
+Placerville,8/8/2000,1
+Placerville,8/20/2000,1
+Placerville,11/28/2000,1
+Placerville,5/6/2003,1
+Placerville,8/3/2003,1
+Placerville,7/7/2004,1
+Placerville,10/6/2004,2
+Placerville,11/15/2004,1
+Placerville,7/1/2007,1
+Placerville,9/17/2007,1
+Placerville,12/10/2008,1
+Placerville,2/6/2013,1
+Placerville,4/16/2013,1
+Placerville,6/6/2013,1
+Playa Del Rey,6/12/1966,1
+Playa Del Rey,8/25/1967,1
+Playa Del Rey,4/3/1987,1
+Playa Del Rey,9/4/1995,1
+Playa Del Rey,6/24/2001,1
+Playa Del Rey,9/27/2008,1
+Playa Del Rey,11/18/2008,1
+Playa Del Rey,1/19/2009,1
+Playa Del Rey,2/15/2012,1
+Playa Del Rey,7/25/2012,1
+Playa Del Rey,12/18/2012,1
+Playa Del Rey,4/5/2013,1
+Pleasant Hill,10/30/1987,1
+Pleasant Hill,1/12/2003,1
+Pleasant Hill,11/8/2005,2
+Pleasanton,8/1/1977,1
+Pleasanton,1/18/2000,1
+Pleasanton,8/13/2002,1
+Pleasanton,12/3/2004,1
+Pleasanton,9/22/2005,1
+Pleasanton,12/23/2006,1
+Pleasanton,11/1/2007,2
+Pleasanton,12/10/2007,1
+Pleasanton,2/2/2009,1
+Pleasanton,11/4/2009,1
+Pleasanton,12/31/2013,1
+Pleasanton,1/5/2014,1
+Pleasanton,1/19/2014,1
+Pleasanton,4/7/2014,1
+Plymouth,6/15/1970,1
+Point Arena,12/21/1999,1
+Point Reyes Station,7/15/1978,1
+Point Reyes Station,11/5/2004,1
+Point Reyes Station,2/6/2007,1
+Pollock Pines,8/1/1968,1
+Pollock Pines,4/29/1997,1
+Pollock Pines,9/10/1999,1
+Pollock Pines,2/5/2000,1
+Pollock Pines,11/11/2000,1
+Pollock Pines,7/25/2009,1
+Pollock Pines,5/4/2010,1
+Pollock Pines,3/3/2012,1
+Pomona,8/15/1968,1
+Pomona,12/14/1995,1
+Pomona,3/29/1999,1
+Pomona,4/14/1999,1
+Pomona,6/13/1999,1
+Pomona,9/15/1999,1
+Pomona,7/1/2004,1
+Pomona,5/23/2005,1
+Pomona,8/23/2005,1
+Pomona,5/5/2006,1
+Pomona,2/3/2007,1
+Pomona,7/23/2007,1
+Pomona,1/14/2008,1
+Pomona,4/5/2008,1
+Pomona,6/1/2009,1
+Pomona,12/24/2009,1
+Pomona,4/7/2010,1
+Pomona,4/8/2010,1
+Pomona,9/16/2010,1
+Pomona,9/29/2010,1
+Pomona,2/5/2011,1
+Pomona,7/8/2012,1
+Pomona,9/1/2012,2
+Pomona,12/7/2012,1
+Pomona,3/8/2014,1
+Port Huememe,5/21/2005,1
+Port Hueneme,11/2/2008,1
+Port Hueneme,11/5/2010,1
+Port Hueneme,11/2/2013,1
+Porter Ranch,10/3/2004,1
+Porter Ranch,11/13/2012,1
+Porterville,4/13/1932,1
+Porterville,8/20/1988,1
+Porterville,7/18/1999,1
+Porterville,1/25/2001,1
+Porterville,3/23/2004,1
+Porterville,10/30/2005,2
+Porterville,11/5/2005,1
+Porterville,12/25/2006,1
+Porterville,8/21/2007,1
+Porterville,3/7/2009,1
+Porterville,9/20/2009,1
+Porterville,4/19/2010,1
+Porterville,6/29/2011,1
+Porterville,1/11/2012,1
+Porterville,5/27/2013,1
+Porterville,2/20/2014,1
+Poway,9/15/1995,1
+Poway,2/23/1996,1
+Poway,11/24/1996,1
+Poway,9/20/1997,1
+Poway,9/10/1998,1
+Poway,9/22/1998,1
+Poway,9/23/1998,1
+Poway,7/8/2000,1
+Poway,8/5/2001,1
+Poway,8/26/2003,1
+Poway,6/17/2004,1
+Poway,9/22/2005,1
+Poway,1/5/2006,1
+Poway,3/2/2007,1
+Poway,7/28/2009,1
+Poway,6/22/2012,1
+Poway,11/21/2013,1
+Proberta,2/20/2014,1
+Prunedale,10/4/2010,1
+Quartz Hill,12/10/1996,1
+Quincy,10/5/2007,1
+Quincy,10/7/2007,1
+Quincy,11/4/2007,1
+Ramona,6/30/1979,1
+Ramona,8/15/1985,1
+Ramona,8/15/1990,1
+Ramona,9/17/1998,1
+Ramona,4/12/1999,1
+Ramona,1/5/2000,1
+Ramona,9/22/2005,1
+Ramona,7/11/2007,1
+Ramona,5/16/2008,1
+Ramona,7/2/2011,1
+Ramona,9/14/2011,1
+Rancho Cordova,1/1/1999,1
+Rancho Cucamonga,11/10/1998,1
+Rancho Cucamonga,2/2/1999,1
+Rancho Cucamonga,11/30/1999,1
+Rancho Cucamonga,7/20/2001,1
+Rancho Cucamonga,10/29/2001,1
+Rancho Cucamonga,10/31/2001,1
+Rancho Cucamonga,6/12/2003,1
+Rancho Cucamonga,7/12/2003,1
+Rancho Cucamonga,9/15/2004,1
+Rancho Cucamonga,9/18/2004,1
+Rancho Cucamonga,1/22/2005,1
+Rancho Cucamonga,12/5/2005,1
+Rancho Cucamonga,4/7/2007,1
+Rancho Cucamonga,5/19/2007,1
+Rancho Cucamonga,8/18/2007,2
+Rancho Cucamonga,7/14/2008,1
+Rancho Cucamonga,9/13/2008,1
+Rancho Cucamonga,1/6/2009,1
+Rancho Cucamonga,1/7/2009,1
+Rancho Cucamonga,1/8/2009,1
+Rancho Cucamonga,1/10/2009,1
+Rancho Cucamonga,8/22/2009,1
+Rancho Cucamonga,3/29/2011,1
+Rancho Cucamonga,4/16/2011,1
+Rancho Cucamonga,11/12/2011,1
+Rancho Cucamonga,8/14/2012,1
+Rancho Cucamonga,9/14/2012,1
+Rancho Cucamonga,1/14/2013,1
+Rancho Cucamonga,8/6/2013,1
+Rancho Cucamonga,2/15/2014,1
+Rancho Palos Verdes,7/15/1979,1
+Rancho Palos Verdes,8/13/2001,1
+Rancho Palos Verdes,10/30/2008,1
+Rancho Palos Verdes,11/21/2008,1
+Rancho Palos Verdes,12/6/2008,1
+Rancho Palos Verdes,2/19/2009,1
+Rancho Palos Verdes,8/28/2009,1
+Rancho Palos Verdes,8/18/2010,1
+Rancho Palos Verdes,2/12/2011,1
+Rancho Palos Verdes,6/29/2011,1
+Rancho Santa Margarita,11/5/1999,1
+Rancho Santa Margarita,11/7/2007,1
+Rancho Santa Margarita,11/16/2013,1
+Red Bluff,6/15/1981,1
+Red Bluff,6/1/1998,1
+Red Bluff,7/7/2000,1
+Red Bluff,8/3/2000,1
+Red Bluff,3/18/2004,1
+Red Bluff,9/24/2005,1
+Red Bluff,11/8/2006,1
+Red Bluff,12/31/2006,1
+Red Bluff,7/31/2008,1
+Red Bluff,9/3/2010,1
+Red Bluff,5/11/2011,1
+Red Bluff,5/22/2012,1
+Redcrest,1/21/2004,1
+Redding,6/9/1972,1
+Redding,9/15/1986,1
+Redding,6/1/1987,1
+Redding,8/23/1990,1
+Redding,6/15/1993,1
+Redding,2/20/1995,1
+Redding,7/22/1995,1
+Redding,11/19/1995,2
+Redding,11/29/1995,1
+Redding,1/25/1996,1
+Redding,2/8/1996,1
+Redding,3/30/1996,1
+Redding,4/5/1996,1
+Redding,4/20/1996,1
+Redding,7/4/1997,2
+Redding,12/14/1998,1
+Redding,1/4/1999,1
+Redding,1/8/1999,1
+Redding,2/2/1999,1
+Redding,6/25/1999,1
+Redding,8/1/1999,1
+Redding,11/18/1999,1
+Redding,7/3/2000,1
+Redding,9/5/2000,1
+Redding,9/18/2000,1
+Redding,3/14/2001,1
+Redding,8/16/2001,1
+Redding,8/10/2002,1
+Redding,9/19/2002,1
+Redding,9/28/2002,1
+Redding,12/22/2003,1
+Redding,6/17/2004,1
+Redding,7/17/2005,1
+Redding,11/12/2005,1
+Redding,2/15/2006,1
+Redding,3/15/2006,1
+Redding,8/13/2006,1
+Redding,8/20/2006,1
+Redding,8/16/2007,1
+Redding,11/9/2007,1
+Redding,4/21/2008,1
+Redding,11/1/2008,1
+Redding,7/5/2009,1
+Redding,7/6/2009,1
+Redding,7/25/2009,1
+Redding,9/18/2009,1
+Redding,11/1/2009,1
+Redding,2/14/2010,1
+Redding,6/24/2010,1
+Redding,7/8/2010,1
+Redding,8/24/2010,1
+Redding,12/29/2010,1
+Redding,2/2/2011,1
+Redding,2/22/2011,1
+Redding,4/7/2011,1
+Redding,5/30/2011,1
+Redding,7/4/2011,1
+Redding,12/2/2011,1
+Redding,12/31/2011,2
+Redding,1/17/2012,1
+Redding,1/26/2012,1
+Redding,3/10/2012,1
+Redding,5/13/2012,1
+Redding,6/28/2012,1
+Redding,7/3/2012,1
+Redding,7/11/2012,1
+Redding,7/31/2012,1
+Redding,11/10/2012,1
+Redding,7/4/2013,1
+Redding,3/26/2014,1
+Redlands,1/2/2000,1
+Redlands,6/16/2000,1
+Redlands,2/18/2001,1
+Redlands,6/10/2001,1
+Redlands,11/23/2001,1
+Redlands,11/19/2003,1
+Redlands,4/6/2005,1
+Redlands,12/8/2005,2
+Redlands,2/5/2006,1
+Redlands,8/19/2006,1
+Redlands,9/13/2006,1
+Redlands,3/25/2008,1
+Redlands,9/3/2010,1
+Redlands,1/1/2011,1
+Redlands,7/21/2011,1
+Redlands,7/22/2011,1
+Redlands,4/10/2013,1
+Redlands,3/8/2014,1
+Redondo Beach,1/1/1979,1
+Redondo Beach,11/14/1997,1
+Redondo Beach,5/30/1999,1
+Redondo Beach,6/9/1999,1
+Redondo Beach,11/26/1999,2
+Redondo Beach,8/23/2004,1
+Redondo Beach,9/5/2005,1
+Redondo Beach,2/22/2006,1
+Redondo Beach,3/31/2007,1
+Redondo Beach,5/2/2007,1
+Redondo Beach,11/9/2007,1
+Redondo Beach,1/12/2008,1
+Redondo Beach,8/22/2008,1
+Redondo Beach,1/19/2009,1
+Redondo Beach,2/22/2009,1
+Redondo Beach,11/1/2009,1
+Redondo Beach,2/7/2011,1
+Redondo Beach,6/17/2011,1
+Redondo Beach,10/8/2011,1
+Redondo Beach,12/27/2011,1
+Redondo Beach,1/1/2012,1
+Redondo Beach,2/15/2013,1
+Redondo Beach,2/23/2013,1
+Redondo Beach,3/9/2013,1
+Redondo Beach,3/10/2013,1
+Redondo Beach,8/6/2013,1
+Redondo Beach,8/7/2013,1
+Redondo Beach,9/27/2013,1
+Redondo Beach,10/8/2013,1
+Redondo Beach,12/9/2013,1
+Redondo Beach,3/23/2014,1
+Redway,2/12/2013,1
+Redwood City,6/15/1958,1
+Redwood City,7/30/1985,1
+Redwood City,6/18/1999,1
+Redwood City,11/28/2001,1
+Redwood City,8/20/2003,1
+Redwood City,5/20/2005,1
+Redwood City,9/4/2005,1
+Redwood City,10/27/2005,1
+Redwood City,5/13/2006,1
+Redwood City,7/13/2006,1
+Redwood City,8/26/2006,1
+Redwood City,8/27/2006,1
+Redwood City,11/11/2006,1
+Redwood City,3/3/2007,1
+Redwood City,9/29/2008,1
+Redwood City,5/3/2011,1
+Redwood City,10/28/2011,1
+Redwood City,9/15/2012,1
+Redwood City,4/6/2013,1
+Redwood City,4/9/2013,1
+Redwood Valley,12/15/2000,1
+Reedley,11/17/2002,1
+Rescue,11/20/2011,1
+Reseda,8/10/1959,1
+Reseda,10/7/1965,1
+Reseda,7/15/1975,1
+Reseda,7/4/1978,1
+Reseda,8/25/1999,1
+Reseda,1/25/2002,1
+Reseda,7/23/2002,1
+Reseda,9/1/2003,1
+Reseda,8/5/2006,1
+Reseda,12/6/2011,1
+Reseda,8/19/2012,1
+Reseda,1/1/2014,1
+Reseda,3/22/2014,1
+Rialto,4/19/1999,1
+Rialto,8/1/1999,1
+Rialto,3/11/2002,1
+Rialto,7/23/2004,1
+Rialto,7/9/2005,1
+Rialto,11/12/2005,1
+Rialto,3/1/2007,1
+Rialto,3/9/2008,1
+Rialto,5/5/2008,1
+Rialto,7/12/2008,1
+Rialto,12/6/2008,1
+Rialto,4/11/2010,1
+Rialto,2/17/2013,1
+Richmond,7/14/1947,1
+Richmond,7/1/1973,1
+Richmond,6/1/1997,1
+Richmond,4/15/1998,1
+Richmond,7/22/2006,1
+Richmond,7/28/2006,1
+Richmond,12/14/2006,1
+Richmond,4/13/2007,1
+Richmond,9/30/2007,1
+Richmond,7/19/2011,1
+Richmond,6/21/2012,1
+Richmond,12/21/2013,1
+Ridgecrest,6/15/1967,1
+Ridgecrest,8/17/1978,1
+Ridgecrest,5/15/1989,1
+Ridgecrest,4/8/1999,1
+Ridgecrest,2/23/2000,1
+Ridgecrest,7/16/2000,1
+Ridgecrest,8/9/2004,1
+Ridgecrest,9/17/2004,1
+Ridgecrest,10/28/2004,1
+Ridgecrest,11/6/2004,1
+Ridgecrest,11/13/2004,2
+Ridgecrest,11/16/2004,1
+Ridgecrest,2/26/2005,1
+Ridgecrest,11/9/2005,1
+Ridgecrest,12/19/2006,1
+Ridgecrest,7/17/2007,1
+Ridgecrest,9/6/2008,2
+Ridgecrest,7/25/2009,1
+Ridgecrest,9/12/2009,1
+Ridgecrest,11/17/2009,1
+Ridgecrest,7/1/2010,1
+Ridgecrest,7/5/2010,1
+Ridgecrest,7/29/2010,1
+Ridgecrest,7/30/2010,1
+Ridgecrest,12/2/2010,1
+Ridgecrest,2/28/2011,1
+Ridgecrest,1/9/2012,1
+Ridgecrest,9/21/2012,1
+Ridgecrest,1/1/2013,1
+Ridgecrest,4/3/2013,1
+Ridgecrest,2/7/2014,1
+Ridgecrest,2/14/2014,1
+Ridgemark,7/28/2005,1
+Ridgemark,8/19/2009,1
+Ridgemark,8/3/2013,1
+Rio Vista,9/3/2009,1
+Ripon,2/1/2002,1
+Ripon,10/30/2011,1
+Riverbank,12/16/2003,1
+Riverbank,9/23/2012,1
+Riverbank,7/3/2013,1
+Riverbank,2/20/2014,1
+Riverbank,4/12/2014,1
+Riverside,7/5/1969,1
+Riverside,4/15/1976,1
+Riverside,7/1/1978,1
+Riverside,7/15/1978,1
+Riverside,9/20/1988,1
+Riverside,6/30/1990,1
+Riverside,7/5/1990,1
+Riverside,1/10/1995,1
+Riverside,7/27/1995,1
+Riverside,3/1/1997,1
+Riverside,9/25/1999,1
+Riverside,2/16/2000,1
+Riverside,4/23/2000,1
+Riverside,5/9/2000,1
+Riverside,5/12/2000,1
+Riverside,2/18/2001,1
+Riverside,9/23/2001,1
+Riverside,8/6/2002,1
+Riverside,12/2/2002,1
+Riverside,1/29/2003,1
+Riverside,4/20/2003,1
+Riverside,9/7/2003,1
+Riverside,11/20/2003,1
+Riverside,12/17/2003,1
+Riverside,1/8/2004,1
+Riverside,2/7/2004,1
+Riverside,4/10/2004,1
+Riverside,6/30/2004,1
+Riverside,11/1/2004,1
+Riverside,12/1/2004,1
+Riverside,2/15/2005,1
+Riverside,6/14/2005,1
+Riverside,6/19/2005,1
+Riverside,7/17/2005,1
+Riverside,8/28/2005,1
+Riverside,9/22/2005,1
+Riverside,12/6/2005,2
+Riverside,6/27/2006,1
+Riverside,11/19/2006,1
+Riverside,7/4/2007,1
+Riverside,8/3/2007,1
+Riverside,10/7/2007,1
+Riverside,1/12/2008,1
+Riverside,2/24/2008,1
+Riverside,8/2/2008,2
+Riverside,9/17/2008,2
+Riverside,10/4/2008,1
+Riverside,12/18/2008,1
+Riverside,12/24/2008,1
+Riverside,12/27/2008,1
+Riverside,1/1/2009,1
+Riverside,3/15/2009,1
+Riverside,10/30/2009,1
+Riverside,11/8/2009,1
+Riverside,12/26/2009,1
+Riverside,3/17/2010,1
+Riverside,5/21/2010,1
+Riverside,6/17/2010,1
+Riverside,7/3/2010,1
+Riverside,7/31/2010,1
+Riverside,1/25/2011,1
+Riverside,8/2/2011,1
+Riverside,8/28/2011,1
+Riverside,9/5/2011,1
+Riverside,4/28/2012,1
+Riverside,5/21/2012,1
+Riverside,7/5/2012,1
+Riverside,2/16/2013,1
+Riverside,3/9/2013,1
+Riverside,7/31/2013,1
+Riverside,9/17/2013,1
+Riverside,1/2/2014,1
+Riverside,4/4/2014,1
+Robbins,1/8/2009,1
+Rocklin,8/2/1997,1
+Rocklin,3/28/2002,1
+Rocklin,11/9/2003,1
+Rocklin,12/14/2003,1
+Rocklin,5/16/2004,1
+Rocklin,5/18/2004,1
+Rocklin,8/22/2004,1
+Rocklin,11/2/2007,1
+Rocklin,7/20/2010,1
+Rocklin,7/29/2010,1
+Rocklin,8/2/2011,1
+Rocklin,12/14/2011,1
+Rocklin,4/7/2012,1
+Rocklin,6/27/2012,1
+Rocklin,2/9/2013,1
+Rohnert Park,3/6/1997,1
+Rohnert Park,1/11/1999,1
+Rohnert Park,1/28/2000,1
+Rohnert Park,10/6/2000,1
+Rohnert Park,10/27/2003,1
+Rohnert Park,11/20/2003,1
+Rohnert Park,12/26/2003,1
+Rohnert Park,4/2/2007,1
+Rohnert Park,8/7/2007,1
+Rohnert Park,1/28/2009,1
+Rohnert Park,2/1/2009,1
+Rohnert Park,6/29/2009,1
+Rohnert Park,7/3/2010,1
+Rohnert Park,7/23/2010,1
+Rohnert Park,12/10/2010,1
+Rohnert Park,11/6/2011,1
+Rohnert Park,1/30/2013,1
+Rohnert Park,2/27/2013,1
+Rolling Hills Estates,4/13/2005,1
+Rosamond,8/15/1997,1
+Rosamond,9/11/1999,1
+Rosamond,8/9/2001,1
+Rosamond,12/5/2005,1
+Rosamond,4/24/2008,1
+Rosamond,4/12/2011,1
+Rosamond,4/14/2011,1
+Rosamond,7/26/2013,1
+Rosemead,7/15/1968,1
+Rosemead,6/1/1992,1
+Rosemead,9/20/1998,1
+Rosemead,1/27/2000,1
+Rosemead,8/30/2003,1
+Rosemead,4/24/2004,1
+Rosemead,7/1/2004,1
+Rosemead,7/14/2004,1
+Rosemead,7/5/2009,1
+Rosemead,7/1/2010,1
+Rosemead,10/8/2010,1
+Rosemead,6/19/2012,1
+Rosemead,8/17/2013,1
+Rosemead,12/31/2013,1
+Roseville,7/15/1970,1
+Roseville,3/1/1975,1
+Roseville,6/1/1991,1
+Roseville,7/2/1998,1
+Roseville,11/9/1998,1
+Roseville,2/17/1999,1
+Roseville,10/31/2000,1
+Roseville,11/7/2000,1
+Roseville,12/20/2000,1
+Roseville,3/24/2001,1
+Roseville,8/26/2001,1
+Roseville,11/2/2001,1
+Roseville,8/25/2003,1
+Roseville,9/4/2003,1
+Roseville,8/11/2005,1
+Roseville,2/8/2006,2
+Roseville,4/30/2006,1
+Roseville,2/4/2008,1
+Roseville,7/30/2008,1
+Roseville,8/14/2008,1
+Roseville,11/20/2008,1
+Roseville,3/28/2009,1
+Roseville,5/15/2009,1
+Roseville,9/8/2009,1
+Roseville,5/30/2010,1
+Roseville,2/5/2011,1
+Roseville,10/29/2012,1
+Roseville,11/10/2012,1
+Roseville,12/31/2012,1
+Roseville,1/3/2013,1
+Roseville,5/11/2013,1
+Roseville,7/19/2013,1
+Roseville,11/1/2013,1
+Roseville,11/13/2013,1
+Ross,5/14/2001,1
+Ross,3/21/2002,1
+Ross,5/11/2005,1
+Ross,7/4/2013,1
+Ross,4/20/2014,1
+Running Springs,9/30/2001,1
+Running Springs,3/10/2011,1
+Running Springs,4/16/2011,1
+Sacramento,7/14/1956,1
+Sacramento,6/1/1960,1
+Sacramento,7/15/1967,1
+Sacramento,3/23/1973,1
+Sacramento,2/15/1976,1
+Sacramento,8/8/1976,1
+Sacramento,9/15/1976,1
+Sacramento,6/15/1977,1
+Sacramento,6/20/1984,1
+Sacramento,11/13/1985,1
+Sacramento,7/14/1987,1
+Sacramento,8/1/1988,1
+Sacramento,6/11/1989,1
+Sacramento,7/1/1990,1
+Sacramento,4/27/1991,1
+Sacramento,2/27/1992,1
+Sacramento,5/18/1993,1
+Sacramento,6/1/1993,1
+Sacramento,11/1/1993,1
+Sacramento,5/26/1994,1
+Sacramento,2/15/1995,1
+Sacramento,7/19/1995,1
+Sacramento,8/4/1995,1
+Sacramento,8/11/1995,1
+Sacramento,9/29/1995,1
+Sacramento,4/29/1996,1
+Sacramento,6/30/1996,1
+Sacramento,10/28/1997,1
+Sacramento,11/30/1997,1
+Sacramento,6/28/1998,1
+Sacramento,11/17/1998,1
+Sacramento,5/22/1999,1
+Sacramento,6/6/1999,1
+Sacramento,6/9/1999,1
+Sacramento,6/19/1999,1
+Sacramento,6/26/1999,1
+Sacramento,7/4/1999,1
+Sacramento,9/1/1999,1
+Sacramento,11/24/1999,1
+Sacramento,1/22/2000,1
+Sacramento,5/28/2000,1
+Sacramento,7/7/2000,2
+Sacramento,1/1/2001,1
+Sacramento,1/27/2001,1
+Sacramento,5/30/2001,1
+Sacramento,7/6/2001,1
+Sacramento,8/25/2001,1
+Sacramento,9/12/2001,1
+Sacramento,10/9/2001,1
+Sacramento,11/4/2001,1
+Sacramento,11/24/2001,1
+Sacramento,11/26/2001,1
+Sacramento,3/11/2002,1
+Sacramento,4/3/2002,1
+Sacramento,5/23/2002,1
+Sacramento,6/8/2002,1
+Sacramento,6/11/2002,1
+Sacramento,8/24/2002,1
+Sacramento,9/1/2002,1
+Sacramento,10/30/2002,1
+Sacramento,12/1/2002,1
+Sacramento,2/7/2003,1
+Sacramento,2/18/2003,1
+Sacramento,7/11/2003,1
+Sacramento,7/13/2003,1
+Sacramento,8/13/2003,1
+Sacramento,8/16/2003,1
+Sacramento,8/28/2003,1
+Sacramento,9/17/2003,1
+Sacramento,10/31/2003,1
+Sacramento,11/15/2003,1
+Sacramento,11/24/2003,1
+Sacramento,12/31/2003,1
+Sacramento,6/5/2004,1
+Sacramento,8/3/2004,1
+Sacramento,8/9/2004,1
+Sacramento,8/10/2004,1
+Sacramento,8/19/2004,1
+Sacramento,11/25/2004,1
+Sacramento,12/3/2004,1
+Sacramento,2/6/2005,1
+Sacramento,3/4/2005,1
+Sacramento,5/25/2005,1
+Sacramento,7/18/2005,2
+Sacramento,11/9/2005,1
+Sacramento,11/22/2005,1
+Sacramento,12/27/2005,1
+Sacramento,3/18/2006,1
+Sacramento,3/31/2006,1
+Sacramento,4/7/2006,1
+Sacramento,6/15/2006,1
+Sacramento,7/15/2006,1
+Sacramento,8/10/2006,1
+Sacramento,8/11/2006,1
+Sacramento,8/12/2006,1
+Sacramento,11/30/2006,1
+Sacramento,1/7/2007,1
+Sacramento,2/26/2007,1
+Sacramento,5/20/2007,1
+Sacramento,5/28/2007,1
+Sacramento,7/22/2007,1
+Sacramento,7/28/2007,2
+Sacramento,8/12/2007,1
+Sacramento,8/18/2007,1
+Sacramento,8/19/2007,1
+Sacramento,11/15/2007,1
+Sacramento,12/13/2007,1
+Sacramento,2/16/2008,1
+Sacramento,3/27/2008,1
+Sacramento,4/13/2008,1
+Sacramento,6/6/2008,1
+Sacramento,7/29/2008,1
+Sacramento,9/22/2008,1
+Sacramento,11/7/2008,1
+Sacramento,1/18/2009,1
+Sacramento,3/28/2009,1
+Sacramento,3/31/2009,1
+Sacramento,5/9/2009,1
+Sacramento,5/11/2009,1
+Sacramento,7/3/2009,1
+Sacramento,7/4/2009,1
+Sacramento,8/7/2009,1
+Sacramento,8/14/2009,1
+Sacramento,11/25/2009,1
+Sacramento,1/2/2010,1
+Sacramento,5/6/2010,1
+Sacramento,6/5/2010,1
+Sacramento,7/31/2010,1
+Sacramento,8/31/2010,1
+Sacramento,10/5/2010,1
+Sacramento,11/11/2010,1
+Sacramento,11/28/2010,1
+Sacramento,1/31/2011,1
+Sacramento,2/11/2011,1
+Sacramento,2/19/2011,1
+Sacramento,3/28/2011,1
+Sacramento,4/1/2011,1
+Sacramento,5/7/2011,1
+Sacramento,5/9/2011,1
+Sacramento,7/8/2011,1
+Sacramento,8/21/2011,1
+Sacramento,8/28/2011,1
+Sacramento,9/2/2011,1
+Sacramento,9/7/2011,1
+Sacramento,11/16/2011,1
+Sacramento,12/8/2011,1
+Sacramento,12/14/2011,1
+Sacramento,12/18/2011,1
+Sacramento,1/1/2012,1
+Sacramento,1/8/2012,1
+Sacramento,1/10/2012,1
+Sacramento,1/11/2012,1
+Sacramento,1/28/2012,1
+Sacramento,2/8/2012,1
+Sacramento,2/15/2012,1
+Sacramento,3/3/2012,1
+Sacramento,3/6/2012,1
+Sacramento,3/9/2012,1
+Sacramento,4/12/2012,1
+Sacramento,4/19/2012,1
+Sacramento,6/4/2012,2
+Sacramento,6/8/2012,1
+Sacramento,7/6/2012,1
+Sacramento,8/1/2012,1
+Sacramento,8/24/2012,1
+Sacramento,8/30/2012,1
+Sacramento,9/29/2012,1
+Sacramento,10/31/2012,1
+Sacramento,11/11/2012,1
+Sacramento,11/14/2012,1
+Sacramento,11/22/2012,1
+Sacramento,11/23/2012,1
+Sacramento,12/11/2012,1
+Sacramento,12/31/2012,1
+Sacramento,1/1/2013,1
+Sacramento,1/12/2013,1
+Sacramento,1/25/2013,1
+Sacramento,4/12/2013,1
+Sacramento,5/4/2013,1
+Sacramento,5/5/2013,1
+Sacramento,5/18/2013,1
+Sacramento,5/22/2013,1
+Sacramento,5/26/2013,1
+Sacramento,5/30/2013,1
+Sacramento,5/31/2013,1
+Sacramento,6/1/2013,1
+Sacramento,6/19/2013,1
+Sacramento,6/21/2013,1
+Sacramento,7/8/2013,1
+Sacramento,8/2/2013,1
+Sacramento,8/10/2013,1
+Sacramento,9/5/2013,1
+Sacramento,9/22/2013,2
+Sacramento,10/29/2013,1
+Sacramento,11/13/2013,1
+Sacramento,12/15/2013,2
+Sacramento,12/25/2013,2
+Sacramento,1/1/2014,1
+Sacramento,1/20/2014,1
+Sacramento,2/1/2014,1
+Sacramento,2/16/2014,1
+Sacramento,2/22/2014,1
+Sacramento,2/24/2014,1
+Sacramento,3/1/2014,1
+Salida,12/15/1997,1
+Salinas,3/1/1972,1
+Salinas,4/1/1979,1
+Salinas,8/10/1981,1
+Salinas,1/3/1995,1
+Salinas,3/25/1995,1
+Salinas,3/23/1996,1
+Salinas,12/18/1996,1
+Salinas,8/17/1997,1
+Salinas,6/6/1998,1
+Salinas,9/4/1999,1
+Salinas,7/1/2000,1
+Salinas,11/20/2003,1
+Salinas,9/15/2004,1
+Salinas,11/17/2004,1
+Salinas,1/16/2007,1
+Salinas,9/20/2008,1
+Salinas,12/20/2009,1
+Salinas,4/8/2010,1
+Salinas,9/25/2010,1
+Salinas,3/16/2011,1
+Salinas,7/19/2011,1
+Salinas,8/12/2013,1
+Salinas,12/27/2013,1
+Salinas,2/13/2014,1
+San Andreas,5/25/2002,1
+San Andreas,5/2/2005,1
+San Andreas,8/30/2009,1
+San Anselmo,11/10/2012,1
+San Anselmo,12/19/2013,1
+San Ardo,8/20/1974,1
+San Bernardino,5/28/1983,1
+San Bernardino,1/15/1989,1
+San Bernardino,7/1/1990,1
+San Bernardino,1/24/1998,1
+San Bernardino,6/9/1998,1
+San Bernardino,7/15/1998,1
+San Bernardino,5/1/1999,1
+San Bernardino,12/1/1999,1
+San Bernardino,3/26/2001,1
+San Bernardino,3/31/2001,1
+San Bernardino,10/3/2001,1
+San Bernardino,1/12/2002,1
+San Bernardino,1/13/2002,1
+San Bernardino,2/26/2002,1
+San Bernardino,3/20/2002,1
+San Bernardino,3/30/2002,1
+San Bernardino,7/4/2002,1
+San Bernardino,9/2/2002,1
+San Bernardino,10/7/2002,1
+San Bernardino,6/30/2003,1
+San Bernardino,7/10/2003,1
+San Bernardino,8/15/2003,1
+San Bernardino,8/30/2003,1
+San Bernardino,1/16/2004,1
+San Bernardino,2/10/2004,1
+San Bernardino,7/24/2004,1
+San Bernardino,8/16/2004,1
+San Bernardino,2/16/2005,1
+San Bernardino,7/21/2005,1
+San Bernardino,2/15/2006,1
+San Bernardino,3/9/2006,1
+San Bernardino,4/2/2006,1
+San Bernardino,1/5/2007,1
+San Bernardino,6/30/2007,1
+San Bernardino,7/15/2007,1
+San Bernardino,1/15/2008,1
+San Bernardino,6/14/2008,1
+San Bernardino,9/1/2008,1
+San Bernardino,2/23/2009,1
+San Bernardino,3/18/2009,1
+San Bernardino,7/7/2009,1
+San Bernardino,8/30/2009,1
+San Bernardino,11/22/2009,1
+San Bernardino,2/13/2010,1
+San Bernardino,5/1/2010,1
+San Bernardino,8/14/2010,1
+San Bernardino,8/22/2010,1
+San Bernardino,9/14/2010,1
+San Bernardino,9/24/2010,1
+San Bernardino,11/17/2010,1
+San Bernardino,2/13/2011,1
+San Bernardino,3/1/2011,1
+San Bernardino,4/3/2011,1
+San Bernardino,11/14/2011,1
+San Bernardino,11/16/2011,1
+San Bernardino,11/21/2011,1
+San Bernardino,6/22/2013,1
+San Bernardino,3/8/2014,1
+San Bruno,4/1/1992,1
+San Bruno,4/17/1995,1
+San Bruno,5/5/1996,1
+San Bruno,6/21/1998,1
+San Bruno,9/19/2001,1
+San Bruno,3/19/2002,1
+San Bruno,12/30/2003,1
+San Bruno,12/31/2003,1
+San Bruno,6/18/2006,1
+San Bruno,7/23/2006,1
+San Bruno,11/8/2009,1
+San Bruno,2/9/2013,1
+San Bruno,7/15/2013,1
+San Bruno,12/31/2013,1
+San Carlos,7/31/1985,1
+San Carlos,7/28/1995,1
+San Carlos,12/29/2002,1
+San Carlos,9/4/2003,1
+San Carlos,2/14/2004,1
+San Carlos,3/1/2007,1
+San Carlos,9/17/2007,1
+San Carlos,12/31/2007,1
+San Carlos,12/14/2009,1
+San Carlos,5/1/2010,1
+San Carlos,12/18/2012,1
+San Clemente,2/28/1990,1
+San Clemente,1/3/2001,1
+San Clemente,3/8/2004,1
+San Clemente,4/15/2004,1
+San Clemente,6/13/2006,1
+San Clemente,9/21/2006,1
+San Clemente,3/15/2007,1
+San Clemente,9/20/2008,1
+San Clemente,11/8/2008,2
+San Clemente,7/17/2009,1
+San Clemente,8/6/2009,1
+San Clemente,4/20/2010,1
+San Clemente,9/25/2010,1
+San Clemente,8/21/2011,1
+San Clemente,9/29/2013,1
+San Clemente,11/26/2013,1
+San Clemente,1/26/2014,1
+San Clemente,2/10/2014,1
+San Clemente,3/14/2014,1
+San Clemente,3/30/2014,1
+San Diego,1/1/1944,1
+San Diego,4/15/1947,1
+San Diego,8/9/1957,1
+San Diego,6/1/1967,1
+San Diego,11/10/1968,1
+San Diego,5/1/1969,1
+San Diego,8/15/1973,1
+San Diego,1/30/1974,1
+San Diego,6/15/1974,1
+San Diego,6/6/1976,1
+San Diego,7/1/1976,1
+San Diego,7/2/1976,1
+San Diego,6/15/1977,1
+San Diego,5/10/1978,1
+San Diego,7/4/1978,1
+San Diego,7/12/1978,1
+San Diego,8/10/1978,1
+San Diego,10/10/1979,1
+San Diego,5/1/1981,1
+San Diego,6/1/1983,1
+San Diego,6/30/1983,1
+San Diego,9/1/1984,1
+San Diego,6/30/1985,1
+San Diego,8/17/1987,1
+San Diego,11/15/1987,1
+San Diego,1/10/1989,1
+San Diego,5/1/1989,1
+San Diego,5/30/1989,1
+San Diego,6/1/1989,1
+San Diego,8/1/1989,1
+San Diego,6/1/1990,1
+San Diego,7/1/1990,1
+San Diego,8/1/1994,1
+San Diego,8/28/1994,1
+San Diego,11/14/1994,1
+San Diego,4/30/1995,1
+San Diego,5/20/1995,1
+San Diego,12/29/1995,1
+San Diego,1/1/1996,1
+San Diego,4/5/1996,3
+San Diego,6/17/1996,1
+San Diego,6/18/1996,1
+San Diego,3/15/1997,1
+San Diego,3/17/1997,1
+San Diego,4/13/1997,1
+San Diego,5/15/1997,1
+San Diego,7/4/1997,1
+San Diego,12/16/1997,1
+San Diego,3/13/1998,1
+San Diego,5/1/1998,1
+San Diego,5/4/1998,1
+San Diego,8/28/1998,1
+San Diego,9/16/1998,1
+San Diego,9/25/1998,1
+San Diego,11/15/1998,1
+San Diego,11/26/1998,1
+San Diego,2/10/1999,1
+San Diego,2/27/1999,1
+San Diego,4/1/1999,1
+San Diego,5/19/1999,1
+San Diego,6/23/1999,1
+San Diego,7/10/1999,1
+San Diego,8/28/1999,1
+San Diego,9/21/1999,1
+San Diego,10/30/1999,1
+San Diego,10/31/1999,1
+San Diego,11/1/1999,1
+San Diego,11/18/1999,1
+San Diego,11/27/1999,1
+San Diego,11/29/1999,1
+San Diego,12/5/1999,1
+San Diego,12/6/1999,1
+San Diego,12/26/1999,1
+San Diego,1/1/2000,1
+San Diego,1/10/2000,1
+San Diego,1/11/2000,1
+San Diego,1/22/2000,1
+San Diego,4/15/2000,1
+San Diego,4/16/2000,1
+San Diego,6/26/2000,1
+San Diego,7/5/2000,1
+San Diego,7/7/2000,1
+San Diego,7/25/2000,3
+San Diego,8/19/2000,1
+San Diego,8/26/2000,4
+San Diego,9/2/2000,1
+San Diego,9/18/2000,2
+San Diego,10/30/2000,1
+San Diego,11/14/2000,1
+San Diego,12/15/2000,1
+San Diego,1/5/2001,1
+San Diego,2/10/2001,1
+San Diego,4/5/2001,1
+San Diego,5/10/2001,1
+San Diego,7/3/2001,2
+San Diego,7/31/2001,1
+San Diego,8/11/2001,1
+San Diego,8/20/2001,1
+San Diego,8/21/2001,1
+San Diego,9/9/2001,1
+San Diego,11/13/2001,1
+San Diego,11/19/2001,1
+San Diego,11/21/2001,1
+San Diego,2/9/2002,1
+San Diego,4/7/2002,1
+San Diego,5/10/2002,1
+San Diego,8/10/2002,1
+San Diego,9/19/2002,1
+San Diego,11/21/2002,1
+San Diego,12/6/2002,1
+San Diego,1/6/2003,1
+San Diego,2/7/2003,1
+San Diego,2/8/2003,1
+San Diego,2/17/2003,1
+San Diego,2/20/2003,1
+San Diego,3/10/2003,1
+San Diego,4/14/2003,1
+San Diego,4/20/2003,1
+San Diego,4/27/2003,1
+San Diego,5/23/2003,1
+San Diego,7/4/2003,1
+San Diego,8/6/2003,1
+San Diego,8/17/2003,1
+San Diego,8/27/2003,2
+San Diego,9/3/2003,1
+San Diego,9/5/2003,1
+San Diego,10/7/2003,1
+San Diego,11/16/2003,1
+San Diego,11/23/2003,1
+San Diego,11/24/2003,1
+San Diego,11/27/2003,2
+San Diego,11/30/2003,1
+San Diego,12/2/2003,1
+San Diego,1/24/2004,1
+San Diego,3/12/2004,1
+San Diego,3/17/2004,1
+San Diego,5/14/2004,1
+San Diego,6/15/2004,1
+San Diego,6/30/2004,1
+San Diego,7/4/2004,3
+San Diego,7/21/2004,1
+San Diego,8/24/2004,1
+San Diego,9/20/2004,1
+San Diego,10/8/2004,1
+San Diego,10/28/2004,2
+San Diego,11/1/2004,1
+San Diego,11/6/2004,1
+San Diego,11/15/2004,1
+San Diego,12/31/2004,2
+San Diego,1/16/2005,1
+San Diego,1/17/2005,1
+San Diego,2/9/2005,1
+San Diego,2/12/2005,1
+San Diego,2/25/2005,1
+San Diego,3/27/2005,1
+San Diego,5/10/2005,1
+San Diego,5/20/2005,1
+San Diego,6/7/2005,1
+San Diego,6/15/2005,1
+San Diego,7/4/2005,1
+San Diego,8/11/2005,1
+San Diego,8/12/2005,1
+San Diego,8/21/2005,1
+San Diego,9/21/2005,1
+San Diego,9/22/2005,2
+San Diego,11/18/2005,1
+San Diego,2/26/2006,1
+San Diego,3/13/2006,1
+San Diego,4/23/2006,1
+San Diego,7/16/2006,1
+San Diego,8/9/2006,1
+San Diego,8/20/2006,1
+San Diego,9/4/2006,1
+San Diego,9/17/2006,1
+San Diego,10/4/2006,1
+San Diego,11/8/2006,1
+San Diego,11/19/2006,1
+San Diego,12/7/2006,1
+San Diego,12/11/2006,2
+San Diego,12/12/2006,1
+San Diego,12/27/2006,1
+San Diego,1/1/2007,1
+San Diego,1/5/2007,1
+San Diego,2/4/2007,1
+San Diego,3/2/2007,1
+San Diego,3/5/2007,1
+San Diego,5/8/2007,1
+San Diego,5/12/2007,1
+San Diego,6/10/2007,1
+San Diego,6/24/2007,1
+San Diego,6/25/2007,1
+San Diego,7/3/2007,1
+San Diego,7/27/2007,1
+San Diego,8/7/2007,1
+San Diego,8/23/2007,1
+San Diego,9/16/2007,1
+San Diego,10/27/2007,1
+San Diego,11/10/2007,1
+San Diego,11/12/2007,1
+San Diego,11/13/2007,3
+San Diego,11/14/2007,2
+San Diego,11/21/2007,1
+San Diego,11/23/2007,2
+San Diego,11/24/2007,1
+San Diego,11/27/2007,1
+San Diego,11/28/2007,1
+San Diego,12/22/2007,3
+San Diego,12/31/2007,2
+San Diego,1/1/2008,4
+San Diego,1/27/2008,1
+San Diego,2/17/2008,1
+San Diego,2/27/2008,1
+San Diego,3/2/2008,1
+San Diego,3/16/2008,1
+San Diego,3/24/2008,1
+San Diego,4/9/2008,1
+San Diego,4/11/2008,1
+San Diego,4/16/2008,1
+San Diego,5/11/2008,1
+San Diego,5/17/2008,1
+San Diego,7/19/2008,1
+San Diego,8/8/2008,2
+San Diego,8/15/2008,1
+San Diego,9/5/2008,1
+San Diego,9/12/2008,1
+San Diego,9/18/2008,1
+San Diego,11/4/2008,1
+San Diego,11/27/2008,2
+San Diego,11/28/2008,1
+San Diego,12/7/2008,1
+San Diego,1/1/2009,2
+San Diego,1/16/2009,2
+San Diego,1/17/2009,2
+San Diego,1/30/2009,1
+San Diego,2/5/2009,1
+San Diego,2/12/2009,3
+San Diego,2/23/2009,1
+San Diego,3/21/2009,2
+San Diego,6/23/2009,1
+San Diego,7/14/2009,1
+San Diego,8/22/2009,1
+San Diego,8/23/2009,2
+San Diego,8/27/2009,1
+San Diego,8/29/2009,1
+San Diego,9/3/2009,1
+San Diego,9/23/2009,1
+San Diego,11/25/2009,1
+San Diego,11/27/2009,1
+San Diego,1/1/2010,2
+San Diego,1/6/2010,1
+San Diego,2/18/2010,1
+San Diego,3/1/2010,1
+San Diego,4/8/2010,1
+San Diego,4/10/2010,1
+San Diego,6/7/2010,1
+San Diego,6/26/2010,1
+San Diego,11/4/2010,1
+San Diego,11/15/2010,1
+San Diego,1/10/2011,1
+San Diego,2/5/2011,1
+San Diego,2/11/2011,1
+San Diego,2/20/2011,1
+San Diego,3/2/2011,1
+San Diego,3/10/2011,1
+San Diego,3/26/2011,1
+San Diego,3/29/2011,1
+San Diego,4/14/2011,1
+San Diego,5/24/2011,1
+San Diego,6/29/2011,1
+San Diego,6/30/2011,1
+San Diego,7/4/2011,1
+San Diego,7/20/2011,1
+San Diego,7/31/2011,1
+San Diego,8/21/2011,1
+San Diego,10/6/2011,1
+San Diego,11/24/2011,1
+San Diego,12/20/2011,1
+San Diego,12/23/2011,2
+San Diego,1/3/2012,1
+San Diego,1/17/2012,1
+San Diego,2/11/2012,1
+San Diego,2/22/2012,1
+San Diego,3/15/2012,1
+San Diego,4/9/2012,1
+San Diego,4/22/2012,1
+San Diego,5/12/2012,1
+San Diego,5/26/2012,1
+San Diego,6/16/2012,1
+San Diego,7/10/2012,1
+San Diego,7/13/2012,1
+San Diego,7/27/2012,1
+San Diego,8/6/2012,1
+San Diego,8/9/2012,1
+San Diego,8/10/2012,1
+San Diego,8/11/2012,1
+San Diego,8/27/2012,1
+San Diego,9/21/2012,2
+San Diego,9/22/2012,1
+San Diego,10/6/2012,1
+San Diego,10/9/2012,1
+San Diego,10/29/2012,1
+San Diego,12/27/2012,1
+San Diego,12/31/2012,1
+San Diego,2/22/2013,1
+San Diego,2/28/2013,1
+San Diego,3/30/2013,1
+San Diego,4/1/2013,1
+San Diego,5/12/2013,1
+San Diego,5/13/2013,1
+San Diego,6/11/2013,1
+San Diego,7/7/2013,1
+San Diego,8/8/2013,1
+San Diego,8/13/2013,2
+San Diego,8/17/2013,1
+San Diego,9/4/2013,1
+San Diego,9/7/2013,1
+San Diego,9/9/2013,1
+San Diego,9/16/2013,1
+San Diego,9/29/2013,1
+San Diego,10/30/2013,1
+San Diego,10/31/2013,1
+San Diego,11/6/2013,1
+San Diego,11/19/2013,1
+San Diego,11/22/2013,1
+San Diego,12/6/2013,1
+San Diego,12/24/2013,1
+San Diego,12/30/2013,3
+San Diego,12/31/2013,2
+San Diego,1/1/2014,1
+San Diego,1/6/2014,1
+San Diego,2/23/2014,1
+San Diego,4/4/2014,1
+San Diego,4/24/2014,1
+San Diego,5/2/2014,1
+San Dimas,1/28/1973,1
+San Dimas,2/24/1996,1
+San Dimas,8/25/2001,1
+San Dimas,7/30/2003,1
+San Dimas,1/18/2009,1
+San Dimas,8/5/2009,1
+San Dimas,9/5/2009,1
+San Dimas,12/2/2009,1
+San Dimas,4/15/2014,1
+San Fernando,7/15/1977,1
+San Fernando,5/24/1983,1
+San Fernando,9/30/2000,1
+San Fernando,3/7/2004,1
+San Fernando,8/17/2008,1
+San Fernando,2/10/2013,1
+San Francisco,6/15/1956,1
+San Francisco,6/1/1958,1
+San Francisco,6/1/1962,1
+San Francisco,6/2/1963,1
+San Francisco,7/15/1977,1
+San Francisco,7/15/1978,1
+San Francisco,9/1/1978,1
+San Francisco,3/1/1980,1
+San Francisco,6/15/1980,1
+San Francisco,11/10/1981,1
+San Francisco,4/27/1985,1
+San Francisco,6/1/1987,1
+San Francisco,9/15/1993,1
+San Francisco,9/1/1994,1
+San Francisco,6/12/1995,1
+San Francisco,9/29/1995,1
+San Francisco,5/5/1996,1
+San Francisco,9/9/1996,1
+San Francisco,10/6/1996,1
+San Francisco,3/5/1997,1
+San Francisco,6/1/1997,1
+San Francisco,6/24/1997,1
+San Francisco,9/28/1997,1
+San Francisco,12/1/1997,1
+San Francisco,8/29/1998,1
+San Francisco,1/18/1999,1
+San Francisco,1/25/1999,1
+San Francisco,11/8/1999,1
+San Francisco,11/23/1999,1
+San Francisco,1/1/2000,1
+San Francisco,1/6/2000,1
+San Francisco,1/30/2000,1
+San Francisco,3/19/2000,1
+San Francisco,5/18/2000,1
+San Francisco,6/1/2000,1
+San Francisco,6/5/2000,1
+San Francisco,6/23/2000,1
+San Francisco,7/8/2000,1
+San Francisco,8/19/2000,1
+San Francisco,9/16/2000,1
+San Francisco,9/17/2000,3
+San Francisco,11/6/2000,1
+San Francisco,12/30/2000,2
+San Francisco,1/19/2001,1
+San Francisco,3/15/2001,1
+San Francisco,7/22/2001,1
+San Francisco,11/18/2001,1
+San Francisco,1/24/2002,1
+San Francisco,5/7/2002,1
+San Francisco,9/19/2002,1
+San Francisco,11/27/2002,2
+San Francisco,1/1/2003,1
+San Francisco,1/6/2003,1
+San Francisco,2/1/2003,1
+San Francisco,2/20/2003,1
+San Francisco,2/24/2003,1
+San Francisco,4/23/2003,1
+San Francisco,5/9/2003,1
+San Francisco,6/30/2003,1
+San Francisco,9/21/2003,1
+San Francisco,9/30/2003,1
+San Francisco,11/1/2003,1
+San Francisco,11/17/2003,1
+San Francisco,12/24/2003,1
+San Francisco,1/26/2004,1
+San Francisco,3/4/2004,1
+San Francisco,6/13/2004,1
+San Francisco,8/1/2004,1
+San Francisco,9/5/2004,1
+San Francisco,10/27/2004,1
+San Francisco,11/12/2004,1
+San Francisco,11/27/2004,1
+San Francisco,12/18/2004,1
+San Francisco,3/30/2005,1
+San Francisco,4/19/2005,1
+San Francisco,5/25/2005,1
+San Francisco,6/20/2005,1
+San Francisco,8/4/2005,2
+San Francisco,10/8/2005,3
+San Francisco,10/26/2005,1
+San Francisco,11/20/2005,1
+San Francisco,12/3/2005,1
+San Francisco,12/11/2005,1
+San Francisco,1/1/2006,1
+San Francisco,3/12/2006,1
+San Francisco,4/30/2006,1
+San Francisco,7/26/2006,1
+San Francisco,8/4/2006,1
+San Francisco,9/17/2006,1
+San Francisco,9/18/2006,1
+San Francisco,12/6/2006,1
+San Francisco,1/21/2007,1
+San Francisco,2/8/2007,1
+San Francisco,3/22/2007,1
+San Francisco,3/27/2007,1
+San Francisco,9/14/2007,1
+San Francisco,11/3/2007,1
+San Francisco,12/8/2007,1
+San Francisco,1/13/2008,1
+San Francisco,2/4/2008,1
+San Francisco,2/9/2008,1
+San Francisco,2/16/2008,1
+San Francisco,2/17/2008,1
+San Francisco,2/25/2008,1
+San Francisco,3/2/2008,2
+San Francisco,3/5/2008,1
+San Francisco,3/19/2008,1
+San Francisco,4/17/2008,1
+San Francisco,5/7/2008,1
+San Francisco,5/10/2008,1
+San Francisco,6/8/2008,1
+San Francisco,6/19/2008,1
+San Francisco,8/1/2008,1
+San Francisco,8/21/2008,1
+San Francisco,9/20/2008,1
+San Francisco,9/23/2008,1
+San Francisco,10/7/2008,1
+San Francisco,11/14/2008,1
+San Francisco,11/15/2008,2
+San Francisco,12/13/2008,1
+San Francisco,1/11/2009,1
+San Francisco,1/13/2009,1
+San Francisco,1/16/2009,1
+San Francisco,1/18/2009,1
+San Francisco,3/20/2009,1
+San Francisco,4/24/2009,1
+San Francisco,5/14/2009,1
+San Francisco,6/14/2009,1
+San Francisco,6/26/2009,1
+San Francisco,10/29/2009,1
+San Francisco,12/19/2009,1
+San Francisco,3/26/2010,1
+San Francisco,5/22/2010,1
+San Francisco,9/28/2010,1
+San Francisco,11/12/2010,1
+San Francisco,11/25/2010,2
+San Francisco,12/18/2010,1
+San Francisco,1/5/2011,1
+San Francisco,1/26/2011,1
+San Francisco,4/5/2011,1
+San Francisco,5/4/2011,1
+San Francisco,8/1/2011,1
+San Francisco,9/26/2011,1
+San Francisco,11/1/2011,1
+San Francisco,11/26/2011,1
+San Francisco,12/20/2011,1
+San Francisco,12/30/2011,1
+San Francisco,12/31/2011,1
+San Francisco,1/2/2012,1
+San Francisco,1/12/2012,1
+San Francisco,1/21/2012,1
+San Francisco,1/25/2012,1
+San Francisco,4/6/2012,1
+San Francisco,7/14/2012,1
+San Francisco,10/3/2012,1
+San Francisco,10/4/2012,1
+San Francisco,12/9/2012,1
+San Francisco,12/31/2012,1
+San Francisco,3/13/2013,1
+San Francisco,4/9/2013,1
+San Francisco,4/11/2013,1
+San Francisco,5/7/2013,1
+San Francisco,5/12/2013,1
+San Francisco,5/30/2013,1
+San Francisco,6/6/2013,1
+San Francisco,6/21/2013,1
+San Francisco,8/1/2013,1
+San Francisco,12/13/2013,1
+San Francisco,12/31/2013,2
+San Francisco,1/6/2014,1
+San Francisco,2/14/2014,1
+San Gabriel,12/2/2003,1
+San Jacinto,11/22/2005,1
+San Jacinto,7/9/2006,1
+San Jacinto,9/26/2006,1
+San Jacinto,12/10/2007,1
+San Jacinto,4/18/2008,1
+San Jacinto,9/24/2008,1
+San Jacinto,1/10/2010,1
+San Jacinto,6/12/2010,1
+San Jacinto,9/15/2010,1
+San Jacinto,7/5/2011,
+San Jacinto,12/18/2013,1
+San Jacinto,4/7/2014,1
+San Joaquin,5/23/2006,1
+San Jose,7/15/1947,1
+San Jose,7/4/1966,1
+San Jose,7/20/1968,1
+San Jose,11/13/1969,1
+San Jose,6/15/1973,1
+San Jose,6/30/1976,1
+San Jose,8/1/1976,1
+San Jose,6/30/1977,1
+San Jose,6/15/1979,1
+San Jose,6/1/1993,1
+San Jose,8/1/1996,1
+San Jose,5/14/1997,1
+San Jose,8/30/1997,1
+San Jose,12/1/1997,1
+San Jose,12/20/1997,1
+San Jose,2/15/1998,1
+San Jose,3/13/1998,1
+San Jose,9/26/1998,1
+San Jose,2/20/1999,1
+San Jose,2/25/1999,1
+San Jose,5/5/1999,1
+San Jose,7/7/1999,1
+San Jose,7/15/1999,1
+San Jose,8/1/1999,1
+San Jose,8/25/1999,1
+San Jose,9/3/1999,1
+San Jose,9/30/1999,1
+San Jose,3/13/2000,1
+San Jose,4/24/2000,1
+San Jose,7/1/2000,1
+San Jose,9/21/2000,1
+San Jose,3/15/2001,1
+San Jose,3/17/2001,1
+San Jose,3/26/2001,1
+San Jose,6/13/2001,1
+San Jose,7/5/2001,1
+San Jose,7/25/2001,1
+San Jose,3/17/2002,1
+San Jose,4/17/2002,1
+San Jose,4/25/2002,1
+San Jose,5/11/2002,1
+San Jose,6/18/2002,1
+San Jose,7/20/2002,1
+San Jose,10/28/2002,1
+San Jose,11/11/2002,1
+San Jose,1/1/2003,1
+San Jose,1/2/2003,1
+San Jose,3/26/2003,1
+San Jose,5/26/2003,1
+San Jose,7/15/2003,1
+San Jose,9/25/2003,1
+San Jose,10/9/2003,1
+San Jose,11/6/2003,1
+San Jose,11/11/2003,1
+San Jose,12/1/2003,1
+San Jose,12/17/2003,1
+San Jose,2/8/2004,1
+San Jose,3/2/2004,1
+San Jose,3/13/2004,1
+San Jose,3/27/2004,1
+San Jose,5/17/2004,1
+San Jose,5/23/2004,1
+San Jose,5/31/2004,1
+San Jose,7/4/2004,1
+San Jose,7/17/2004,1
+San Jose,7/26/2004,1
+San Jose,8/14/2004,1
+San Jose,8/21/2004,1
+San Jose,11/26/2004,1
+San Jose,1/17/2005,1
+San Jose,2/4/2005,1
+San Jose,2/8/2005,1
+San Jose,9/1/2005,1
+San Jose,10/3/2005,1
+San Jose,10/26/2005,1
+San Jose,4/2/2006,1
+San Jose,4/7/2006,1
+San Jose,5/2/2006,1
+San Jose,5/9/2006,1
+San Jose,6/18/2006,1
+San Jose,8/16/2006,1
+San Jose,8/25/2006,1
+San Jose,9/5/2006,1
+San Jose,3/13/2007,1
+San Jose,4/23/2007,1
+San Jose,7/22/2007,1
+San Jose,8/15/2007,1
+San Jose,11/7/2007,1
+San Jose,1/8/2008,1
+San Jose,2/6/2008,2
+San Jose,2/21/2008,1
+San Jose,3/9/2008,1
+San Jose,4/11/2008,1
+San Jose,4/15/2008,1
+San Jose,4/25/2008,1
+San Jose,5/29/2008,1
+San Jose,9/7/2008,1
+San Jose,9/12/2008,1
+San Jose,10/28/2008,1
+San Jose,11/11/2008,1
+San Jose,12/23/2008,1
+San Jose,1/4/2009,1
+San Jose,2/20/2009,1
+San Jose,6/29/2009,1
+San Jose,7/1/2009,1
+San Jose,7/9/2009,1
+San Jose,7/12/2009,1
+San Jose,8/9/2009,1
+San Jose,8/10/2009,1
+San Jose,8/22/2009,1
+San Jose,9/7/2009,3
+San Jose,9/26/2009,1
+San Jose,1/20/2010,1
+San Jose,3/26/2010,1
+San Jose,5/21/2010,1
+San Jose,7/1/2010,1
+San Jose,8/5/2010,2
+San Jose,8/29/2010,1
+San Jose,9/20/2010,1
+San Jose,11/13/2010,1
+San Jose,12/9/2010,1
+San Jose,12/16/2010,1
+San Jose,1/12/2011,1
+San Jose,2/15/2011,1
+San Jose,3/19/2011,1
+San Jose,4/15/2011,1
+San Jose,4/26/2011,1
+San Jose,4/29/2011,2
+San Jose,5/1/2011,1
+San Jose,5/3/2011,1
+San Jose,8/4/2011,1
+San Jose,8/18/2011,1
+San Jose,1/30/2012,1
+San Jose,2/10/2012,1
+San Jose,3/30/2012,1
+San Jose,4/27/2012,1
+San Jose,5/11/2012,1
+San Jose,5/13/2012,1
+San Jose,6/16/2012,1
+San Jose,6/17/2012,1
+San Jose,8/10/2012,1
+San Jose,8/11/2012,2
+San Jose,8/13/2012,1
+San Jose,9/2/2012,1
+San Jose,9/16/2012,1
+San Jose,9/23/2012,1
+San Jose,9/27/2012,1
+San Jose,10/3/2012,1
+San Jose,10/4/2012,1
+San Jose,12/30/2012,1
+San Jose,1/1/2013,1
+San Jose,1/31/2013,1
+San Jose,3/2/2013,1
+San Jose,3/23/2013,1
+San Jose,3/30/2013,1
+San Jose,4/1/2013,2
+San Jose,6/8/2013,1
+San Jose,8/3/2013,1
+San Jose,8/11/2013,1
+San Jose,11/24/2013,1
+San Jose,12/12/2013,1
+San Jose,12/17/2013,1
+San Jose,12/23/2013,1
+San Jose,12/25/2013,1
+San Jose,2/3/2014,1
+San Jose,2/24/2014,1
+San Jose,4/9/2014,1
+San Jose,4/18/2014,1
+San Jose,5/7/2014,1
+San Juan Bautista,8/30/2004,1
+San Juan Bautista,3/28/2007,1
+San Juan Bautista,6/20/2007,1
+San Juan Capistrano,11/1/1969,1
+San Juan Capistrano,7/15/1987,1
+San Juan Capistrano,5/30/2004,1
+San Juan Capistrano,2/13/2006,1
+San Juan Capistrano,6/25/2007,1
+San Juan Capistrano,9/14/2008,1
+San Juan Capistrano,11/15/2008,1
+San Juan Capistrano,12/13/2011,1
+San Juan Capistrano,12/17/2013,1
+San Leandro,6/19/1957,1
+San Leandro,8/12/1977,1
+San Leandro,5/6/2004,1
+San Leandro,6/9/2004,1
+San Leandro,5/4/2006,1
+San Leandro,9/2/2006,1
+San Leandro,1/18/2009,1
+San Leandro,5/28/2009,1
+San Leandro,8/20/2009,1
+San Leandro,8/29/2009,1
+San Leandro,5/24/2011,1
+San Leandro,10/29/2011,1
+San Leandro,12/24/2011,1
+San Leandro,6/27/2012,1
+San Leandro,3/3/2013,1
+San Lucas,12/15/2007,1
+San Luis Obispo,5/14/1973,1
+San Luis Obispo,5/24/1995,1
+San Luis Obispo,1/1/1997,1
+San Luis Obispo,3/15/1998,1
+San Luis Obispo,6/1/1999,1
+San Luis Obispo,4/14/2000,1
+San Luis Obispo,9/11/2002,1
+San Luis Obispo,3/16/2004,1
+San Luis Obispo,7/20/2007,1
+San Luis Obispo,8/27/2007,1
+San Luis Obispo,4/10/2008,1
+San Luis Obispo,6/7/2008,1
+San Luis Obispo,9/19/2008,1
+San Luis Obispo,11/4/2008,1
+San Luis Obispo,11/22/2008,1
+San Luis Obispo,3/15/2009,1
+San Luis Obispo,6/13/2013,1
+San Marcos,8/12/1998,1
+San Marcos,1/18/1999,1
+San Marcos,9/16/2002,1
+San Marcos,8/23/2003,2
+San Marcos,9/5/2003,1
+San Marcos,6/30/2004,1
+San Marcos,11/25/2004,1
+San Marcos,12/21/2004,1
+San Marcos,2/24/2005,1
+San Marcos,11/13/2007,1
+San Marcos,12/1/2008,1
+San Marcos,4/6/2010,1
+San Marcos,4/9/2012,1
+San Marcos,7/10/2013,1
+San Marcos,7/26/2013,1
+San Marcos,8/17/2013,1
+San Marcos,4/30/2014,1
+San Marino,12/23/2007,1
+San Martin,12/23/2007,1
+San Mateo,1/22/1970,1
+San Mateo,11/17/2001,1
+San Mateo,12/3/2001,1
+San Mateo,3/28/2004,1
+San Mateo,5/17/2006,1
+San Mateo,6/11/2007,1
+San Mateo,8/19/2007,1
+San Mateo,9/29/2010,1
+San Mateo,11/2/2010,1
+San Mateo,6/9/2012,1
+San Mateo,11/29/2012,1
+San Mateo,3/30/2013,1
+San Mateo,8/30/2013,1
+San Miguel,10/27/2009,1
+San Pablo,1/12/2009,1
+San Pablo,11/14/2010,1
+San Pedro,11/13/2002,1
+San Pedro,11/16/2002,1
+San Pedro,11/9/2011,1
+San Pedro,11/6/2013,1
+San Rafael,6/1/1973,1
+San Rafael,9/1/1999,1
+San Rafael,11/17/1999,1
+San Rafael,4/25/2000,1
+San Rafael,9/13/2001,1
+San Rafael,8/11/2002,1
+San Rafael,1/24/2003,1
+San Rafael,8/20/2003,1
+San Rafael,3/31/2004,1
+San Rafael,3/2/2005,1
+San Rafael,8/5/2005,1
+San Rafael,12/18/2006,1
+San Rafael,12/30/2006,1
+San Rafael,4/9/2007,1
+San Rafael,5/20/2007,1
+San Rafael,8/12/2007,1
+San Rafael,11/1/2007,1
+San Rafael,8/27/2009,1
+San Rafael,2/4/2012,1
+San Rafael,8/19/2013,1
+San Rafael,9/25/2013,1
+San Rafael,12/22/2013,1
+San Rafael,1/6/2014,1
+San Rafael,1/7/2014,1
+San Rafael,4/10/2014,1
+San Ramon,1/11/1999,1
+San Ramon,2/16/2003,1
+San Ramon,1/31/2004,1
+San Ramon,3/14/2004,1
+San Ramon,2/14/2007,1
+San Ramon,6/29/2008,1
+San Ramon,10/8/2008,1
+San Ramon,1/25/2011,1
+San Ramon,8/8/2012,1
+San Ramon,11/25/2012,1
+San Ramon,7/31/2013,1
+Sanger,8/14/1957,1
+Sanger,11/15/1962,1
+Sanger,6/15/1966,1
+Sanger,11/1/1969,1
+Sanger,6/8/1970,1
+Sanger,6/15/1970,1
+Sanger,9/1/1971,1
+Sanger,12/24/1975,1
+Sanger,6/23/1978,1
+Sanger,11/23/1981,1
+Sanger,9/3/1984,1
+Sanger,9/9/1984,1
+Sanger,6/1/1985,1
+Sanger,5/18/1986,1
+Sanger,1/14/1993,1
+Sanger,8/17/1994,1
+Sanger,12/27/1995,1
+Sanger,5/15/1996,1
+Sanger,6/1/1997,1
+Sanger,6/15/1998,2
+Sanger,11/4/1998,1
+Sanger,1/1/1999,1
+Sanger,9/1/1999,1
+Sanger,9/7/1999,1
+Sanger,1/2/2000,1
+Sanger,2/13/2000,1
+Sanger,7/1/2000,1
+Sanger,1/2/2004,1
+Sanger,7/14/2004,1
+Sanger,12/6/2004,1
+Sanger,3/5/2005,1
+Sanger,4/7/2005,1
+Sanger,7/29/2005,1
+Sanger,7/2/2006,1
+Sanger,9/6/2006,1
+Sanger,6/18/2007,1
+Sanger,4/4/2008,1
+Sanger,4/7/2008,1
+Sanger,1/13/2009,1
+Sanger,2/24/2009,1
+Sanger,3/2/2009,1
+Sanger,8/19/2009,1
+Sanger,6/10/2010,1
+Sanger,11/3/2011,1
+Sanger,11/23/2011,1
+Sanger,12/27/2013,1
+Sanger,1/9/2014,1
+Santa Ana,6/3/1960,1
+Santa Ana,7/15/1963,1
+Santa Ana,7/20/1965,1
+Santa Ana,4/15/1974,1
+Santa Ana,7/15/1995,1
+Santa Ana,7/16/1995,1
+Santa Ana,10/31/1997,1
+Santa Ana,5/8/1999,1
+Santa Ana,9/15/1999,1
+Santa Ana,5/22/2001,1
+Santa Ana,12/14/2001,1
+Santa Ana,7/9/2004,1
+Santa Ana,11/5/2004,1
+Santa Ana,5/22/2005,1
+Santa Ana,12/5/2005,1
+Santa Ana,1/5/2006,1
+Santa Ana,2/24/2006,1
+Santa Ana,6/4/2006,1
+Santa Ana,5/20/2007,1
+Santa Ana,5/30/2007,1
+Santa Ana,12/11/2007,1
+Santa Ana,3/14/2008,1
+Santa Ana,1/11/2009,1
+Santa Ana,1/26/2009,1
+Santa Ana,6/5/2009,1
+Santa Ana,1/28/2010,1
+Santa Ana,4/2/2010,1
+Santa Ana,5/26/2010,1
+Santa Ana,11/5/2011,1
+Santa Ana,3/10/2012,1
+Santa Ana,6/16/2012,1
+Santa Ana,2/27/2013,1
+Santa Ana,8/23/2013,1
+Santa Ana,9/4/2013,1
+Santa Ana,1/17/2014,1
+Santa Ana,2/15/2014,1
+Santa Barbara,7/1/1968,1
+Santa Barbara,7/4/1971,1
+Santa Barbara,8/19/1975,1
+Santa Barbara,4/25/1996,1
+Santa Barbara,8/16/1996,1
+Santa Barbara,9/1/1999,2
+Santa Barbara,9/19/1999,2
+Santa Barbara,3/11/2000,1
+Santa Barbara,4/9/2000,1
+Santa Barbara,1/2/2001,1
+Santa Barbara,5/14/2001,1
+Santa Barbara,5/16/2001,1
+Santa Barbara,9/25/2001,1
+Santa Barbara,1/5/2002,1
+Santa Barbara,1/11/2002,1
+Santa Barbara,10/27/2002,1
+Santa Barbara,10/30/2002,1
+Santa Barbara,11/10/2002,1
+Santa Barbara,1/8/2003,1
+Santa Barbara,8/24/2003,1
+Santa Barbara,4/23/2004,1
+Santa Barbara,6/5/2004,1
+Santa Barbara,8/24/2005,1
+Santa Barbara,11/11/2005,1
+Santa Barbara,11/24/2005,1
+Santa Barbara,1/28/2006,1
+Santa Barbara,1/4/2007,1
+Santa Barbara,5/11/2007,1
+Santa Barbara,6/22/2007,1
+Santa Barbara,7/1/2007,1
+Santa Barbara,9/17/2007,1
+Santa Barbara,1/1/2008,1
+Santa Barbara,3/24/2008,1
+Santa Barbara,6/20/2008,1
+Santa Barbara,1/19/2009,1
+Santa Barbara,3/14/2009,1
+Santa Barbara,4/8/2009,1
+Santa Barbara,4/17/2009,1
+Santa Barbara,4/21/2009,1
+Santa Barbara,5/14/2009,2
+Santa Barbara,5/15/2009,1
+Santa Barbara,6/25/2009,1
+Santa Barbara,4/22/2010,2
+Santa Barbara,9/3/2010,1
+Santa Barbara,4/14/2011,1
+Santa Barbara,9/9/2011,1
+Santa Barbara,9/24/2011,1
+Santa Barbara,11/26/2011,1
+Santa Barbara,8/10/2012,1
+Santa Barbara,8/18/2012,1
+Santa Barbara,10/8/2012,1
+Santa Barbara,4/9/2013,1
+Santa Barbara,5/24/2013,1
+Santa Barbara,8/4/2013,1
+Santa Barbara,8/20/2013,1
+Santa Barbara,9/1/2013,1
+Santa Barbara,9/12/2013,1
+Santa Barbara,11/6/2013,1
+Santa Barbara,11/21/2013,1
+Santa Barbara,12/31/2013,1
+Santa Clara,1/1/1961,1
+Santa Clara,6/15/1971,1
+Santa Clara,7/22/1995,1
+Santa Clara,6/8/1997,1
+Santa Clara,9/4/1999,1
+Santa Clara,11/5/1999,1
+Santa Clara,4/20/2000,1
+Santa Clara,7/7/2000,1
+Santa Clara,6/24/2001,1
+Santa Clara,9/19/2002,2
+Santa Clara,7/15/2003,1
+Santa Clara,9/26/2003,1
+Santa Clara,4/15/2004,1
+Santa Clara,9/26/2004,1
+Santa Clara,11/15/2004,1
+Santa Clara,6/30/2005,1
+Santa Clara,5/28/2006,1
+Santa Clara,6/19/2007,1
+Santa Clara,6/9/2008,1
+Santa Clara,6/22/2008,2
+Santa Clara,11/9/2008,1
+Santa Clara,3/26/2009,1
+Santa Clara,6/21/2009,1
+Santa Clara,8/1/2009,1
+Santa Clara,9/8/2009,1
+Santa Clara,3/8/2012,1
+Santa Clara,3/20/2012,1
+Santa Clara,8/16/2013,1
+Santa Clara,1/1/2014,1
+Santa Clarita,7/13/1979,1
+Santa Clarita,5/8/1997,1
+Santa Clarita,11/8/1997,1
+Santa Clarita,4/2/1998,1
+Santa Clarita,10/5/1998,1
+Santa Clarita,6/1/1999,1
+Santa Clarita,6/3/1999,1
+Santa Clarita,11/29/1999,1
+Santa Clarita,12/3/1999,1
+Santa Clarita,5/20/2000,1
+Santa Clarita,2/9/2003,1
+Santa Clarita,11/6/2003,1
+Santa Clarita,12/12/2004,1
+Santa Clarita,6/13/2005,1
+Santa Clarita,4/5/2006,1
+Santa Clarita,4/8/2006,1
+Santa Clarita,11/9/2006,1
+Santa Clarita,11/22/2006,1
+Santa Clarita,3/30/2007,1
+Santa Clarita,5/9/2008,1
+Santa Clarita,2/8/2009,1
+Santa Clarita,2/19/2009,1
+Santa Clarita,10/28/2009,2
+Santa Clarita,5/4/2010,1
+Santa Clarita,7/10/2010,1
+Santa Clarita,12/3/2010,1
+Santa Clarita,1/18/2012,1
+Santa Clarita,8/29/2012,1
+Santa Clarita,9/8/2012,1
+Santa Clarita,12/25/2012,1
+Santa Clarita,6/3/2013,1
+Santa Clarita,1/29/2014,1
+Santa Cruz,6/30/1972,1
+Santa Cruz,5/1/1985,1
+Santa Cruz,8/24/1990,1
+Santa Cruz,11/25/1992,1
+Santa Cruz,6/21/1993,1
+Santa Cruz,4/11/1996,1
+Santa Cruz,5/12/1996,1
+Santa Cruz,7/2/1997,1
+Santa Cruz,8/5/1997,1
+Santa Cruz,12/1/1997,1
+Santa Cruz,4/21/1998,1
+Santa Cruz,4/27/1998,1
+Santa Cruz,4/28/1999,2
+Santa Cruz,7/12/1999,1
+Santa Cruz,9/1/1999,1
+Santa Cruz,9/9/1999,1
+Santa Cruz,12/14/1999,1
+Santa Cruz,3/27/2000,1
+Santa Cruz,4/19/2000,1
+Santa Cruz,5/5/2001,1
+Santa Cruz,4/18/2002,1
+Santa Cruz,7/29/2002,1
+Santa Cruz,8/10/2002,1
+Santa Cruz,8/31/2002,1
+Santa Cruz,11/1/2002,1
+Santa Cruz,11/28/2002,1
+Santa Cruz,3/22/2004,1
+Santa Cruz,4/23/2004,1
+Santa Cruz,12/2/2004,1
+Santa Cruz,4/10/2005,1
+Santa Cruz,2/8/2006,1
+Santa Cruz,3/11/2006,1
+Santa Cruz,2/2/2007,1
+Santa Cruz,3/12/2008,1
+Santa Cruz,4/19/2008,1
+Santa Cruz,3/28/2009,1
+Santa Cruz,7/18/2009,1
+Santa Cruz,8/5/2009,1
+Santa Cruz,3/1/2010,1
+Santa Cruz,4/14/2010,1
+Santa Cruz,4/16/2010,1
+Santa Cruz,5/1/2010,1
+Santa Cruz,5/29/2010,1
+Santa Cruz,3/12/2011,1
+Santa Cruz,4/21/2012,1
+Santa Cruz,8/16/2012,1
+Santa Cruz,11/11/2012,1
+Santa Cruz,11/17/2012,1
+Santa Cruz,2/3/2013,1
+Santa Cruz,6/13/2013,1
+Santa Cruz,6/26/2013,1
+Santa Cruz,10/29/2013,1
+Santa Cruz,10/31/2013,1
+Santa Cruz,12/31/2013,1
+Santa Cruz,1/25/2014,1
+Santa Cruz,2/14/2014,1
+Santa Cruz,4/26/2014,1
+Santa Margarita,2/6/2007,1
+Santa Maria,3/30/1955,1
+Santa Maria,6/15/1999,1
+Santa Maria,2/1/2003,1
+Santa Maria,4/13/2003,1
+Santa Maria,7/1/2003,1
+Santa Maria,11/23/2003,1
+Santa Maria,6/22/2004,1
+Santa Maria,2/12/2005,1
+Santa Maria,4/27/2006,1
+Santa Maria,4/18/2007,1
+Santa Maria,9/8/2007,1
+Santa Maria,8/28/2008,1
+Santa Maria,9/29/2008,1
+Santa Maria,10/9/2008,1
+Santa Maria,2/8/2010,1
+Santa Maria,2/16/2011,1
+Santa Maria,2/6/2012,1
+Santa Maria,5/3/2013,1
+Santa Monica,7/15/1976,1
+Santa Monica,12/10/1980,1
+Santa Monica,5/7/1997,1
+Santa Monica,3/10/1998,1
+Santa Monica,6/12/1998,1
+Santa Monica,4/20/1999,1
+Santa Monica,6/6/1999,1
+Santa Monica,6/10/2000,1
+Santa Monica,6/19/2000,1
+Santa Monica,8/4/2000,1
+Santa Monica,9/14/2000,1
+Santa Monica,3/7/2001,1
+Santa Monica,5/3/2001,1
+Santa Monica,3/18/2002,2
+Santa Monica,7/23/2002,1
+Santa Monica,4/10/2003,1
+Santa Monica,5/15/2003,1
+Santa Monica,12/2/2003,1
+Santa Monica,3/17/2004,1
+Santa Monica,5/12/2004,1
+Santa Monica,5/14/2004,1
+Santa Monica,5/23/2004,1
+Santa Monica,12/4/2004,1
+Santa Monica,12/18/2004,1
+Santa Monica,3/21/2005,1
+Santa Monica,4/12/2005,1
+Santa Monica,6/19/2005,1
+Santa Monica,6/21/2005,1
+Santa Monica,1/4/2006,1
+Santa Monica,9/2/2006,1
+Santa Monica,9/5/2006,1
+Santa Monica,12/9/2006,1
+Santa Monica,3/8/2007,1
+Santa Monica,7/1/2007,1
+Santa Monica,12/31/2007,1
+Santa Monica,1/12/2008,1
+Santa Monica,4/22/2008,1
+Santa Monica,3/15/2009,1
+Santa Monica,10/31/2009,1
+Santa Monica,12/12/2009,1
+Santa Monica,9/22/2010,1
+Santa Monica,9/24/2010,1
+Santa Monica,9/28/2010,1
+Santa Monica,5/2/2011,1
+Santa Monica,11/28/2011,1
+Santa Monica,1/5/2013,1
+Santa Monica,4/19/2013,1
+Santa Monica,7/20/2013,1
+Santa Monica,9/28/2013,1
+Santa Monica,11/9/2013,1
+Santa Paula,6/1/1976,1
+Santa Paula,6/23/1996,1
+Santa Paula,12/27/2000,1
+Santa Paula,7/25/2009,2
+Santa Paula,11/26/2010,1
+Santa Paula,11/23/2013,1
+Santa Paula,12/19/2013,1
+Santa Rosa,8/6/1966,1
+Santa Rosa,9/15/1967,1
+Santa Rosa,9/9/1968,1
+Santa Rosa,4/3/1971,1
+Santa Rosa,3/15/1974,1
+Santa Rosa,6/10/1977,1
+Santa Rosa,8/25/1978,1
+Santa Rosa,8/1/1983,1
+Santa Rosa,12/22/1988,1
+Santa Rosa,7/26/1989,1
+Santa Rosa,6/1/1990,1
+Santa Rosa,8/16/1992,1
+Santa Rosa,2/15/1995,1
+Santa Rosa,1/4/1997,1
+Santa Rosa,6/1/1997,1
+Santa Rosa,12/6/1998,1
+Santa Rosa,12/10/1998,1
+Santa Rosa,3/11/1999,1
+Santa Rosa,5/3/1999,1
+Santa Rosa,11/5/1999,1
+Santa Rosa,7/1/2000,1
+Santa Rosa,7/7/2000,1
+Santa Rosa,1/31/2001,1
+Santa Rosa,5/6/2001,1
+Santa Rosa,7/26/2001,1
+Santa Rosa,8/19/2001,1
+Santa Rosa,9/2/2001,1
+Santa Rosa,9/3/2001,1
+Santa Rosa,9/25/2002,1
+Santa Rosa,11/18/2002,1
+Santa Rosa,12/29/2002,1
+Santa Rosa,4/9/2003,1
+Santa Rosa,7/8/2003,1
+Santa Rosa,1/23/2004,1
+Santa Rosa,5/14/2004,1
+Santa Rosa,6/5/2004,1
+Santa Rosa,10/27/2004,1
+Santa Rosa,7/5/2005,1
+Santa Rosa,8/1/2005,1
+Santa Rosa,3/16/2006,1
+Santa Rosa,2/27/2007,1
+Santa Rosa,4/28/2007,1
+Santa Rosa,7/8/2007,1
+Santa Rosa,8/15/2007,2
+Santa Rosa,12/30/2007,1
+Santa Rosa,1/30/2008,1
+Santa Rosa,11/16/2008,1
+Santa Rosa,4/4/2009,1
+Santa Rosa,5/8/2009,1
+Santa Rosa,7/16/2009,1
+Santa Rosa,8/6/2009,1
+Santa Rosa,8/23/2009,2
+Santa Rosa,2/24/2010,1
+Santa Rosa,8/21/2010,1
+Santa Rosa,2/27/2011,1
+Santa Rosa,6/15/2011,1
+Santa Rosa,11/30/2011,1
+Santa Rosa,12/27/2011,1
+Santa Rosa,2/1/2012,1
+Santa Rosa,3/22/2012,1
+Santa Rosa,6/23/2012,2
+Santa Rosa,10/27/2012,1
+Santa Rosa,12/24/2012,1
+Santa Rosa,12/31/2012,1
+Santa Rosa,11/2/2013,1
+Santa Rosa,11/16/2013,1
+Santa Rosa,12/18/2013,1
+Santa Rosa,12/27/2013,1
+Santa Rosa,1/5/2014,1
+Santa Rosa,4/10/2014,2
+Santee,8/5/1995,1
+Santee,11/10/1997,1
+Santee,6/17/1999,1
+Santee,12/31/1999,1
+Santee,4/16/2000,1
+Santee,4/5/2001,1
+Santee,11/15/2003,1
+Santee,8/22/2004,1
+Santee,7/4/2005,1
+Santee,12/7/2010,1
+Santee,5/7/2013,1
+Santee,6/23/2013,1
+Santee,4/9/2014,1
+Saratoga,11/1/1997,1
+Saratoga,6/5/2002,1
+Saratoga,9/11/2003,1
+Saratoga,1/12/2012,1
+Saratoga,12/24/2013,1
+Sausalito,8/15/1949,1
+Sausalito,8/1/1961,1
+Sausalito,9/4/2001,1
+Sausalito,7/18/2002,1
+Sausalito,1/31/2004,1
+Sausalito,12/10/2004,1
+Sausalito,3/11/2005,1
+Sausalito,6/5/2006,1
+Sausalito,5/8/2010,1
+Scotts Valley,3/14/2000,1
+Scotts Valley,8/9/2003,1
+Scotts Valley,11/20/2003,1
+Scotts Valley,7/6/2005,1
+Scotts Valley,7/4/2013,1
+Seal Beach,1/28/2009,1
+Seal Beach,9/26/2010,1
+Seal Beach,6/23/2013,1
+Seal Beach,4/16/2014,1
+Seaside,5/15/2002,1
+Seaside,2/6/2011,1
+Seaside,7/1/2011,1
+Seaside,6/20/2012,1
+Selma,4/29/2013,1
+Selma,6/14/2013,1
+Selma,2/13/2014,1
+Selma,2/25/2014,1
+Sequoia National Park,1/18/2003,1
+Sequoia National Park,10/31/2009,1
+Shafter,3/15/1981,1
+Shafter,4/17/2002,1
+Shafter,4/2/2004,1
+Shafter,2/20/2007,1
+Shafter,2/12/2013,1
+Shasta,7/3/1990,1
+Shasta,9/6/1996,1
+Shasta,12/28/1999,1
+Shasta,5/25/2013,1
+Shasta Lake,1/20/2003,1
+Shaver Lake,6/1/1977,1
+Shaver Lake,7/1/1990,2
+Shaver Lake,7/25/2009,1
+Shaver Lake,8/16/2009,1
+Shaver Lake,3/22/2011,1
+Shaver Lake,4/22/2012,1
+Shelter Cove,6/1/1972,1
+Shelter Cove,2/2/2009,1
+Sherman Oaks,12/24/1994,1
+Sherman Oaks,8/23/1997,1
+Sherman Oaks,9/15/1997,1
+Sherman Oaks,11/19/1999,1
+Sherman Oaks,12/10/1999,1
+Sherman Oaks,9/19/2000,1
+Sherman Oaks,1/26/2003,1
+Sherman Oaks,2/9/2003,1
+Sherman Oaks,8/16/2004,1
+Sherman Oaks,9/27/2006,1
+Sherman Oaks,4/17/2008,1
+Sherman Oaks,12/13/2008,1
+Sherman Oaks,4/21/2010,1
+Sherman Oaks,8/28/2010,1
+Sherman Oaks,9/4/2010,1
+Sherman Oaks,10/9/2011,1
+Sherman Oaks,6/5/2012,1
+Sherman Oaks,6/28/2012,1
+Sherman Oaks,12/1/2013,1
+Shingle Springs,11/30/1998,1
+Shingle Springs,11/9/2005,1
+Shingle Springs,9/12/2008,1
+Sierra Madre,1/2/2000,1
+Silver City,7/14/2009,1
+Silver City,7/17/2010,1
+Simi Valley,6/15/1976,2
+Simi Valley,6/30/1976,1
+Simi Valley,6/1/1977,1
+Simi Valley,3/7/1978,1
+Simi Valley,8/15/1978,1
+Simi Valley,12/13/1996,1
+Simi Valley,5/22/1997,1
+Simi Valley,8/15/1998,1
+Simi Valley,2/19/1999,1
+Simi Valley,3/12/2000,1
+Simi Valley,12/30/2000,1
+Simi Valley,3/9/2001,1
+Simi Valley,6/28/2001,1
+Simi Valley,7/27/2002,1
+Simi Valley,1/15/2003,1
+Simi Valley,1/16/2003,1
+Simi Valley,3/31/2005,1
+Simi Valley,8/12/2005,1
+Simi Valley,9/5/2005,1
+Simi Valley,9/22/2005,1
+Simi Valley,12/24/2005,1
+Simi Valley,6/5/2006,1
+Simi Valley,7/6/2006,1
+Simi Valley,8/18/2006,1
+Simi Valley,1/3/2007,1
+Simi Valley,3/13/2007,1
+Simi Valley,3/24/2007,1
+Simi Valley,7/25/2007,1
+Simi Valley,3/13/2008,1
+Simi Valley,5/22/2008,1
+Simi Valley,5/23/2008,1
+Simi Valley,6/23/2008,1
+Simi Valley,11/30/2008,1
+Simi Valley,3/17/2009,1
+Simi Valley,3/28/2009,1
+Simi Valley,8/15/2009,1
+Simi Valley,8/21/2009,1
+Simi Valley,10/9/2009,1
+Simi Valley,11/20/2009,1
+Simi Valley,12/20/2009,1
+Simi Valley,3/19/2010,1
+Simi Valley,4/5/2011,1
+Simi Valley,6/21/2011,1
+Simi Valley,4/26/2012,1
+Simi Valley,4/5/2013,1
+Simi Valley,7/5/2013,1
+Simi Valley,12/5/2013,1
+Simi Valley,3/7/2014,1
+Simi Valley,4/12/2014,1
+Smartsville,11/17/2006,1
+Solana Beach,7/9/2008,1
+Solana Beach,4/14/2011,1
+Solana Beach,12/6/2013,1
+Soledad,6/17/2012,1
+Solvang,11/11/1995,1
+Somes Bar,5/10/2006,1
+Sonoma,4/8/1997,1
+Sonoma,2/4/1999,1
+Sonoma,9/23/2003,1
+Sonoma,9/19/2005,1
+Sonoma,10/30/2005,1
+Sonoma,7/15/2006,1
+Sonoma,7/21/2006,1
+Sonoma,7/29/2006,3
+Sonoma,12/5/2006,1
+Sonoma,3/1/2007,1
+Sonoma,6/24/2007,1
+Sonoma,4/26/2008,1
+Sonoma,2/26/2010,1
+Sonoma,9/28/2011,1
+Sonoma,9/21/2012,1
+Sonoma,3/12/2014,1
+Sonoma,4/27/2014,1
+Sonora,10/8/1998,1
+Sonora,8/15/2002,1
+Sonora,4/3/2004,3
+Sonora,5/17/2004,1
+Sonora,5/22/2004,1
+Sonora,5/31/2004,1
+Sonora,6/10/2004,1
+Sonora,8/8/2004,1
+Sonora,9/10/2004,1
+Sonora,9/17/2004,1
+Sonora,4/17/2005,1
+Sonora,6/4/2005,1
+Sonora,8/11/2005,1
+Sonora,3/21/2006,1
+Sonora,5/19/2006,1
+Sonora,6/6/2006,1
+Sonora,7/19/2006,1
+Sonora,2/28/2007,1
+Sonora,4/26/2007,1
+Sonora,7/27/2007,1
+Sonora,8/6/2007,1
+Sonora,8/11/2007,1
+Sonora,4/12/2008,1
+Sonora,8/2/2008,1
+Soquel,10/9/2010,1
+Soulsbyville,8/2/1986,1
+Soulsbyville,3/4/2012,1
+South El Monte,1/16/2005,1
+South El Monte,1/1/2014,1
+South Gate,1/15/1985,1
+South Gate,10/31/2008,1
+South Lake Tahoe,5/29/1976,1
+South Lake Tahoe,6/30/1980,1
+South Lake Tahoe,11/17/1998,1
+South Lake Tahoe,11/12/2001,1
+South Lake Tahoe,5/29/2002,1
+South Lake Tahoe,4/11/2004,1
+South Lake Tahoe,6/14/2006,1
+South Lake Tahoe,7/4/2006,1
+South Lake Tahoe,8/17/2007,1
+South Lake Tahoe,4/30/2008,1
+South Lake Tahoe,5/26/2012,1
+South Pasadena,2/2/1999,1
+South Pasadena,11/2/1999,1
+South Pasadena,1/2/2000,1
+South Pasadena,5/26/2000,1
+South Pasadena,9/4/2005,1
+South Pasadena,11/3/2005,1
+South Pasadena,8/3/2006,1
+South Pasadena,5/22/2009,1
+South San Francisco,1/10/1959,1
+South San Francisco,1/16/2011,1
+South San Francisco,1/1/2012,1
+Spring Valley,10/31/1994,1
+Spring Valley,4/11/1998,1
+Spring Valley,6/19/1999,1
+Spring Valley,7/9/2001,1
+Spring Valley,1/1/2003,1
+Spring Valley,1/1/2004,1
+Spring Valley,7/4/2004,1
+Spring Valley,8/15/2004,1
+Spring Valley,8/6/2005,1
+Spring Valley,9/29/2005,1
+Spring Valley,6/12/2006,1
+Spring Valley,4/4/2007,1
+Spring Valley,7/4/2007,2
+Spring Valley,11/22/2008,1
+Spring Valley,1/1/2009,1
+Spring Valley,1/17/2009,1
+Spring Valley,1/1/2010,1
+Spring Valley,6/18/2011,1
+Spring Valley,11/15/2013,1
+Springville,7/1/1959,1
+Springville,6/15/1976,1
+Squaw Valley,3/16/2009,1
+Squaw Valley,7/30/2011,1
+St. Helena,7/4/2012,1
+St. Helena,9/10/2013,1
+Stanford,11/25/2001,1
+Stanton,3/15/2003,1
+Stockton,6/30/1968,1
+Stockton,7/22/1970,1
+Stockton,8/9/1971,1
+Stockton,7/5/1973,1
+Stockton,6/10/1977,1
+Stockton,8/1/1981,1
+Stockton,8/10/1982,2
+Stockton,11/15/1988,1
+Stockton,8/31/1994,1
+Stockton,9/7/1996,1
+Stockton,11/23/1996,1
+Stockton,12/25/1996,1
+Stockton,3/25/1997,1
+Stockton,6/15/1998,1
+Stockton,9/1/1999,1
+Stockton,7/1/2000,1
+Stockton,8/10/2003,1
+Stockton,1/13/2007,1
+Stockton,8/2/2008,1
+Stockton,9/12/2008,1
+Stockton,12/12/2008,1
+Stockton,3/21/2010,1
+Stockton,3/24/2010,1
+Stockton,6/18/2010,1
+Stockton,10/9/2010,1
+Stockton,11/15/2010,1
+Stockton,4/10/2011,1
+Stockton,3/9/2012,1
+Stockton,4/23/2012,1
+Stockton,1/1/2013,2
+Stockton,12/19/2013,1
+Stockton,12/31/2013,1
+Stockton,2/22/2014,2
+Stovepipe Wells,11/20/2007,1
+Stovepipe Wells,11/17/2009,1
+Stovepipe Wells,1/16/2011,1
+Strawberry,10/26/2006,1
+Studio City,1/2/2000,1
+Studio City,9/15/2000,1
+Studio City,11/13/2001,1
+Studio City,8/10/2002,1
+Studio City,4/6/2003,1
+Studio City,2/28/2004,1
+Studio City,5/19/2005,1
+Studio City,12/12/2006,1
+Studio City,9/11/2007,1
+Studio City,12/29/2011,1
+Studio City,11/3/2012,1
+Studio City,11/7/2012,1
+Studio City,11/28/2012,1
+Studio City,3/28/2013,1
+Studio City,12/28/2013,1
+Suisun City,7/4/1991,1
+Suisun City,1/1/2003,1
+Summerland,1/29/1968,1
+Summerland,5/8/2000,1
+Summerland,12/8/2007,1
+Summerland,2/24/2011,1
+Summerland,4/25/2011,2
+Sun City,12/10/2008,1
+Sun Valley,1/18/2009,1
+Sunnyvale,3/28/1959,1
+Sunnyvale,7/4/1969,1
+Sunnyvale,6/27/1971,1
+Sunnyvale,12/20/1975,1
+Sunnyvale,6/30/1979,1
+Sunnyvale,11/19/1988,1
+Sunnyvale,2/10/1998,1
+Sunnyvale,4/15/1999,1
+Sunnyvale,7/7/2000,2
+Sunnyvale,2/24/2002,1
+Sunnyvale,3/15/2002,1
+Sunnyvale,12/29/2002,1
+Sunnyvale,11/20/2003,1
+Sunnyvale,5/2/2004,1
+Sunnyvale,1/4/2005,1
+Sunnyvale,4/21/2005,1
+Sunnyvale,7/3/2005,1
+Sunnyvale,9/20/2005,1
+Sunnyvale,8/8/2008,1
+Sunnyvale,7/22/2009,1
+Sunnyvale,2/13/2010,1
+Sunnyvale,6/1/2012,1
+Sunnyvale,4/29/2013,2
+Sunol,1/8/2003,1
+Sunol,2/6/2006,1
+Sunol,3/14/2011,1
+Susanville,9/15/1960,1
+Susanville,5/12/2001,1
+Susanville,12/24/2002,1
+Susanville,10/5/2003,1
+Susanville,7/4/2005,1
+Susanville,8/7/2005,1
+Susanville,12/22/2006,1
+Susanville,6/15/2007,1
+Susanville,10/8/2012,1
+Susanville,7/20/2013,1
+Susanville,9/5/2013,1
+Sylmar,10/8/2003,1
+Sylmar,10/28/2008,1
+Taft,4/1/1994,1
+Taft,8/15/2001,1
+Taft,8/16/2001,1
+Taft,9/15/2007,1
+Taft,11/30/2007,1
+Taft,1/22/2008,1
+Taft,4/14/2011,2
+Taft,12/16/2012,1
+Taft,7/15/2013,1
+Tahoe City,9/19/2002,1
+Tahoe City,7/4/2004,1
+Tahoe City,3/24/2008,2
+Tahoe City,2/27/2009,1
+Tahoe City,8/14/2013,1
+Tarzana,12/16/1997,1
+Tarzana,11/16/2006,1
+Tarzana,11/6/2007,1
+Tarzana,1/2/2014,1
+Tecopa,1/12/1995,1
+Tehachapi,12/30/1959,1
+Tehachapi,7/15/1965,1
+Tehachapi,11/26/1987,1
+Tehachapi,4/6/2000,1
+Tehachapi,7/23/2002,1
+Tehachapi,3/23/2005,1
+Tehachapi,6/12/2005,1
+Tehachapi,7/1/2006,1
+Tehachapi,9/25/2010,1
+Tehachapi,1/23/2011,1
+Temecula,12/10/1994,1
+Temecula,1/2/2000,1
+Temecula,7/28/2001,1
+Temecula,12/17/2001,1
+Temecula,10/5/2002,1
+Temecula,11/5/2002,1
+Temecula,10/29/2004,1
+Temecula,12/1/2006,1
+Temecula,12/14/2009,1
+Temecula,12/11/2010,1
+Temecula,11/16/2011,1
+Temescal Valley,6/14/1997,1
+Temescal Valley,8/12/2002,1
+Temescal Valley,6/13/2003,1
+Temescal Valley,4/11/2005,1
+Thousand Oaks,1/15/1976,1
+Thousand Oaks,1/9/1978,1
+Thousand Oaks,3/26/1996,1
+Thousand Oaks,2/15/1999,1
+Thousand Oaks,3/17/2000,1
+Thousand Oaks,12/18/2004,1
+Thousand Oaks,1/12/2005,1
+Thousand Oaks,2/2/2006,1
+Thousand Oaks,8/23/2008,1
+Thousand Oaks,2/17/2009,1
+Thousand Oaks,5/31/2010,1
+Thousand Oaks,7/30/2010,1
+Thousand Oaks,8/21/2010,2
+Thousand Oaks,9/25/2010,1
+Thousand Oaks,11/5/2010,1
+Thousand Oaks,12/3/2010,1
+Thousand Oaks,10/31/2011,1
+Thousand Oaks,6/28/2012,1
+Thousand Oaks,8/6/2012,1
+Thousand Oaks,9/28/2012,1
+Thousand Oaks,12/3/2012,1
+Thousand Oaks,6/14/2013,1
+Thousand Oaks,12/2/2013,1
+Thousand Oaks,1/21/2014,1
+Thousand Oaks,2/21/2014,1
+Tiburon,11/2/1967,1
+Tiburon,7/1/1990,1
+Tiburon,7/26/1998,1
+Tiburon,8/13/2000,1
+Tiburon,11/5/2006,1
+Tiburon,8/13/2013,1
+Torrance,8/21/1998,1
+Torrance,11/1/1999,1
+Torrance,3/13/2000,1
+Torrance,4/15/2000,1
+Torrance,8/11/2000,1
+Torrance,5/29/2001,1
+Torrance,5/2/2002,1
+Torrance,12/30/2002,1
+Torrance,6/12/2004,1
+Torrance,5/29/2005,1
+Torrance,1/19/2006,1
+Torrance,5/20/2006,1
+Torrance,9/27/2006,1
+Torrance,6/22/2007,1
+Torrance,10/29/2007,1
+Torrance,12/13/2008,1
+Torrance,2/20/2009,1
+Torrance,12/2/2009,1
+Torrance,10/31/2011,1
+Torrance,12/4/2011,1
+Torrance,1/2/2012,1
+Torrance,5/5/2012,1
+Torrance,5/6/2012,1
+Torrance,7/22/2012,1
+Torrance,8/10/2012,1
+Torrance,10/5/2012,1
+Torrance,4/11/2013,1
+Torrance,8/29/2013,1
+Torrance,10/6/2013,1
+Torrance,10/31/2013,1
+Trabuco Canyon,11/8/2008,1
+Tracy,9/9/1968,1
+Tracy,6/15/1993,1
+Tracy,8/15/1998,1
+Tracy,10/30/1999,1
+Tracy,6/20/2001,1
+Tracy,8/22/2001,1
+Tracy,11/15/2003,1
+Tracy,3/5/2004,1
+Tracy,5/8/2004,1
+Tracy,10/26/2005,1
+Tracy,9/4/2007,1
+Tracy,9/16/2007,1
+Tracy,11/24/2007,1
+Tracy,12/2/2008,1
+Tracy,11/24/2009,1
+Tracy,7/12/2010,1
+Tracy,9/3/2010,1
+Tracy,10/28/2010,1
+Tracy,11/1/2010,1
+Tracy,3/4/2011,1
+Tracy,11/6/2011,1
+Tracy,4/21/2013,1
+Trinidad,11/1/1972,1
+Trinidad,6/17/2005,1
+Trinidad,5/10/2010,1
+Trinidad,12/21/2011,1
+Trowbridge,2/25/2001,1
+Truckee,6/15/1974,1
+Truckee,6/18/1983,1
+Truckee,9/1/1999,1
+Truckee,7/30/2004,1
+Truckee,8/5/2004,1
+Truckee,4/29/2005,1
+Truckee,5/12/2005,1
+Truckee,7/27/2007,1
+Truckee,12/6/2008,1
+Truckee,7/7/2010,1
+Truckee,8/13/2011,1
+Tujunga,11/14/1999,1
+Tujunga,1/18/2014,1
+Tulare,1/1/2013,1
+Tulelake,2/21/2003,1
+Tulelake,7/4/2003,1
+Tuolumne,12/19/2012,1
+Turlock,5/5/1997,1
+Turlock,1/7/2002,1
+Turlock,8/14/2005,1
+Turlock,8/27/2010,1
+Turlock,7/18/2011,1
+Turlock,12/13/2012,1
+Turlock,1/25/2013,1
+Turlock,8/5/2013,1
+Turlock,9/26/2013,2
+Turlock,3/4/2014,2
+Turlock,3/5/2014,1
+Turlock,4/10/2014,1
+Tustin,5/26/1999,1
+Tustin,1/2/2000,1
+Tustin,8/17/2003,1
+Tustin,4/19/2004,1
+Tustin,5/15/2005,1
+Tustin,2/22/2006,1
+Tustin,3/12/2006,1
+Tustin,11/21/2006,1
+Tustin,12/23/2007,1
+Tustin,11/21/2008,1
+Tustin,8/23/2009,1
+Tustin,5/12/2012,1
+Tustin,8/8/2013,1
+Twentynine Palms,7/14/2001,1
+Twentynine Palms,8/3/2003,1
+Twentynine Palms,11/15/2003,1
+Twentynine Palms,1/1/2006,1
+Twentynine Palms,4/22/2008,1
+Twentynine Palms,9/3/2010,1
+Twentynine Palms,9/17/2011,1
+Twentynine Palms,3/21/2012,1
+Ukiah,8/28/1977,1
+Ukiah,11/27/1978,2
+Ukiah,7/15/2005,1
+Ukiah,6/30/2006,1
+Ukiah,12/7/2006,1
+Ukiah,12/10/2006,1
+Ukiah,1/29/2007,1
+Ukiah,1/14/2008,1
+Ukiah,2/9/2008,1
+Ukiah,10/8/2008,1
+Ukiah,1/17/2009,1
+Ukiah,9/18/2011,1
+Union City,1/17/2004,1
+Union City,11/22/2009,1
+Union City,11/14/2012,2
+Union City,11/30/2012,1
+Upland,12/12/1996,1
+Upland,9/10/1997,1
+Upland,6/3/2009,1
+Upland,11/4/2010,1
+Upland,11/4/2012,1
+Upland,1/8/2014,1
+Vacaville,8/17/1982,1
+Vacaville,6/27/1999,1
+Vacaville,9/1/1999,1
+Vacaville,9/10/1999,1
+Vacaville,5/13/2000,1
+Vacaville,12/13/2003,1
+Vacaville,5/28/2005,1
+Vacaville,9/30/2005,1
+Vacaville,5/26/2007,1
+Vacaville,8/19/2007,1
+Vacaville,2/28/2008,1
+Vacaville,4/10/2008,1
+Vacaville,7/26/2010,1
+Vacaville,8/11/2010,1
+Vacaville,4/5/2011,1
+Vacaville,6/4/2011,1
+Vacaville,6/21/2011,1
+Vacaville,1/8/2012,1
+Vacaville,5/21/2012,1
+Vacaville,7/21/2012,2
+Vacaville,10/27/2012,1
+Vacaville,11/22/2012,1
+Vacaville,12/7/2013,1
+Vacaville,1/21/2014,1
+Vacaville,4/22/2014,1
+Valencia,7/15/1974,1
+Valencia,9/1/1975,1
+Valencia,7/15/1980,1
+Valencia,12/18/1993,1
+Valencia,12/23/1993,1
+Valencia,6/1/1998,1
+Valencia,2/6/2001,1
+Valencia,3/26/2001,1
+Valencia,7/23/2002,1
+Valencia,11/26/2003,1
+Valencia,12/16/2003,1
+Valencia,3/5/2004,1
+Valencia,3/14/2004,1
+Valencia,11/19/2004,1
+Valencia,11/6/2005,1
+Valencia,10/31/2006,1
+Valencia,5/2/2008,1
+Valencia,11/5/2009,1
+Valencia,3/27/2010,1
+Valencia,12/17/2010,1
+Vallejo,8/7/1953,1
+Vallejo,8/1/1989,1
+Vallejo,8/19/1999,1
+Vallejo,9/1/1999,1
+Vallejo,7/23/2000,1
+Vallejo,10/7/2000,1
+Vallejo,11/13/2003,1
+Vallejo,3/20/2004,1
+Vallejo,10/31/2005,1
+Vallejo,6/13/2007,1
+Vallejo,3/8/2008,1
+Vallejo,6/18/2008,1
+Vallejo,12/23/2008,1
+Vallejo,9/14/2009,1
+Vallejo,2/1/2010,1
+Vallejo,11/23/2012,1
+Vallejo,2/22/2013,1
+Vallejo,8/30/2013,1
+Vallejo,11/5/2013,1
+Vallejo,5/5/2014,1
+Valley Center,6/30/2009,1
+Valley Center,3/6/2011,1
+Van Nuys,11/15/1974,1
+Van Nuys,8/1/1978,1
+Van Nuys,8/22/1983,1
+Van Nuys,2/6/1986,1
+Van Nuys,7/15/1988,1
+Van Nuys,5/9/1993,1
+Van Nuys,8/1/1995,1
+Van Nuys,6/15/1996,1
+Van Nuys,9/24/1998,1
+Van Nuys,11/5/1998,1
+Van Nuys,2/3/1999,1
+Van Nuys,1/2/2000,1
+Van Nuys,1/18/2000,1
+Van Nuys,9/30/2000,3
+Van Nuys,11/24/2001,1
+Van Nuys,7/19/2002,1
+Van Nuys,1/25/2003,1
+Van Nuys,1/26/2003,1
+Van Nuys,9/1/2003,1
+Van Nuys,11/12/2004,1
+Van Nuys,4/1/2005,1
+Van Nuys,4/16/2005,1
+Van Nuys,12/18/2005,1
+Van Nuys,7/16/2006,1
+Van Nuys,11/19/2006,1
+Van Nuys,12/24/2007,1
+Van Nuys,6/15/2008,1
+Van Nuys,7/25/2008,1
+Van Nuys,1/16/2009,1
+Van Nuys,6/6/2009,1
+Van Nuys,6/18/2009,1
+Van Nuys,8/16/2009,1
+Van Nuys,12/11/2010,1
+Van Nuys,12/12/2010,1
+Van Nuys,2/23/2011,1
+Van Nuys,3/7/2011,1
+Van Nuys,6/21/2011,1
+Van Nuys,7/15/2011,1
+Van Nuys,4/15/2014,1
+Venice,3/11/1999,1
+Venice,4/24/2000,1
+Venice,7/19/2000,1
+Venice,3/10/2001,1
+Venice,5/27/2004,1
+Venice,11/25/2005,1
+Venice,12/30/2006,1
+Venice,4/18/2008,1
+Venice,11/16/2009,1
+Venice,11/26/2009,1
+Venice,8/23/2010,1
+Venice,11/4/2010,1
+Venice,4/4/2011,1
+Venice,5/3/2011,1
+Venice,5/5/2012,1
+Venice,8/8/2012,1
+Venice,9/10/2012,1
+Venice,10/29/2012,1
+Venice,11/11/2012,1
+Venice,5/3/2013,1
+Venice,2/20/2014,1
+Venice,4/30/2014,1
+Ventura,6/1/1967,1
+Ventura,4/15/1974,1
+Ventura,4/8/1992,1
+Ventura,3/29/1995,1
+Ventura,4/18/1999,1
+Ventura,5/18/1999,1
+Ventura,2/8/2000,1
+Ventura,6/14/2000,1
+Ventura,2/8/2001,1
+Ventura,8/19/2001,1
+Ventura,9/29/2001,1
+Ventura,5/17/2002,1
+Ventura,5/18/2002,1
+Ventura,5/20/2002,1
+Ventura,5/21/2002,1
+Ventura,5/22/2002,1
+Ventura,5/25/2002,1
+Ventura,5/26/2002,1
+Ventura,6/10/2002,1
+Ventura,12/6/2002,1
+Ventura,5/6/2003,1
+Ventura,5/15/2003,2
+Ventura,6/8/2003,1
+Ventura,5/10/2004,1
+Ventura,11/14/2004,1
+Ventura,2/13/2005,1
+Ventura,8/29/2005,1
+Ventura,9/30/2005,1
+Ventura,11/1/2005,1
+Ventura,11/12/2005,1
+Ventura,11/17/2005,1
+Ventura,12/23/2006,1
+Ventura,1/8/2007,1
+Ventura,6/22/2007,1
+Ventura,5/24/2008,1
+Ventura,6/19/2008,1
+Ventura,1/4/2009,1
+Ventura,3/26/2009,1
+Ventura,11/16/2009,1
+Ventura,11/25/2009,1
+Ventura,4/15/2010,1
+Ventura,5/27/2010,1
+Ventura,9/20/2010,1
+Ventura,12/9/2010,1
+Ventura,8/20/2011,1
+Ventura,8/28/2011,1
+Ventura,1/12/2012,1
+Ventura,3/4/2012,1
+Ventura,3/10/2012,1
+Ventura,4/9/2012,1
+Ventura,5/7/2012,1
+Ventura,5/16/2012,1
+Ventura,6/23/2012,1
+Ventura,7/4/2012,1
+Ventura,9/9/2012,2
+Ventura,11/16/2012,1
+Ventura,3/8/2013,1
+Ventura,4/17/2013,1
+Ventura,11/7/2013,2
+Victorville,6/6/1971,1
+Victorville,7/15/1979,1
+Victorville,6/1/1980,1
+Victorville,7/23/1986,1
+Victorville,4/10/1995,1
+Victorville,9/12/1996,1
+Victorville,12/30/1997,1
+Victorville,6/26/1998,1
+Victorville,8/9/2000,1
+Victorville,8/7/2001,1
+Victorville,3/29/2002,1
+Victorville,5/4/2002,1
+Victorville,8/27/2002,1
+Victorville,9/27/2002,1
+Victorville,1/24/2004,1
+Victorville,4/23/2004,1
+Victorville,6/4/2004,1
+Victorville,3/8/2005,1
+Victorville,3/24/2006,1
+Victorville,6/25/2006,1
+Victorville,8/26/2006,1
+Victorville,2/3/2008,1
+Victorville,10/27/2008,1
+Victorville,1/20/2009,1
+Victorville,5/12/2009,1
+Victorville,6/29/2009,1
+Victorville,7/21/2009,1
+Victorville,5/27/2010,1
+Victorville,2/18/2011,1
+Victorville,6/6/2011,1
+Victorville,7/16/2011,1
+Victorville,8/13/2011,1
+Victorville,8/11/2012,1
+Victorville,8/27/2012,1
+Victorville,9/1/2012,1
+Victorville,12/31/2012,1
+Victorville,2/3/2013,1
+Victorville,2/23/2014,1
+Victorville,4/20/2014,1
+Vidal,1/1/2006,1
+Vincent,5/15/1964,1
+Visalia,5/19/1996,1
+Visalia,5/22/2000,1
+Visalia,7/7/2000,1
+Visalia,6/21/2002,1
+Visalia,7/1/2004,1
+Visalia,11/21/2005,1
+Visalia,1/29/2006,1
+Visalia,12/13/2006,1
+Visalia,3/22/2007,1
+Visalia,5/14/2007,1
+Visalia,7/30/2007,1
+Visalia,6/10/2008,1
+Visalia,2/16/2009,1
+Visalia,6/4/2009,1
+Visalia,3/1/2010,1
+Visalia,6/9/2010,1
+Visalia,8/15/2010,1
+Visalia,8/24/2010,1
+Visalia,3/13/2011,1
+Visalia,4/14/2011,1
+Visalia,5/8/2011,1
+Visalia,6/29/2011,1
+Visalia,9/4/2011,1
+Visalia,11/21/2011,1
+Visalia,11/24/2011,1
+Visalia,10/6/2012,1
+Visalia,5/7/2014,1
+Vista,6/15/1956,1
+Vista,5/9/1995,1
+Vista,7/20/1995,1
+Vista,1/2/2000,1
+Vista,8/21/2001,1
+Vista,12/18/2001,1
+Vista,7/4/2002,1
+Vista,11/22/2003,2
+Vista,3/14/2004,1
+Vista,5/13/2005,1
+Vista,6/27/2006,1
+Vista,9/25/2006,1
+Vista,11/16/2006,1
+Vista,2/24/2007,1
+Vista,9/21/2007,1
+Vista,12/29/2007,1
+Vista,12/30/2007,1
+Vista,11/17/2008,1
+Vista,11/20/2009,1
+Vista,1/7/2011,1
+Vista,3/5/2011,1
+Vista,8/8/2011,1
+Vista,9/22/2011,1
+Vista,10/7/2012,1
+Vista,12/27/2013,1
+Vista,3/7/2014,1
+Walnut,9/12/2000,1
+Walnut,7/12/2009,1
+Walnut,4/24/2014,1
+Walnut Creek,7/7/1954,1
+Walnut Creek,6/1/1988,1
+Walnut Creek,2/13/1999,1
+Walnut Creek,11/18/2000,1
+Walnut Creek,12/16/2000,1
+Walnut Creek,5/15/2002,1
+Walnut Creek,6/24/2002,1
+Walnut Creek,12/19/2002,1
+Walnut Creek,2/4/2003,1
+Walnut Creek,9/4/2003,1
+Walnut Creek,10/7/2003,1
+Walnut Creek,11/28/2003,1
+Walnut Creek,12/5/2006,1
+Walnut Creek,1/14/2007,1
+Walnut Creek,1/13/2009,1
+Walnut Creek,5/8/2011,1
+Walnut Creek,3/5/2014,1
+Waterford,8/15/1968,1
+Waterloo,5/1/2013,1
+Watsonville,4/11/1998,1
+Watsonville,12/3/1999,1
+Watsonville,8/10/2001,1
+Watsonville,11/10/2003,1
+Watsonville,3/27/2004,1
+Watsonville,9/4/2004,1
+Watsonville,9/26/2005,1
+Watsonville,8/22/2010,1
+Watsonville,1/27/2011,1
+Watsonville,1/3/2012,1
+Watsonville,5/5/2013,1
+Watsonville,12/24/2013,1
+Weaverville,11/27/2009,1
+Weaverville,8/15/2010,1
+Weaverville,1/1/2013,1
+Weaverville,1/3/2013,1
+Weed,10/31/1981,1
+Weldon,11/27/1999,1
+Weldon,8/11/2002,1
+West Sacramento,3/8/2011,1
+West Sacramento,6/6/2013,1
+West Sacramento,7/5/2013,1
+West Sacramento,7/12/2013,1
+West Sacramento,7/16/2013,1
+Westlake Village,11/14/2001,1
+Westminster,1/1/1977,1
+Westminster,8/7/1999,1
+Westminster,1/26/2000,1
+Westminster,12/23/2003,1
+Westminster,2/9/2006,1
+Westminster,5/4/2006,1
+Westminster,11/8/2006,1
+Westminster,11/18/2006,1
+Westminster,1/18/2009,1
+Westminster,9/25/2011,1
+Westminster,7/4/2012,1
+Westminster,11/11/2012,1
+Westminster,3/23/2013,1
+Westminster,6/20/2013,1
+Westminster,1/18/2014,1
+Westmorland,2/2/2006,1
+Westwood,6/1/1983,1
+Westwood,9/23/1991,1
+Westwood,12/28/2007,1
+Westwood,1/2/2008,1
+Whittier,6/16/1965,1
+Whittier,3/1/1967,1
+Whittier,6/30/1968,1
+Whittier,7/1/1969,1
+Whittier,6/30/1977,1
+Whittier,8/1/1977,1
+Whittier,7/16/1988,1
+Whittier,5/15/1993,1
+Whittier,3/10/1994,1
+Whittier,2/20/2001,1
+Whittier,3/18/2001,1
+Whittier,9/26/2001,1
+Whittier,8/3/2002,1
+Whittier,8/30/2003,1
+Whittier,10/30/2003,1
+Whittier,9/11/2005,1
+Whittier,3/3/2006,1
+Whittier,3/10/2006,3
+Whittier,3/11/2006,2
+Whittier,4/22/2006,1
+Whittier,12/31/2006,1
+Whittier,3/31/2007,1
+Whittier,2/11/2008,1
+Whittier,11/23/2008,1
+Whittier,1/29/2009,1
+Whittier,6/19/2009,1
+Whittier,1/4/2010,1
+Whittier,1/15/2010,1
+Whittier,8/1/2010,1
+Whittier,2/6/2011,1
+Whittier,8/22/2011,1
+Whittier,11/12/2011,1
+Whittier,7/18/2012,1
+Whittier,2/23/2013,1
+Whittier,9/5/2013,1
+Whittier,9/28/2013,1
+Whittier,11/6/2013,1
+Whittier,4/26/2014,1
+Wildomar,8/19/2000,1
+Wildomar,10/5/2004,1
+Wildomar,1/6/2011,4
+Wildomar,11/20/2011,1
+Wildomar,4/10/2012,1
+Wildomar,9/16/2012,1
+Wildomar,3/18/2014,1
+Williams,6/1/1975,1
+Williams,9/28/2007,1
+Willits,5/15/1983,1
+Willits,7/15/1990,1
+Willits,5/11/2001,1
+Willits,1/21/2004,3
+Willits,4/24/2005,1
+Willits,6/26/2011,1
+Willits,1/18/2014,1
+Willits,4/11/2014,1
+Willow Creek,7/1/1997,1
+Willow Creek,8/2/2005,1
+Willow Creek,9/2/2005,1
+Willow Creek,1/24/2006,1
+Wilmington,7/15/1952,1
+Wilmington,1/20/2000,1
+Wilmington,7/15/2001,1
+Wilmington,7/27/2002,1
+Wilmington,7/31/2003,1
+Wilmington,8/1/2003,1
+Wilmington,8/7/2003,1
+Wilmington,3/27/2004,1
+Wilmington,5/10/2005,1
+Wilmington,7/9/2005,1
+Wilmington,7/22/2005,1
+Wilmington,8/5/2005,1
+Wilmington,4/5/2009,1
+Wilmington,4/21/2009,1
+Wilmington,5/2/2010,1
+Wilton,5/10/1980,1
+Winchester,6/30/1993,1
+Winchester,6/15/1997,1
+Winchester,7/20/1998,1
+Winchester,2/5/2004,1
+Winchester,6/16/2008,1
+Windsor,11/27/1998,1
+Windsor,12/17/1999,1
+Windsor,3/31/2002,1
+Windsor,7/28/2003,1
+Windsor,4/21/2004,1
+Windsor,1/1/2007,4
+Windsor,9/16/2013,1
+Windsor,3/22/2014,1
+Winterhaven,3/25/1978,1
+Woodland,11/25/1995,1
+Woodland,6/1/1998,1
+Woodland,8/12/1999,1
+Woodland,7/7/2000,1
+Woodland,10/30/2000,2
+Woodland,12/19/2000,1
+Woodland,12/25/2000,1
+Woodland,1/1/2001,2
+Woodland,6/26/2001,1
+Woodland,8/17/2003,1
+Woodland,5/30/2004,1
+Woodland,7/14/2004,1
+Woodland,2/10/2005,1
+Woodland,7/25/2005,1
+Woodland,11/3/2005,1
+Woodland,3/6/2006,1
+Woodland,12/24/2006,1
+Woodland,6/18/2007,1
+Woodland,4/27/2008,1
+Woodland,8/13/2008,1
+Woodland,10/4/2008,1
+Woodland,1/6/2009,1
+Woodland,2/15/2009,1
+Woodland,3/14/2009,1
+Woodland,3/15/2009,1
+Woodland,4/17/2010,1
+Woodland,7/1/2011,1
+Woodland,11/21/2011,2
+Woodland Hills,6/15/1965,1
+Woodland Hills,9/20/1967,1
+Woodland Hills,6/10/1968,1
+Woodland Hills,4/11/1998,1
+Woodland Hills,4/28/2003,1
+Woodland Hills,9/1/2003,1
+Woodland Hills,11/16/2003,1
+Woodland Hills,4/26/2004,1
+Woodland Hills,2/13/2006,1
+Woodland Hills,6/30/2006,1
+Woodland Hills,7/15/2006,1
+Woodland Hills,9/22/2007,1
+Woodland Hills,9/10/2008,1
+Woodland Hills,11/17/2009,1
+Woodland Hills,2/19/2010,1
+Woodland Hills,5/3/2011,1
+Woodland Hills,5/20/2011,1
+Woodland Hills,8/13/2011,1
+Woodland Hills,2/7/2014,1
+Wrightwood,6/20/1998,1
+Wrightwood,9/16/2011,1
+Wrightwood,10/29/2011,1
+Yorba Linda,6/30/1975,1
+Yorba Linda,4/24/2000,1
+Yorba Linda,8/16/2000,1
+Yorba Linda,4/17/2001,1
+Yorba Linda,1/31/2004,1
+Yorba Linda,12/12/2004,1
+Yorba Linda,9/22/2005,2
+Yorba Linda,7/20/2006,1
+Yorba Linda,8/16/2006,1
+Yorba Linda,11/5/2006,1
+Yorba Linda,6/23/2007,1
+Yorba Linda,8/30/2007,1
+Yorba Linda,1/26/2008,3
+Yorba Linda,1/19/2009,1
+Yorba Linda,2/28/2009,1
+Yorba Linda,4/23/2010,1
+Yorba Linda,8/30/2010,1
+Yorba Linda,9/21/2010,1
+Yorba Linda,12/6/2010,1
+Yorba Linda,2/18/2011,1
+Yorba Linda,7/4/2012,1
+Yorba Linda,5/29/2013,1
+Yorba Linda,6/22/2013,1
+Yorba Linda,4/30/2014,1
+Yosemite Lakes,7/1/1975,1
+Yosemite Lakes,8/13/1998,1
+Yosemite Lakes,2/27/1999,1
+Yosemite Lakes,7/13/2011,1
+Yosemite Lakes,6/11/2012,1
+Yosemite National Park,7/5/1985,1
+Yosemite National Park,7/7/1985,1
+Yosemite National Park,4/10/1992,1
+Yosemite National Park,7/20/1992,1
+Yosemite National Park,8/9/1999,1
+Yosemite National Park,6/19/2000,1
+Yosemite National Park,8/8/2001,1
+Yosemite National Park,9/19/2002,1
+Yosemite National Park,5/16/2003,1
+Yosemite National Park,4/1/2004,1
+Yosemite National Park,7/9/2004,1
+Yosemite National Park,7/9/2005,1
+Yosemite National Park,7/15/2006,1
+Yosemite National Park,8/2/2006,1
+Yosemite National Park,8/13/2010,1
+Yountville,12/25/2013,1
+Yuba City,10/29/1998,1
+Yuba City,11/30/2002,1
+Yuba City,6/28/2003,1
+Yuba City,11/28/2004,1
+Yuba City,3/8/2005,1
+Yuba City,5/9/2006,1
+Yuba City,12/3/2006,1
+Yuba City,7/15/2007,1
+Yuba City,9/15/2010,1
+Yuba City,8/19/2011,1
+Yuba City,1/1/2012,1
+Yuba City,11/16/2013,1
+Yuba City,12/7/2013,1
+Yuba City,2/14/2014,1
+Yucca Valley,6/1/1967,1
+Yucca Valley,6/1/1991,1
+Yucca Valley,2/1/1997,1
+Yucca Valley,9/22/2000,1
+Yucca Valley,1/6/2002,1
+Yucca Valley,1/18/2003,1
+Yucca Valley,1/15/2004,1
+Yucca Valley,3/15/2005,1
+Yucca Valley,7/9/2008,1
+Yucca Valley,7/21/2011,1
+Zayante,9/23/2004,1
+Zayante,6/15/2007,1
+Zayante,9/29/2008,1
+Zayante,8/8/2011,1

@@ -1,0 +1,21 @@
+ZIP,Category,"$1 under $25,000","$25,000 under $50,000","$50,000 under $75,000","$75,000 under $100,000","$100,000 under $200,000","$200,000 or more"
+0,Number of returns,6336730,3965570,2207030,1411040,2214810,978490
+0,Number of dependents,3614920,3572110,1801870,1124500,1930730,953050
+0,Number of farm returns,6490,6500,6210,5770,12520,10520
+0,Unemployment compensation Nbr of Returns,484480,349450,184060,111950,155590,45730
+0,Overpayments refunded Nbr of Returns,5071130,3166770,1555330,938700,1290200,313530
+90001,Number of returns,13020,6110,1630,420,170,20
+90001,Number of dependents,14420,9520,2660,660,250,30
+90001,Adjusted gross income (AGI),179555,211459,97566,35107,20614,7398
+90001,Unemployment compensation Nbr of Returns,730,390,130,50,**,0
+90001,Overpayments refunded Nbr of Returns,11370,5530,1390,330,120,**
+90002,Number of returns,12010,5330,1430,380,170,**
+90002,Number of dependents,13620,7940,2290,610,240,**
+90002,Number of farm returns,0,0,0,0,0,0
+90002,Unemployment compensation Nbr of Returns,640,340,120,50,**,**
+90002,Overpayments refunded Nbr of Returns,10830,4800,1200,310,110,**
+90003,Number of returns,17130,7110,1750,400,180,**
+90003,Number of dependents,19280,10740,2740,640,260,**
+90003,Number of farm returns,0,0,0,0,0,0
+90003,Unemployment compensation Nbr of Returns,870,430,140,40,**,**
+90003,Overpayments refunded Nbr of Returns,15170,6360,1460,310,110,**
